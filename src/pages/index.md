@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: '**nimdone** - It makes making presentations easier(and much quicker)'
     content: ''
     actions:
       - label: Learn More
