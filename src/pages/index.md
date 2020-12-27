@@ -6,7 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: This Is A Big Hero Headline
-    content: '**nimdone** - It makes making presentations easier(and much quicker)'
+    content: ''
     actions:
       - label: Learn More
         url: /features
