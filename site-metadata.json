@@ -133,5 +133,6 @@
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=azimuth\" target=\"_blank\" rel=\"noopener\">here</a>."
     },
     "title": "nimdone",
-    "domain": "www.nimdone.com"
+    "domain": "www.nimdone.com",
+    "favicon": "images/violet-octopus.jpg"
 }
