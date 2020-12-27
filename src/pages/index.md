@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Medical presentations mad
+    title: Quickest way to make presentations
     content: ''
     actions:
       - label: Learn More
