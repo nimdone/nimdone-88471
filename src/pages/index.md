@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: NIMDONE
     type: section_hero
-    image: images/hero.png
+    image: images/Picture1.png
     image_alt: App preview
     title: A faster way to take notes and make presentations.
     content: ''
