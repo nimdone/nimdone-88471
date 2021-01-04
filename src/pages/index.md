@@ -117,6 +117,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/Screen Shot 2021-01-03 at 9.52.03 PM.png
     type: section_features
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
