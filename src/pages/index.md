@@ -98,7 +98,7 @@ sections:
     background: gray
     title: Latest Posts
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Paper Workflow
     subtitle: lorem-ipsum
     background: gray
     features:
