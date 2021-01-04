@@ -102,7 +102,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Saving Papers from PubMed
         content: >-
           ## Lorem ipsum
 
