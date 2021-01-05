@@ -26,7 +26,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Saves time... lots of it.
+      - title: Saves time... lots of it!
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
