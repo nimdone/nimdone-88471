@@ -8,7 +8,7 @@ sections:
     title: A faster way to take notes and make presentations.
     content: ''
     actions:
-      - label: 'Highlight '
+      - label: ''
         url: /features
         style: primary
       - label: ''
