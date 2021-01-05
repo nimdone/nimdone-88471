@@ -62,7 +62,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: "Step 2 \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Nimdone will capture the selected text/images onto the outline as you move along"
+      - title: "Step 2 \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Edit the outline"
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
