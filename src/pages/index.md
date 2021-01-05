@@ -51,9 +51,8 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Search or Upload PDF, highlight the text you wish to be on the slide
+          or use our snip tool to capture images or tables
         actions:
           - label: Learn More
             url: /features
