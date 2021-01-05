@@ -29,8 +29,10 @@ sections:
       - title: Saves time... lots of it!
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: |2
-           **Nimdone allows quick capture of text from supported files such as PDF's  onto an outline that thematically arranged to make presentation slides. **
+        content: >
+          #  **Nimdone allows quick capture of text from supported files such as
+          PDF's  onto an outline that thematically arranged to make presentation
+          slides. **
         actions:
           - label: Learn More
             url: /features
