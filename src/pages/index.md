@@ -14,7 +14,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: ''
     subtitle: ''
     features:
       - title: The Best Feature of Your Services
