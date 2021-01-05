@@ -11,7 +11,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: ''
         url: lorem-ipsum
         style: link
         has_icon: false
