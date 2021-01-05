@@ -29,10 +29,9 @@ sections:
       - title: Saves time... lots of it.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Nimdone allows quick capture of text from supported files into an
+          outline that is autoarranged into presentation slides. 
         actions:
           - label: Learn More
             url: /features
