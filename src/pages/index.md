@@ -30,8 +30,8 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          Nimdone allows quick capture of text from supported files into an
-          outline that is autoarranged into presentation slides. 
+          *  **Nimdone allows quick capture of text from supported files into an
+          outline that is autoarranged into presentation slides. **
         actions:
           - label: Learn More
             url: /features
