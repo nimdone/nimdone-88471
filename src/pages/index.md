@@ -66,9 +66,8 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Selected text is converted to an easily editable outline where content
+          can be arranged 
         actions:
           - label: Learn More
             url: /features
