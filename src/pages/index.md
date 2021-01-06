@@ -61,6 +61,15 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
       - title: "Step 2 \_ \_ \_ \_ \_ \_ \_ \_ Select text/images from PDF"
         image: images/feature2.png
         image_alt: App users welcoming a new member
