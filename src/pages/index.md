@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/Picture1.png
     image_alt: App preview
-    title: A faster way to take notes and make presentations.
+    title: A faster way to take make presentations.
     content: ''
     actions:
       - label: Learn more
