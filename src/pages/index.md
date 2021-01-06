@@ -76,9 +76,8 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          **The selected PDF's are now in the reader view, highlight the
-          text/figures you want to be on the slides and see the content with
-          citations autopopulating the slides**
+          **Make adjustments to the outline as necessary and see the slides
+          coming together, simultaneously. **
         actions:
           - label: Learn More
             url: /features
