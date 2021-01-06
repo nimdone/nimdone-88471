@@ -127,7 +127,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: nimdone reduced presentation making time by an average of "x" hours
   - section_id: lorem-ipsum
     title: ''
     subtitle: ''
