@@ -23,7 +23,7 @@ sections:
       - label: >-
           Search papers, select content, see slides. An end to end integrated
           experience in making educational presentations
-        url: lorem-ipsum
+        url: ''
         style: secondary
         has_icon: false
         icon: arrow-left
