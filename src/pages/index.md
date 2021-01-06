@@ -20,7 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: 'We have '
+      - label: 'nimdone '
         url: lorem-ipsum
         style: link
         has_icon: false
