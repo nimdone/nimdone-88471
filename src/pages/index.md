@@ -63,8 +63,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Search or Upload PDF, highlight the text you wish to be on the slide
-          or use our snip tool to capture images or tables
+          The selected PDF's are now in the reader view, highlight the
+          text/figures you want to be on the slides and see the content with
+          citations autopopulating the slides
         actions:
           - label: Learn More
             url: /features
