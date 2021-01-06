@@ -77,7 +77,7 @@ sections:
           **Search or Upload PDF, highlight the text you wish to be on the slide
           or use our snip tool to capture images or tables**
         actions:
-          - label: Learn More
+          - label: Watch video
             url: Watch video
             style: secondary
             has_icon: true
