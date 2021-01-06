@@ -84,7 +84,9 @@ sections:
         image_alt: App user profile preview
         content: >-
           **Make adjustments to the outline as necessary and see the slides
-          coming together, simultaneously. **
+          coming together, simultaneously. nimdone will arrange the content from
+          the outline to make beautiful presentations that can be exported as
+          powerpoint **
         actions:
           - label: Learn More
             url: /features
