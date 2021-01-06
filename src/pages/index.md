@@ -77,8 +77,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          Selected text is converted to an easily editable outline where content
-          can be arranged 
+          **The selected PDF's are now in the reader view, highlight the
+          text/figures you want to be on the slides and see the content with
+          citations autopopulating the slides**
         actions:
           - label: Learn More
             url: /features
