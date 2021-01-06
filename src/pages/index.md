@@ -60,7 +60,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: "Step 2 \_ \_ \_ \_ \_ \_ \_ \_ Select text/images from PDF"
+      - title: "Step 2 \_ \_ \_ \_ \_ \_ \_ \_ Work the outline and see the slides coming together"
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
