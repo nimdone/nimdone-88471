@@ -62,7 +62,7 @@ sections:
             no_follow: false
             type: action
           - label: lorem-ipsum
-            url: lorem-ipsum
+            url: Watch video
             style: link
             has_icon: false
             icon: arrow-left
