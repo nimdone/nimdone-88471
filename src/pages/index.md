@@ -73,7 +73,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: "Step 2 \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Edit the outline"
+      - title: "Step 3 \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\_Work the outline and see the slides coming together"
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
