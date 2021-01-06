@@ -20,7 +20,9 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Our singular mission is to save you time.
+      - label: >-
+          Our singular mission is to save you time. Search papers, select
+          content
         url: ''
         style: secondary
         has_icon: false
