@@ -86,7 +86,7 @@ sections:
           **Make adjustments to the outline as necessary and see the slides
           coming together, simultaneously. nimdone will arrange the content from
           the outline to make beautiful presentations that can be exported as
-          powerpoint **
+          powerpoint**
         actions:
           - label: Learn More
             url: /features
