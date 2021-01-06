@@ -1,5 +1,5 @@
 ---
-title: Research method
+title: Research methods
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
