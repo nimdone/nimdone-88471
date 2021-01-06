@@ -27,7 +27,7 @@ sections:
     subtitle: ''
     features:
       - title: Saves time... lots of it!
-        image: images/feature1.png
+        image: images/marvelous-ant.png
         image_alt: App preview on a phone and tablet
         content: >
           **Nimdone allows quick capture of text from supported files such as
