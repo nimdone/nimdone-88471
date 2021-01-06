@@ -88,7 +88,7 @@ sections:
           the outline to make beautiful presentations that can be exported as
           powerpoint**
         actions:
-          - label: Learn More
+          - label: Watch video
             url: /features
             style: secondary
             has_icon: true
