@@ -21,7 +21,7 @@ sections:
         no_follow: false
         type: action
       - label: >-
-          Our singular mission is to save you time. Search papers, select
+          Our singular mission is to save you time. Search papers, Select
           content, see slides. It really is that easy!
         url: ''
         style: secondary
