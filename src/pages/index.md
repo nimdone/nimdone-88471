@@ -80,7 +80,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: "Step 3 \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Edit the outline and see the slides coming together"
-        image: images/feature3.png
+        image: images/Picture4.png
         image_alt: App user profile preview
         content: >-
           **Make adjustments to the outline as necessary and see the slides
