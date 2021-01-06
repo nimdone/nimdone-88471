@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "cyan",
     "header": {
-        "logo_img": "images/logo_4.jpg",
+        "logo_img": "images/Frame 241.svg",
         "logo_img_alt": "nimdone",
         "has_nav": true,
         "nav_links": [
