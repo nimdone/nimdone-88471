@@ -37,7 +37,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Saves time... lots of it!
+      - title: "Step 1. \_ \_ \_ \_ \_ \_ \_ \_ Select text/images from PDF"
         image: images/marvelous-ant.png
         image_alt: App preview on a phone and tablet
         content: >
