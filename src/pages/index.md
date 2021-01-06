@@ -121,7 +121,7 @@ sections:
     title: Get started with nimdone
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Try for free
         url: /signup
         style: primary
   - section_id: recent-posts
