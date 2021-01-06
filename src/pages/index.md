@@ -67,7 +67,7 @@ sections:
             no_follow: false
             type: action
       - title: "Step 2 \_ \_ \_ \_ \_ \_ \_ \_ Select text/images from PDF"
-        image: images/feature2.png
+        image: images/robust-iron.png
         image_alt: App users welcoming a new member
         content: >-
           **Search or Upload PDF, highlight the text you wish to be on the slide
