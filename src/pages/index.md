@@ -41,9 +41,8 @@ sections:
         image: images/marvelous-ant.png
         image_alt: App preview on a phone and tablet
         content: >
-          **Nimdone allows quick capture of text from supported files such as
-          PDF's  onto an outline that thematically arranged to make presentation
-          slides. **
+          **Search or Upload PDF, highlight the text you wish to be on the slide
+          or use our snip tool to capture images or tables**
         actions:
           - label: Learn More
             url: /features
