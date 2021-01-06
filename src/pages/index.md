@@ -78,7 +78,7 @@ sections:
           or use our snip tool to capture images or tables**
         actions:
           - label: Learn More
-            url: /features
+            url: Watch video
             style: secondary
             has_icon: true
             icon: arrow-right
