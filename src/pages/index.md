@@ -22,7 +22,7 @@ sections:
         type: action
       - label: >-
           Our singular mission is to save you time. Search papers, Select
-          content, see slides. It really is that easy!
+          content, See slides. It really is that easy!
         url: ''
         style: secondary
         has_icon: false
