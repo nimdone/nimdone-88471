@@ -59,7 +59,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Step 2
+      - title: "Step 2\_Select text/images from PDF"
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
