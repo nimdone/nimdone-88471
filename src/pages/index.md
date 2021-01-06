@@ -20,9 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: >-
-          Search papers, select content, see slides. An end to end integrated
-          experience in making educational presentations
+      - label: Our singular mission is to save you time.
         url: ''
         style: secondary
         has_icon: false
