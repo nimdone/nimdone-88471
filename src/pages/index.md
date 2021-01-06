@@ -20,7 +20,9 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: 'Search papers, select content, see slides. An end to end integrated '
+      - label: >-
+          Search papers, select content, see slides. An end to end integrated
+          experience in making educational presentations
         url: lorem-ipsum
         style: link
         has_icon: false
