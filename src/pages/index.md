@@ -20,7 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: 'Search papers to '
+      - label: 'Search papers, select content, '
         url: lorem-ipsum
         style: link
         has_icon: false
