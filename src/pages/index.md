@@ -79,7 +79,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: "Step 3 \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Edit the outline and see the slides coming together"
+      - title: Edit the outline and see the slides coming together
         image: images/Picture4.png
         image_alt: App user profile preview
         content: >-
