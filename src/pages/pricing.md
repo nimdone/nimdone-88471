@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Faculty
-        subtitle: For medium-sized businesses
+        subtitle: ''
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
