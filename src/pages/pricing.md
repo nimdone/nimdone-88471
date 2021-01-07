@@ -8,7 +8,7 @@ sections:
     subtitle: ''
     pricing_plans:
       - title: Students
-        subtitle: For small businesses
+        subtitle: ''
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
