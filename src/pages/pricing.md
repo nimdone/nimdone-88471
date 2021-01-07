@@ -18,7 +18,7 @@ sections:
       - title: Faculty
         subtitle: ''
         price: USD8/month
-        details: USD 96/year
+        details: charged annually
         highlight: true
         actions:
           - label: Order Now
