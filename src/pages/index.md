@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/Picture2.png
     image_alt: App preview
-    title: A faster way to take make presentations.
+    title: "A faster way to \_make presentations."
     content: ''
     actions:
       - label: Learn more
