@@ -27,11 +27,7 @@ sections:
       - title: Enterprise
         subtitle: ''
         price: Call us
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: We would love to give you the product tour and chat with you
         actions:
           - label: Order Now
             url: /signup
