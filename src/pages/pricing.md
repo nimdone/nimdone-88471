@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Faculty
-        subtitle: USD 9/month
+        subtitle: ''
         price: $8/month
         details: USD 96/year
         highlight: true
