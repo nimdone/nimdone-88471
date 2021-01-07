@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Faculty
         subtitle: USD 9/month
-        price: $49/m
+        price: $8/month
         details: USD 96/year
         highlight: true
         actions:
