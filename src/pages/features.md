@@ -32,7 +32,7 @@ sections:
     title: >-
       Average medical presentation can take several hours to even weeks. See how
       we save time
-    subtitle: This is an optional description for the call to action block.
+    subtitle: ''
     actions:
       - label: Get Started
         url: '#'
