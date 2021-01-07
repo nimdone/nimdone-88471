@@ -22,12 +22,7 @@ sections:
       - title: Faculty
         subtitle: USD 9/month
         price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: Paid annualy
         highlight: true
         actions:
           - label: Order Now
