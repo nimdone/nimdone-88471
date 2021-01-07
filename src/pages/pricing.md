@@ -10,11 +10,7 @@ sections:
       - title: Students
         subtitle: ''
         price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: USD 48/year
         actions:
           - label: Order Now
             url: /signup
