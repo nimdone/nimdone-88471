@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Faculty
-        subtitle: ''
+        subtitle: USD 9/month
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
