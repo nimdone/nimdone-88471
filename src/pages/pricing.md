@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Students
         subtitle: ''
-        price: USD 4
+        price: USD 4/month
         details: USD 48/year
         actions:
           - label: Order Now
