@@ -7,7 +7,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "",
+                "label": "Menu",
                 "url": "/www.nimdone.com",
                 "style": "link",
                 "has_icon": true
