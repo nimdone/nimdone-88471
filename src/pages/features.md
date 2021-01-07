@@ -8,20 +8,18 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Let nimdone be your slide assistant
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      1. **nimdone** allows direct .pdf access through PubMed. Now you can save
+      .pdf files directly onto your desktop or associate it with projects
 
+      2. Open the .pdf files in our reader view and start selecting the text,
+      figures, tables or anything you want on your slides
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      3. **nimdone** will autoarrange the content you have selected, place the
+      appropriate citations and have the slides ready
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      4. Export as powerpoint 
 
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      5. Say with us "a**n**d **I** a**m done**"
     actions:
       - label: Free Trial
         url: /signup
