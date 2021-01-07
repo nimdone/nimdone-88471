@@ -24,7 +24,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Institutions
+      - title: Enterprise
         subtitle: ''
         price: Call us
         details: |-
