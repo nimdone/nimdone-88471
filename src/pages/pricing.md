@@ -7,7 +7,7 @@ sections:
     title: Pricing
     subtitle: ''
     pricing_plans:
-      - title: Basic
+      - title: Students
         subtitle: For small businesses
         price: $5/m
         details: |-
