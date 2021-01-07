@@ -37,7 +37,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: "Step 1 \_ \_ \_ \_ \_ \_ \_ \_Search PubMed"
+      - title: Search PubMed
         image: images/Picture3.png
         image_alt: App preview on a phone and tablet
         content: '**Search PubMed for the papers and nimdone will extract the PDF**'
