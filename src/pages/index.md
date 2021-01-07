@@ -79,7 +79,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Edit the outline and see the slides coming together
+      - title: See the slides...
         image: images/Picture4.png
         image_alt: App user profile preview
         content: >-
