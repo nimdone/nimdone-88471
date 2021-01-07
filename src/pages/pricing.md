@@ -17,7 +17,7 @@ sections:
             style: secondary
       - title: Faculty
         subtitle: ''
-        price: $8/month
+        price: USD8/month
         details: USD 96/year
         highlight: true
         actions:
