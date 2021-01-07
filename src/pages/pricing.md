@@ -34,7 +34,7 @@ sections:
             url: /signup
             style: primary
       - title: Institutions
-        subtitle: For very large businesses
+        subtitle: ''
         price: $149/m
         details: |-
           * Vestibulum non eros quis
