@@ -22,7 +22,7 @@ sections:
       - title: Faculty
         subtitle: USD 9/month
         price: $49/m
-        details: Paid annualy
+        details: Paid annually
         highlight: true
         actions:
           - label: Order Now
