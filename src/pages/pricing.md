@@ -10,7 +10,7 @@ sections:
       - title: Students
         subtitle: ''
         price: USD 4/month
-        details: USD 48/year
+        details: charged annually
         actions:
           - label: Order Now
             url: /signup
