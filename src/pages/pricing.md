@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Students
         subtitle: ''
-        price: $5/m
+        price: USD 5/m
         details: USD 48/year
         actions:
           - label: Order Now
