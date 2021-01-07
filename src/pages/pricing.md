@@ -35,7 +35,7 @@ sections:
             style: primary
       - title: Institutions
         subtitle: ''
-        price: $149/m
+        price: Call us
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
