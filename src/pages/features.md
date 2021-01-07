@@ -29,7 +29,9 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
+    title: >-
+      Average medical presentation can take several hours to even weeks. See how
+      we save time
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
