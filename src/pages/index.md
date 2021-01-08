@@ -38,7 +38,9 @@ sections:
       - title: Search PubMed
         image: images/Picture3.png
         image_alt: App preview on a phone and tablet
-        content: '**Search PubMed for the papers and nimdone will extract the PDF**'
+        content: >-
+          **Search PubMed for the papers and nimdone will extract the PDF. These
+          can be saved and organized as a library**
         actions:
           - label: Watch video
             url: /features
