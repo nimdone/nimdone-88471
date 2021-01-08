@@ -81,10 +81,8 @@ sections:
         image: images/Picture4.png
         image_alt: App user profile preview
         content: >-
-          **Make adjustments to the outline as necessary and see the slides
-          coming together, simultaneously. nimdone will arrange the content from
-          the outline to make beautiful presentations that can be exported as
-          powerpoint**
+          **Your selected content will be autoarranged into beautiful
+          presentations that can be exported as powerpoint**
         actions:
           - label: Watch video
             url: /features
