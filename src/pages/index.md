@@ -123,7 +123,9 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: nimdone reduced presentation making time by an average of "x" hours
+    title: >-
+      Presentations are an important way faculty and students are evaluated.
+      Time saved in making the slides can be used in preparing for the talk!
   - section_id: lorem-ipsum
     title: ''
     subtitle: ''
