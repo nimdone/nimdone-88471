@@ -68,8 +68,8 @@ sections:
         image: images/robust-iron.png
         image_alt: App users welcoming a new member
         content: >-
-          **Search or Upload PDF, highlight the text you wish to be on the slide
-          or use our snip tool to capture images or tables**
+          **Mark the the text or use our inbuilt snip tool to capture images or
+          tables you want on the slide**
         actions:
           - label: Watch video
             url: Watch video
