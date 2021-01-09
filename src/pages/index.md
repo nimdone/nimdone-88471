@@ -103,12 +103,9 @@ sections:
         content: >-
           Moving data from one place to another, cutting/pasting images is very
           tedious
-      - author: Jane Roe
+      - author: 'Leonidas P MD Teaching faculty, Albert Einstein College of Medicine'
         avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+        content: 'Formatting, bringing in citations is annoying'
       - author: Richard Roe
         avatar: images/review3.jpg
         content: >-
