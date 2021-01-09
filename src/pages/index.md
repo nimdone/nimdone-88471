@@ -127,7 +127,7 @@ sections:
     background: gray
     title: >-
       Presentations are an important way faculty and students are evaluated.
-      Time saved in making the slides can be used in preparing for the talk!
+      Time saved in making the slides allows for more time to focus on the talk!
   - section_id: lorem-ipsum
     title: ''
     subtitle: ''
