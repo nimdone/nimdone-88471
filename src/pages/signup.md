@@ -1,5 +1,5 @@
 ---
-title: Legal policy
+title: Privacy policy
 subtitle: ''
 image: images/11.jpg
 image_alt: Office desk top view
