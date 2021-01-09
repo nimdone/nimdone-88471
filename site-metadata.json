@@ -38,10 +38,10 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/Frame 241.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": ""
             },
             {
                 "type": "footer_nav",
@@ -58,7 +58,7 @@
                         "style": "link"
                     },
                     {
-                        "label": "Sign Up",
+                        "label": "Disclaimer",
                         "url": "/signup",
                         "style": "link"
                     },
@@ -90,7 +90,7 @@
                         "icon_position": "left"
                     },
                     {
-                        "label": "GitHub",
+                        "label": "Facebook",
                         "url": "https://github.com/",
                         "style": "link",
                         "has_icon": true,

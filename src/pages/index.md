@@ -20,9 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: >-
-          Our singular mission is to save you time. Search papers, Select
-          content, See slides. It really is that easy!
+      - label: "Our singular mission is to save you time. \_We also made making presentations fun!"
         url: ''
         style: secondary
         has_icon: false
@@ -40,7 +38,9 @@ sections:
       - title: Search PubMed
         image: images/Picture3.png
         image_alt: App preview on a phone and tablet
-        content: '**Search PubMed for the papers and nimdone will extract the PDF**'
+        content: >-
+          **Search PubMed for the papers and nimdone will extract the PDF. These
+          can be saved and organized as a library**
         actions:
           - label: Watch video
             url: /features
@@ -70,8 +70,8 @@ sections:
         image: images/robust-iron.png
         image_alt: App users welcoming a new member
         content: >-
-          **Search or Upload PDF, highlight the text you wish to be on the slide
-          or use our snip tool to capture images or tables**
+          **Mark the the text or use our inbuilt snip tool to capture images or
+          tables you want on the slide**
         actions:
           - label: Watch video
             url: Watch video
@@ -83,10 +83,8 @@ sections:
         image: images/Picture4.png
         image_alt: App user profile preview
         content: >-
-          **Make adjustments to the outline as necessary and see the slides
-          coming together, simultaneously. nimdone will arrange the content from
-          the outline to make beautiful presentations that can be exported as
-          powerpoint**
+          **Your selected content will be autoarranged into beautiful
+          presentations that can be exported as powerpoint**
         actions:
           - label: Watch video
             url: /features
@@ -97,25 +95,20 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: How do users feel about making slides?
     subtitle: ''
     reviews:
-      - author: John Doe
+      - author: 'Lohit G, MD Chief Resident, U Conn Medical Center'
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
+          Moving data from one place to another, cutting/pasting images is very
+          tedious
+      - author: 'Leonidas P MD Teaching faculty, Albert Einstein College of Medicine'
         avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
+        content: 'Formatting, bringing in citations is annoying'
+      - author: 'Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School'
         avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        content: 'Insert a figure, resize, add arrows; it is a tedious process'
   - section_id: call-to-action
     type: section_cta
     title: Get started with nimdone
@@ -127,7 +120,9 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: nimdone reduced presentation making time by an average of "x" hours
+    title: >-
+      Presentations are an important way faculty and students are evaluated.
+      Time saved in making the slides allows for more time to focus on the talk!
   - section_id: lorem-ipsum
     title: ''
     subtitle: ''
