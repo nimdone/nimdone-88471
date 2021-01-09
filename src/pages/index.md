@@ -106,11 +106,9 @@ sections:
       - author: 'Leonidas P MD Teaching faculty, Albert Einstein College of Medicine'
         avatar: images/review2.jpg
         content: 'Formatting, bringing in citations is annoying'
-      - author: Richard Roe
+      - author: 'Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School'
         avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        content: 'Insert a figure, resize, add arrows; it is a tedious process'
   - section_id: call-to-action
     type: section_cta
     title: Get started with nimdone
