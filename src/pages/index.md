@@ -100,7 +100,7 @@ sections:
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
-        content: ''
+        content: 'Moving data from one place to another, cutting'
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
