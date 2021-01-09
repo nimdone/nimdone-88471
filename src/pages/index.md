@@ -98,7 +98,7 @@ sections:
     title: How do users feel about making slides?
     subtitle: ''
     reviews:
-      - author: John Doe
+      - author: 'Lohit '
         avatar: images/review1.jpg
         content: >-
           Moving data from one place to another, cutting/pasting images is very
