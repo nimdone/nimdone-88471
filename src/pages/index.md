@@ -95,7 +95,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: How do users feel about making slides?
     subtitle: ''
     reviews:
       - author: John Doe
