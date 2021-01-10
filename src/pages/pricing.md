@@ -7,7 +7,7 @@ sections:
     title: Pricing
     subtitle: ''
     pricing_plans:
-      - title: Occasional press
+      - title: Sporadic
         subtitle: Pay per use
         price: USD 25/presentation
         details: 'no expiration, billed as one payment. Cancel anytime'
