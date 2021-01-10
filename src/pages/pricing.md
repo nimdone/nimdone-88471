@@ -10,7 +10,7 @@ sections:
       - title: Students
         subtitle: ''
         price: USD 4/month
-        details: charged annually
+        details: 'Charged annually, billed as one payment. Cancel anytime'
         actions:
           - label: Order Now
             url: /signup
