@@ -27,7 +27,7 @@ sections:
             url: /signup
             style: primary
       - title: Enterprise
-        subtitle: Enterprise
+        subtitle: ''
         price: Call us
         details: We would love to give you the product tour and chat with you
         actions:
