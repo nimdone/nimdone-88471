@@ -37,7 +37,7 @@ sections:
       - title: Students
         subtitle: unlimited use
         price: USD 4/month
-        details: 'verification needed, billed annually'
+        details: 'verification needed, billed annually, cancel anytime'
         highlight: false
         actions: []
         type: pricing_plan
