@@ -15,7 +15,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Regular
+      - title: Plan B
         subtitle: ''
         price: USD 25/presentation
         details: >-
