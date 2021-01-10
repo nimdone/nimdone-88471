@@ -17,7 +17,7 @@ sections:
             style: secondary
       - title: Faculty
         subtitle: ''
-        price: USD8/month
+        price: USD 8/month
         details: 'Charged annually, billed as one payment. Cancel anytime'
         highlight: true
         actions:
