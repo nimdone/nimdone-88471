@@ -29,7 +29,7 @@ sections:
       - title: Enterprise
         subtitle: ''
         price: Call us
-        details: We would love to give you the product tour and chat with you
+        details: we would love to give you the product tour and chat with you
         actions:
           - label: Order Now
             url: /signup
