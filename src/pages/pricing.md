@@ -26,7 +26,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: Plan c
         subtitle: ''
         price: Call us
         details: We would love to give you the product tour and chat with you
