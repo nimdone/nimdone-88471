@@ -20,7 +20,7 @@ sections:
         price: USD 15/presentation
         details: >-
           charged as a bundle, upto 10 presentations, no expiration, billed as
-          one payment. Cancel anytime
+          one payment,cancel anytime
         highlight: true
         actions:
           - label: Order Now
