@@ -8,7 +8,7 @@ sections:
     subtitle: ''
     pricing_plans:
       - title: Plan A
-        subtitle: ''
+        subtitle: 5 presentations per year
         price: USD 9.99/month
         details: 'Charged annually, billed as one payment. Cancel anytime'
         actions:
