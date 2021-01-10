@@ -19,7 +19,7 @@ sections:
             style: secondary
       - title: Plan B
         subtitle: 6-10 presentations per year
-        price: USD 24.99/month
+        price: USD 25/presentation
         details: >-
           Charged as a bundle, upto 5 presentations, no expiration, billed as
           one payment. Cancel anytime
