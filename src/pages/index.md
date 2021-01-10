@@ -66,7 +66,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Select text/images from PDF
+      - title: 'Select text, tables and images from PDF'
         image: images/robust-iron.png
         image_alt: App users welcoming a new member
         content: >-
