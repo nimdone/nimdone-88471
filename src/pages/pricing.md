@@ -27,7 +27,7 @@ sections:
             url: /signup
             style: primary
       - title: Plan C
-        subtitle: 'If you intend to use more than 10 times '
+        subtitle: ''
         price: USD 10/month
         details: We would love to give you the product tour and chat with you
         actions:
