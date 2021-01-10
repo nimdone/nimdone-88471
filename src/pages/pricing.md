@@ -17,7 +17,7 @@ sections:
             style: secondary
       - title: Plan B
         subtitle: Purchase a bundle of 10 presentations
-        price: USD 10/presentation
+        price: USD 15/presentation
         details: >-
           Charged as a bundle, upto 10 presentations, no expiration, billed as
           one payment. Cancel anytime
