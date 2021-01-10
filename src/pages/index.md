@@ -35,7 +35,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Search PubMed
+      - title: Easy access to PDF files on PubMed
         image: images/Picture3.png
         image_alt: App preview on a phone and tablet
         content: >-
