@@ -10,7 +10,9 @@ sections:
       - title: Plan A
         subtitle: 5 presentations per year
         price: USD 9.99/month
-        details: 'Charged annually, billed as one payment. Cancel anytime'
+        details: >-
+          Charged as a bundle, upto 5 presentations, no expiration, billed as
+          one payment. Cancel anytime
         actions:
           - label: Order Now
             url: /signup
