@@ -16,7 +16,7 @@ sections:
             url: /signup
             style: secondary
       - title: Plan B
-        subtitle: 6-10 presentations per year
+        subtitle: B
         price: USD 25/presentation
         details: >-
           Charged as a bundle, upto 5 presentations, no expiration, billed as
