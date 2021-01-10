@@ -28,7 +28,7 @@ sections:
             style: primary
       - title: Plan C
         subtitle: Heavy use
-        price: 10/month
+        price: USD 10/month
         details: We would love to give you the product tour and chat with you
         actions:
           - label: Order Now
