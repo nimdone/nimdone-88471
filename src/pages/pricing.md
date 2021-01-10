@@ -35,7 +35,7 @@ sections:
             url: /signup
             style: secondary
       - title: Students
-        subtitle: lorem-ipsum
+        subtitle: unlimited use
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
