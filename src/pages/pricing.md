@@ -15,7 +15,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Plan B
+      - title: Frequent
         subtitle: Purchase a bundle of 10 presentations
         price: USD 15/presentation
         details: >-
