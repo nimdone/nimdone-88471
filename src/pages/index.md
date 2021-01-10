@@ -72,7 +72,7 @@ sections:
         content: >-
           **Mark the the text or use our inbuilt snip tool to capture images or
           tables and nimdone will autopopulate the slide with the selected
-          content.**
+          content along with the imported citations**
         actions:
           - label: Watch video
             url: Watch video
