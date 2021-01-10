@@ -15,7 +15,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Faculty
+      - title: Plan B
         subtitle: ''
         price: USD 19.99/month
         details: 'Charged annually, billed as one payment. Cancel anytime'
