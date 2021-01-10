@@ -28,7 +28,7 @@ sections:
             style: primary
       - title: Plan C
         subtitle: ''
-        price: USD 10/month
+        price: Call us
         details: We would love to give you the product tour and chat with you
         actions:
           - label: Order Now
