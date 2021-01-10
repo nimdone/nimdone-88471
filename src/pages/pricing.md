@@ -7,18 +7,20 @@ sections:
     title: Pricing
     subtitle: ''
     pricing_plans:
-      - title: Students
-        subtitle: ''
-        price: USD 9.99/month
-        details: 'Charged annually, billed as one payment. Cancel anytime'
+      - title: Sporadic
+        subtitle: Pay per use
+        price: USD 25/presentation
+        details: 'no expiration, billed as one payment,cancel anytime'
         actions:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Faculty
-        subtitle: ''
-        price: USD 19.99/month
-        details: 'Charged annually, billed as one payment. Cancel anytime'
+      - title: Frequent
+        subtitle: Purchase a bundle of 10 presentations
+        price: USD 19/presentation
+        details: >-
+          charged as a bundle, upto 10 presentations, no expiration, billed as
+          one payment,cancel anytime
         highlight: true
         actions:
           - label: Order Now
@@ -32,6 +34,13 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
+      - title: Students
+        subtitle: unlimited use
+        price: USD 4/month
+        details: 'verification needed, billed annually, cancel anytime'
+        highlight: false
+        actions: []
+        type: pricing_plan
   - section_id: faq
     type: section_faq
     background: gray
