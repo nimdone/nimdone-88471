@@ -19,7 +19,7 @@ sections:
         subtitle: Purchase a bundle of 10 presentations
         price: USD 10/presentation
         details: >-
-          Charged as a bundle, upto 5 presentations, no expiration, billed as
+          Charged as a bundle, upto 10 presentations, no expiration, billed as
           one payment. Cancel anytime
         highlight: true
         actions:
