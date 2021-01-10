@@ -8,7 +8,7 @@ sections:
     subtitle: ''
     pricing_plans:
       - title: Plan A
-        subtitle: Pay as you use
+        subtitle: Pay per use
         price: USD 25/presentation
         details: 'no expiration, billed as one payment. Cancel anytime'
         actions:
