@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Students
         subtitle: ''
-        price: USD 4/month
+        price: USD 9.99/month
         details: 'Charged annually, billed as one payment. Cancel anytime'
         actions:
           - label: Order Now
