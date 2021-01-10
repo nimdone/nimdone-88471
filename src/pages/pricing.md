@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Plan A
         subtitle: 5 presentations per year
-        price: 19.99 USD per presentation
+        price: USD 19.99/presentation
         details: >-
           Charged as a bundle, upto 5 presentations, no expiration, billed as
           one payment. Cancel anytime
