@@ -71,7 +71,8 @@ sections:
         image_alt: App users welcoming a new member
         content: >-
           **Mark the the text or use our inbuilt snip tool to capture images or
-          tables you want on the slide**
+          tables and nimdone will autopopulate the slide with the selected
+          content.**
         actions:
           - label: Watch video
             url: Watch video
