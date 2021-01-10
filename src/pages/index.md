@@ -84,7 +84,7 @@ sections:
         image: images/Picture4.png
         image_alt: App user profile preview
         content: >-
-          **Your selected content will be autoarranged into beautiful
+          **Finalize the outline and see the slides autoarranged into beautiful
           presentations that can be exported as powerpoint**
         actions:
           - label: Watch video
