@@ -20,7 +20,9 @@ sections:
       - title: Plan B
         subtitle: more than 5 presentations per year
         price: USD 19.99/month
-        details: 'Charged annually, billed as one payment. Cancel anytime'
+        details: >-
+          Charged as a bundle, upto 5 presentations, no expiration, billed as
+          one payment. Cancel anytime
         highlight: true
         actions:
           - label: Order Now
