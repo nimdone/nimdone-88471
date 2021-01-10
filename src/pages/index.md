@@ -20,7 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: "Our singular mission is to save you time. \_We also made the process of  presentations fun!"
+      - label: "Our singular mission is to save you time. \_We also made the process of making  presentations fun!"
         url: ''
         style: secondary
         has_icon: false
