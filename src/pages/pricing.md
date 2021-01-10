@@ -10,15 +10,15 @@ sections:
       - title: Students
         subtitle: ''
         price: USD 4/month
-        details: charged annually
+        details: 'Charged annually, billed as one payment. Cancel anytime'
         actions:
           - label: Order Now
             url: /signup
             style: secondary
       - title: Faculty
         subtitle: ''
-        price: USD8/month
-        details: charged annually
+        price: USD 8/month
+        details: 'Charged annually, billed as one payment. Cancel anytime'
         highlight: true
         actions:
           - label: Order Now
