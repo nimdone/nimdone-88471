@@ -36,7 +36,7 @@ sections:
             style: secondary
       - title: Students
         subtitle: unlimited use
-        price: lorem-ipsum
+        price: USD 4/month
         details: >-
           ## Lorem ipsum
 
