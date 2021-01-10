@@ -16,7 +16,7 @@ sections:
             url: /signup
             style: secondary
       - title: Plan B
-        subtitle: 'Purchase a bundle of '
+        subtitle: Purchase a bundle of 10 presentations
         price: USD 25/presentation
         details: >-
           Charged as a bundle, upto 5 presentations, no expiration, billed as
