@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/Picture2.png
     image_alt: App preview
-    title: "A faster way to \_make presentations."
+    title: A faster way to make presentations.
     content: ''
     actions:
       - label: Learn more
@@ -20,7 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: "Our singular mission is to save you time. \_We also made making presentations fun!"
+      - label: "Our singular mission is to save you time. \_We also made the process of making  presentations fun!"
         url: ''
         style: secondary
         has_icon: false
@@ -35,7 +35,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Search PubMed
+      - title: Easy access to PDF files on PubMed
         image: images/Picture3.png
         image_alt: App preview on a phone and tablet
         content: >-
@@ -66,12 +66,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Select text/images from PDF
+      - title: 'Select text, tables and images from PDF'
         image: images/robust-iron.png
         image_alt: App users welcoming a new member
         content: >-
           **Mark the the text or use our inbuilt snip tool to capture images or
-          tables you want on the slide**
+          tables and nimdone will autopopulate the slide with the selected
+          content along with the imported citations**
         actions:
           - label: Watch video
             url: Watch video
@@ -83,7 +84,7 @@ sections:
         image: images/Picture4.png
         image_alt: App user profile preview
         content: >-
-          **Your selected content will be autoarranged into beautiful
+          **Finalize the outline and see the slides autoarranged into beautiful
           presentations that can be exported as powerpoint**
         actions:
           - label: Watch video
