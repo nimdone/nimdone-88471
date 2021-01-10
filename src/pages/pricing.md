@@ -16,7 +16,7 @@ sections:
             url: /signup
             style: secondary
       - title: Plan B
-        subtitle: ''
+        subtitle: 5 or more presentations per year
         price: USD 19.99/month
         details: 'Charged annually, billed as one payment. Cancel anytime'
         highlight: true
