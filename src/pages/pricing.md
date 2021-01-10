@@ -8,7 +8,7 @@ sections:
     subtitle: ''
     pricing_plans:
       - title: Plan A
-        subtitle: 5 presentations per year
+        subtitle: upto 5 presentations per year
         price: USD 20/presentation
         details: >-
           Charged as a bundle, upto 5 presentations, no expiration, billed as
