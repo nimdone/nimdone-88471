@@ -7,7 +7,7 @@ sections:
     title: Pricing
     subtitle: ''
     pricing_plans:
-      - title: Occasional presenter
+      - title: Plan A
         subtitle: Pay as you use
         price: USD 25/presentation
         details: 'no expiration, billed as one payment. Cancel anytime'
