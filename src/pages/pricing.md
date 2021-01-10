@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Plan A
         subtitle: Pay as you use
-        price: USD 20/presentation
+        price: USD 25/presentation
         details: >-
           Charged as a bundle, upto 5 presentations, no expiration, billed as
           one payment. Cancel anytime
