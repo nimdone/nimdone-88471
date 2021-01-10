@@ -10,9 +10,7 @@ sections:
       - title: Plan A
         subtitle: Pay as you use
         price: USD 25/presentation
-        details: >-
-          Charged as a bundle, upto 5 presentations, no expiration, billed as
-          one payment. Cancel anytime
+        details: 'no expiration, billed as one payment. Cancel anytime'
         actions:
           - label: Order Now
             url: /signup
