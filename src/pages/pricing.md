@@ -17,7 +17,7 @@ sections:
             style: secondary
       - title: Frequent
         subtitle: Purchase a bundle of 10 presentations
-        price: USD 19/presentation
+        price: USD 15/presentation
         details: >-
           charged as a bundle, upto 10 presentations, no expiration, billed as
           one payment,cancel anytime
