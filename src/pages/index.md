@@ -113,7 +113,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Get started with nimdone
-    subtitle: ''
+    subtitle: Try for free now
     actions:
       - label: Try for free
         url: /signup
