@@ -10,7 +10,8 @@ sections:
       - title: Sporadic
         subtitle: Pay per use
         price: USD 25/presentation
-        details: 'no expiration, billed as one payment,cancel anytime'
+        details: |
+          no expiration, billed as one payment
         actions:
           - label: Order Now
             url: /signup
