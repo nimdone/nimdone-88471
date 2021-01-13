@@ -83,9 +83,9 @@ sections:
       - title: See the slides
         image: images/Picture4.png
         image_alt: App user profile preview
-        content: >-
+        content: >
           **Finalize the outline and see the slides autoarranged into beautiful
-          presentations that can be exported as powerpoint**
+          presentations that can be exported as Powerpoint.**
         actions:
           - label: Watch video
             url: /features
