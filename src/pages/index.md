@@ -38,9 +38,9 @@ sections:
       - title: 1 click to PDF on PubMed
         image: images/Picture3.png
         image_alt: App preview on a phone and tablet
-        content: >-
+        content: >
           **Search PubMed for the papers and nimdone will extract the PDF. These
-          can be saved and organized as a library**
+          can be saved and organized as a library.**
         actions:
           - label: Watch video
             url: /features
