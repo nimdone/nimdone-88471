@@ -69,10 +69,10 @@ sections:
       - title: 'Select text, tables and images from PDF'
         image: images/robust-iron.png
         image_alt: App users welcoming a new member
-        content: >-
+        content: >
           **Mark the the text or use our inbuilt snip tool to capture images or
           tables and nimdone will autopopulate the slide with the selected
-          content along with the imported citations**
+          content along with the imported citations.**
         actions:
           - label: Watch video
             url: Watch video
