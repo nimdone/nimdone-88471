@@ -113,7 +113,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Get started with nimdone
-    subtitle: Free trial of one presentation
+    subtitle: Make a presentation today
     actions:
       - label: Try for free
         url: /signup
