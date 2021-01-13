@@ -118,6 +118,7 @@ sections:
       - label: Try for free
         url: /signup
         style: primary
+        icon_position: right
   - section_id: recent-posts
     type: section_posts
     background: gray
