@@ -147,6 +147,6 @@ sections:
         type: feature_item
     type: section_features
 meta_title: nimdone
-meta_description: 'nimdone '
+meta_description: nimdone presentation creator
 template: landing
 ---
