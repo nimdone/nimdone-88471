@@ -146,7 +146,7 @@ sections:
             type: action
         type: feature_item
     type: section_features
-meta_title: Stackbit Azimuth Theme
+meta_title: nimdone
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
