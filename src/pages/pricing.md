@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Sporadic
         subtitle: Pay per use
-        price: USD 25/presentation
+        price: USD 9/presentation
         details: |
           no expiration, billed as one payment
         actions:
