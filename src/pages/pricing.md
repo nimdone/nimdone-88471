@@ -16,17 +16,6 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Frequent
-        subtitle: Purchase a bundle of 10 presentations
-        price: USD 5/presentation
-        details: >
-          charged as a bundle, upto 10 presentations, no expiration, billed as
-          one payment
-        highlight: true
-        actions:
-          - label: Order Now
-            url: /signup
-            style: primary
       - title: Enterprise
         subtitle: ''
         price: Call us
