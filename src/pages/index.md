@@ -42,12 +42,6 @@ sections:
           **Search PubMed and nimdone will extract the PDF's which can be opened
           directly**
         actions:
-          - label: Watch video
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
           - label: ''
             url: lorem-ipsum
             style: link
