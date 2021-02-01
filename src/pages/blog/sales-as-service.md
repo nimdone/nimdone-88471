@@ -1,9 +1,7 @@
 ---
 title: Average time saved
 subtitle: ''
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
-  purus. 
+excerpt: On average our users saved xx number of hours on a 40 slide presentation
 author: src/data/authors/jane-doe.yaml
 date: 2000-01
 thumb_image: images/4_thumb.jpg
