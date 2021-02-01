@@ -68,7 +68,7 @@ sections:
             type: action
       - title: Organize and maintain your library
         content: ''
-        image_alt: lorem-ipsum
+        image_alt: ''
         actions: []
         type: feature_item
         image: images/Picture5.png
