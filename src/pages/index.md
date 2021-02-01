@@ -9,7 +9,7 @@ sections:
     content: ''
     actions:
       - label: Learn more
-        url: /features
+        url: /product
         style: primary
       - label: ''
         url: lorem-ipsum
