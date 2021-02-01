@@ -5,7 +5,6 @@ excerpt: >-
   faucibus purus. Mauris at pharetra risus.
 author: src/data/authors/jane-doe.yaml
 date: '2018-01-09'
-thumb_image: images/6_thumb.jpg
 image: images/6.jpg
 template: post
 ---
