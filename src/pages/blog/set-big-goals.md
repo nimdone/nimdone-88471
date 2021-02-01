@@ -1,5 +1,5 @@
 ---
-title: Why You Should Set Big Goals
+title: Average time saved
 excerpt: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
   turpis egestas.
