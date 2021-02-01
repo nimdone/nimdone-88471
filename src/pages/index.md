@@ -72,10 +72,10 @@ sections:
         image: images/robust-iron.png
         image_alt: App users welcoming a new member
         content: >
-          ##### **Seamless switching between PDF's associated with a project.
-          Select the content in the PDF and see how nimdone brings it onto the
-          outline and import the citation. No more copying and pasting of the
-          citation and rearranging the format!**
+          ##### **Seamless switching between PDF's that are selected and
+          associated with a project. Highlight the text on the PDF and nimdone
+          will autoimport the text and the associated citation onto the
+          outline**
         actions: []
       - title: Slide view
         image: images/Picture4.png
