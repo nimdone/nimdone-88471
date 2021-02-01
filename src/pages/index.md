@@ -94,7 +94,7 @@ sections:
         content: >-
           Moving data from one place to another, cutting/pasting images is very
           tedious
-      - author: 'Leonidas P MD Teaching faculty, Jacobi Medical Center, NY'
+      - author: 'Leonidas P MD Teaching faculty, Jacobi Medical Center, New York'
         content: 'Formatting, bringing in citations is annoying'
       - author: >-
           Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School,
