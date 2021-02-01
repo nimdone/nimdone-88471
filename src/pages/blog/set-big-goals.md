@@ -4,7 +4,6 @@ excerpt: On an average nimdone saves you xx number of hours for a 40 slide prese
 author: src/data/authors/jane-doe.yaml
 date: '2/1/202, nimdone team'
 thumb_image: images/12_thumb.jpg
-image: images/12.jpg
 template: post
 subtitle: ''
 ---
