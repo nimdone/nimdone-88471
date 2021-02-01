@@ -5,7 +5,7 @@ author: src/data/authors/john-doe.yaml
 excerpt: >-
   Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
   interdum, massa massa tempor ante.
-date: '2'
+date: 2000-01
 thumb_image: images/5_thumb.jpg
 image: images/5.jpg
 template: post
