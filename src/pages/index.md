@@ -35,7 +35,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: 1 click to PDF on PubMed
+      - title: Enhanced PubMed
         image: images/Picture3.png
         image_alt: App preview on a phone and tablet
         content: >
