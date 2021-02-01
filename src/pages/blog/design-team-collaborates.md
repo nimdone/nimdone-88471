@@ -4,7 +4,7 @@ excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
 author: src/data/authors/jane-doe.yaml
-date: '2019-03-24'
+date: ''
 thumb_image: images/11_thumb.jpg
 image: images/11.jpg
 template: post
