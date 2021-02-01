@@ -1,12 +1,9 @@
 ---
-title: Sales as a Service
-subtitle: A interesting tale about Sales
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
-  purus. 
+title: Average time saved
+subtitle: ''
+excerpt: On average our users saved xx number of hours on a 40 slide presentation
 author: src/data/authors/jane-doe.yaml
-date: '2018-01-15'
-thumb_image: images/4_thumb.jpg
+date: 2000-01
 image: images/4.jpg
 template: post
 ---

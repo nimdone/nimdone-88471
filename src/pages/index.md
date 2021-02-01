@@ -103,7 +103,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Presentations are an important way faculty and students are evaluated.
+    title: We did some research to see how much time nimdone can save you
   - section_id: lorem-ipsum
     title: ''
     subtitle: ''
