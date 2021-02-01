@@ -60,7 +60,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Organize and maintain your library
+      - title: Library
         content: >
           ##### **Organize the papers into folders and maintain a library that
           be accessed anytime and from anywhere**
