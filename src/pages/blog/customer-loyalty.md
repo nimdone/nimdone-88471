@@ -1,6 +1,6 @@
 ---
 title: Research methods
-subtitle: A story about customer loyalty
+subtitle: ''
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   We conducted a quick survey with our early users to assess how much time they
