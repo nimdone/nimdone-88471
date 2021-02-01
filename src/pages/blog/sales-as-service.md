@@ -1,5 +1,5 @@
 ---
-title: 'Research '
+title: Research methods
 subtitle: ''
 excerpt: On average our users saved xx number of hours on a 40 slide presentation
 author: src/data/authors/jane-doe.yaml
