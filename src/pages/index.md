@@ -96,7 +96,9 @@ sections:
           tedious
       - author: 'Leonidas P MD Teaching faculty, Jacobi Medical Center, NY'
         content: 'Formatting, bringing in citations is annoying'
-      - author: 'Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School'
+      - author: >-
+          Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School,
+          Boston
         content: 'Insert a figure, resize, add arrows; it is a tedious process'
   - section_id: call-to-action
     type: section_cta
