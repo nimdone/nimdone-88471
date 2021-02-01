@@ -90,7 +90,7 @@ sections:
     title: How do users feel about making slides?
     subtitle: ''
     reviews:
-      - author: 'Lohit G, MD Chief Resident, U Conn Medical Center'
+      - author: 'Lohit G, MD Chief Resident, U Conn Medical Center, Connecticut'
         content: >-
           Moving data from one place to another, cutting/pasting images is very
           tedious
