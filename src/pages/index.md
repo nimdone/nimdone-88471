@@ -61,8 +61,9 @@ sections:
             no_follow: false
             type: action
       - title: Organize and maintain your library
-        content: |
-          # LKXCKS;LCK
+        content: >
+          ##### **Organize the papers into folders and maintain a library that
+          be accessed anytime and from anywhere**
         image_alt: ''
         actions: []
         type: feature_item
