@@ -67,17 +67,7 @@ sections:
             no_follow: false
             type: action
       - title: Organize and maintain your library
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: ''
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
