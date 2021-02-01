@@ -73,13 +73,7 @@ sections:
           **Seamless switching between PDF's associated with a project. Select
           the content in the PDF and see how nimdone brings it onto the outline
           with the citation**
-        actions:
-          - label: Watch video
-            url: Watch video
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Slide view
         image: images/Picture4.png
         image_alt: App user profile preview
