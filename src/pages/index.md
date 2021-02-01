@@ -61,7 +61,8 @@ sections:
             no_follow: false
             type: action
       - title: Organize and maintain your library
-        content: ''
+        content: |
+          # LKXCKS;LCK
         image_alt: ''
         actions: []
         type: feature_item
