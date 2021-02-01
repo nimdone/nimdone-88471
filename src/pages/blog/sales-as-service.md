@@ -1,11 +1,16 @@
 ---
-title: Average time saved
+title: Research methods
 subtitle: ''
-excerpt: On average our users saved xx number of hours on a 40 slide presentation
+excerpt: >-
+  We conducted a survey with our early users to assess how much time they were
+  spending making a 40 slide presentation on a familiar topic. Average time
+  spent was recorded and compared to the average time spent making the same
+  presentation with nimdone
 author: src/data/authors/jane-doe.yaml
 date: 2000-01
-image: images/4.jpg
+image: images/good-bee.png
 template: post
+thumb_image: images/oval-rosemary.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum purus. Aliquam mauris est, posuere vitae ornare quis, volutpat eget felis. Sed rhoncus hendrerit dapibus. Vestibulum sed turpis a turpis ultrices vehicula. Morbi vulputate eros eu vulputate maximus. Donec aliquam, nulla eget vestibulum luctus, nisi mi porttitor sem, ut varius ipsum nunc vel augue. Nam ante magna, tempor non sapien id, rhoncus vestibulum ipsum. Sed placerat quam sed rutrum efficitur. Duis diam purus, molestie viverra lectus eu, facilisis fringilla quam. Vivamus ut lectus id neque ullamcorper sollicitudin non sagittis massa. Quisque bibendum tincidunt dolor at interdum. Suspendisse vehicula quis sem et tincidunt.
