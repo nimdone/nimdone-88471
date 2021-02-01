@@ -20,7 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: "Our singular mission is to save you time. \_We have built a slide assistant for you so you can focus more on the presentation!"
+      - label: "Our singular mission is to save you time. \_We have built a slide assistant for you so you can focus more on the 'talk'!"
         url: ''
         style: secondary
         has_icon: false
@@ -78,7 +78,7 @@ sections:
           outline**
         actions: []
       - title: Slide view
-        image: images/Picture4.png
+        image: images/Picture8.png
         image_alt: App user profile preview
         content: >
           ##### **With a single click the outline is  autoarranged into
@@ -91,15 +91,12 @@ sections:
     subtitle: ''
     reviews:
       - author: 'Lohit G, MD Chief Resident, U Conn Medical Center'
-        avatar: images/review1.jpg
         content: >-
           Moving data from one place to another, cutting/pasting images is very
           tedious
       - author: 'Leonidas P MD Teaching faculty, Albert Einstein College of Medicine'
-        avatar: images/review2.jpg
         content: 'Formatting, bringing in citations is annoying'
       - author: 'Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School'
-        avatar: images/review3.jpg
         content: 'Insert a figure, resize, add arrows; it is a tedious process'
   - section_id: call-to-action
     type: section_cta

@@ -4,7 +4,6 @@ subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
 excerpt: ''
-author: src/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image_alt: Business people in a meeting
 image: images/10.jpg
