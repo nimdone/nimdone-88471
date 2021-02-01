@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/Picture2.png
     image_alt: App preview
-    title: A faster way to make presentations
+    title: A faster way to make medical presentations
     content: ''
     actions:
       - label: Learn more
@@ -20,7 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: "Our singular mission is to save you time. \_We also made the process of making  presentations fun!"
+      - label: "Our singular mission is to save you time. \_We have built a slide assistant for you so you can focus more on the presentation!"
         url: ''
         style: secondary
         has_icon: false
@@ -35,19 +35,13 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: 1 click to PDF on PubMed
+      - title: Enhanced PubMed
         image: images/Picture3.png
         image_alt: App preview on a phone and tablet
         content: >
-          **Search PubMed for the papers and nimdone will extract the PDF. These
-          can be saved and organized as a library.**
+          ##### **Search PubMed and nimdone will extract the PDF's with a single
+          click; the 1 click to PDF**
         actions:
-          - label: Watch video
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
           - label: ''
             url: lorem-ipsum
             style: link
@@ -66,33 +60,30 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: 'Select text, tables and images from PDF'
+      - title: Library
+        content: >
+          ##### **Organize the papers into folders and maintain a library that
+          be accessed anytime and from anywhere**
+        image_alt: ''
+        actions: []
+        type: feature_item
+        image: images/Picture5.png
+      - title: Reader view and Outline view
         image: images/robust-iron.png
         image_alt: App users welcoming a new member
         content: >
-          **Mark the the text or use our inbuilt snip tool to capture images or
-          tables and nimdone will autopopulate the slide with the selected
-          content along with the imported citations.**
-        actions:
-          - label: Watch video
-            url: Watch video
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: See the slides
+          ##### **Seamless switching between PDF's that are selected and
+          associated with a project. Highlight the text on the PDF and nimdone
+          will autoimport the text and the associated citation onto the
+          outline**
+        actions: []
+      - title: Slide view
         image: images/Picture4.png
         image_alt: App user profile preview
         content: >
-          **Finalize the outline and see the slides autoarranged into beautiful
-          presentations that can be exported as Powerpoint.**
-        actions:
-          - label: Watch video
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+          ##### **With a single click the outline is  autoarranged into
+          beautiful presentations that can be exported as Powerpoint.**
+        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
@@ -112,7 +103,7 @@ sections:
         content: 'Insert a figure, resize, add arrows; it is a tedious process'
   - section_id: call-to-action
     type: section_cta
-    title: Get started with nimdone
+    title: Try out your new slide assistant
     subtitle: Save time while making your presentations today
     actions:
       - label: Try for free
@@ -123,9 +114,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: >-
-      Presentations are an important way faculty and students are evaluated.
-      Time saved in making the slides allows for more time to focus on the talk!
+    title: Presentations are an important way faculty and students are evaluated.
   - section_id: lorem-ipsum
     title: ''
     subtitle: ''
