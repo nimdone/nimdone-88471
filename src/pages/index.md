@@ -74,7 +74,8 @@ sections:
         content: >
           ##### **Seamless switching between PDF's associated with a project.
           Select the content in the PDF and see how nimdone brings it onto the
-          outline with the citation**
+          outline and import the citation. No more copying and pasting of the
+          citation and rearranging the format!**
         actions: []
       - title: Slide view
         image: images/Picture4.png
