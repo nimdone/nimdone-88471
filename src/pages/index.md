@@ -39,8 +39,8 @@ sections:
         image: images/Picture3.png
         image_alt: App preview on a phone and tablet
         content: >
-          **Search PubMed and nimdone will extract the PDF's allowing them to be
-          saved, all in 1 click**
+          **Search PubMed and nimdone will extract the PDF's which can be opened
+          directly**
         actions:
           - label: Watch video
             url: /features
