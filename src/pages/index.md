@@ -95,7 +95,6 @@ sections:
           Moving data from one place to another, cutting/pasting images is very
           tedious
       - author: 'Leonidas P MD Teaching faculty, Albert Einstein College of Medicine'
-        avatar: images/review2.jpg
         content: 'Formatting, bringing in citations is annoying'
       - author: 'Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School'
         avatar: images/review3.jpg
