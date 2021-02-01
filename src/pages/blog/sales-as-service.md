@@ -1,5 +1,5 @@
 ---
-title: Research methods
+title: Average time saved
 subtitle: ''
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
