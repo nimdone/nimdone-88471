@@ -72,7 +72,7 @@ sections:
         content: >
           **Seamless switching between PDF's associated with a project. Select
           the content in the PDF and see how nimdone brings it onto the outline
-          with the citation **
+          with the citation**
         actions:
           - label: Watch video
             url: Watch video
