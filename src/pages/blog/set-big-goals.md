@@ -1,6 +1,6 @@
 ---
 title: Average time saved
-excerpt: as.
+excerpt: On an average nimdone saves you xx number of hours for a 40 slide presentation
 author: src/data/authors/jane-doe.yaml
 date: '2019-03-10'
 thumb_image: images/12_thumb.jpg
