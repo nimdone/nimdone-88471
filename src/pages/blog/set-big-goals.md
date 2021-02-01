@@ -2,7 +2,7 @@
 title: Average time saved
 excerpt: On an average nimdone saves you xx number of hours for a 40 slide presentation
 author: src/data/authors/jane-doe.yaml
-date: 'January 2020, nim'
+date: 'January 2021, nimdone team'
 thumb_image: images/12_thumb.jpg
 image: images/12.jpg
 template: post
