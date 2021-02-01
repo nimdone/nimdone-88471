@@ -1,5 +1,5 @@
 ---
-title: Rese
+title: Research methods
 subtitle: A interesting tale about Sales
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
