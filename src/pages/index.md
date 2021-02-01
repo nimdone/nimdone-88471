@@ -100,16 +100,6 @@ sections:
           Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School,
           Boston
         content: 'Insert a figure, resize, add arrows; it is a tedious process'
-  - section_id: call-to-action
-    type: section_cta
-    title: Try out your new slide assistant
-    subtitle: Save time while making your presentations today
-    actions:
-      - label: Try for free
-        url: /signup
-        style: primary
-        icon_position: right
-        has_icon: false
   - section_id: recent-posts
     type: section_posts
     background: gray
