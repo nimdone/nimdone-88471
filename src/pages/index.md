@@ -97,7 +97,6 @@ sections:
       - author: 'Leonidas P MD Teaching faculty, Albert Einstein College of Medicine'
         content: 'Formatting, bringing in citations is annoying'
       - author: 'Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School'
-        avatar: images/review3.jpg
         content: 'Insert a figure, resize, add arrows; it is a tedious process'
   - section_id: call-to-action
     type: section_cta
