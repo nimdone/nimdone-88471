@@ -1,7 +1,11 @@
 ---
 title: Research methods
 subtitle: ''
-excerpt: On average our users saved xx number of hours on a 40 slide presentation
+excerpt: >-
+  We conducted a survey with our early users to assess how much time they were
+  spending making a 40 slide presentation on a familiar topic. Average time
+  spent was recorded and compared to the average time spent making the same
+  presentation with nimdone
 author: src/data/authors/jane-doe.yaml
 date: 2000-01
 image: images/4.jpg
