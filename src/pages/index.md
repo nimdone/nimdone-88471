@@ -91,7 +91,6 @@ sections:
     subtitle: ''
     reviews:
       - author: 'Lohit G, MD Chief Resident, U Conn Medical Center'
-        avatar: images/review1.jpg
         content: >-
           Moving data from one place to another, cutting/pasting images is very
           tedious
