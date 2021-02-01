@@ -7,7 +7,7 @@ excerpt: >-
   were spending making presentations on a familiar topic. We then asked them to
   make the exact same presentation using nimdone
 date: '2019-04-23'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/Picture6.png
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
 image_alt: A group of people working in a cafe
