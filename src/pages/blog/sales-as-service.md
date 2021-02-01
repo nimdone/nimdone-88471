@@ -5,7 +5,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
   purus. 
 author: src/data/authors/jane-doe.yaml
-date: '2'
+date: 2000-01
 thumb_image: images/4_thumb.jpg
 image: images/4.jpg
 template: post
