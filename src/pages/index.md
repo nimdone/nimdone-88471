@@ -70,9 +70,9 @@ sections:
         image: images/robust-iron.png
         image_alt: App users welcoming a new member
         content: >
-          **Mark the the text or use our inbuilt snip tool to capture images or
-          tables and nimdone will autopopulate the slide with the selected
-          content along with the imported citations.**
+          **Seamless switching between PDF's associated with a project. Select
+          the content in the PDF and see how nimdone brings it onto the outline
+          with the citation **
         actions:
           - label: Watch video
             url: Watch video
