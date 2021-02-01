@@ -82,13 +82,7 @@ sections:
         content: >
           **With a single click the outline is  autoarranged into beautiful
           presentations that can be exported as Powerpoint.**
-        actions:
-          - label: Watch video
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
