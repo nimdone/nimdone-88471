@@ -1,6 +1,6 @@
 ---
 title: Average time saved
-excerpt: ' et malesuada fames ac turpis egestas.'
+excerpt: as.
 author: src/data/authors/jane-doe.yaml
 date: '2019-03-10'
 thumb_image: images/12_thumb.jpg
