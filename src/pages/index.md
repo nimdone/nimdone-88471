@@ -66,7 +66,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: lorem-ipsum
+      - title: Organize and maintain your library
         content: >-
           ## Lorem ipsum
 
