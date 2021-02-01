@@ -6,7 +6,7 @@ excerpt: >-
   We conducted a quick survey with our early users to assess how much time they
   were spending making presentations on a familiar topic. We then asked them to
   make the exact same presentation using nimdone
-date: 201-04-23
+date: 201-04-2
 thumb_image: images/Picture6.png
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
