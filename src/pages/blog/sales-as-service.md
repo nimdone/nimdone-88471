@@ -8,7 +8,7 @@ excerpt: >-
   presentation with nimdone
 author: src/data/authors/jane-doe.yaml
 date: 2000-01
-image: images/4.jpg
+image: images/good-bee.png
 template: post
 ---
 
