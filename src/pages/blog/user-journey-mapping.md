@@ -1,8 +1,6 @@
 ---
 title: ''
-subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+subtitle: ''
 excerpt: ''
 date: '2019-03-27'
 thumb_image_alt: Business people in a meeting
