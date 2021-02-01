@@ -3,8 +3,9 @@ title: Research methods
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  We conducted a quick survey with our early users to assess how much time they
+  were spending making presentations on a familiar topic. We then asked them to
+  make the exact same presentation using nimdone
 date: '2019-04-23'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
