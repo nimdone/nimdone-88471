@@ -90,24 +90,16 @@ sections:
     title: How do users feel about making slides?
     subtitle: ''
     reviews:
-      - author: 'Lohit G, MD Chief Resident, U Conn Medical Center'
+      - author: 'Lohit G, MD Chief Resident, U Conn Medical Center, Connecticut'
         content: >-
           Moving data from one place to another, cutting/pasting images is very
           tedious
-      - author: 'Leonidas P MD Teaching faculty, Albert Einstein College of Medicine'
+      - author: 'Leonidas P MD Teaching faculty, Jacobi Medical Center, New York'
         content: 'Formatting, bringing in citations is annoying'
-      - author: 'Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School'
+      - author: >-
+          Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School,
+          Boston
         content: 'Insert a figure, resize, add arrows; it is a tedious process'
-  - section_id: call-to-action
-    type: section_cta
-    title: Try out your new slide assistant
-    subtitle: Save time while making your presentations today
-    actions:
-      - label: Try for free
-        url: /signup
-        style: primary
-        icon_position: right
-        has_icon: false
   - section_id: recent-posts
     type: section_posts
     background: gray
