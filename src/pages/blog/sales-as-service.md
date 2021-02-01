@@ -1,6 +1,6 @@
 ---
 title: Research methods
-subtitle: A interesting tale about Sales
+subtitle: ''
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
   purus. 
