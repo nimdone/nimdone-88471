@@ -2,7 +2,7 @@
 title: ''
 subtitle: ''
 excerpt: ''
-date: '2019-03-27'
+date: ''
 thumb_image_alt: Business people in a meeting
 image: images/10.jpg
 image_alt: Business people in a meeting
