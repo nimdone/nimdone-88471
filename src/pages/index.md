@@ -78,7 +78,7 @@ sections:
           outline**
         actions: []
       - title: Slide view
-        image: images/Picture4.png
+        image: images/Picture8.png
         image_alt: App user profile preview
         content: >
           ##### **With a single click the outline is  autoarranged into
