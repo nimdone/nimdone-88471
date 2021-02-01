@@ -80,8 +80,8 @@ sections:
         image: images/Picture4.png
         image_alt: App user profile preview
         content: >
-          **With a single click the outline is  autoarranged into beautiful
-          presentations that can be exported as Powerpoint.**
+          ##### **With a single click the outline is  autoarranged into
+          beautiful presentations that can be exported as Powerpoint.**
         actions: []
   - section_id: reviews
     type: section_reviews
