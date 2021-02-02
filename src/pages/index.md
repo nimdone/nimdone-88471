@@ -102,9 +102,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: >-
-      Our research shows that nimdone can save you timemuch time nimdone can
-      save you
+    title: Our research shows that nimdone can save you time
   - section_id: lorem-ipsum
     title: ''
     subtitle: ''
