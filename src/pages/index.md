@@ -62,8 +62,8 @@ sections:
             type: action
       - title: Library
         content: >
-          ##### **Organize the papers into folders and maintain a library that
-          be accessed anytime and from anywhere**
+          ##### **Organize your papers into folders and maintain a library that
+          can be accessed anytime and from anywhere**
         image_alt: ''
         actions: []
         type: feature_item
