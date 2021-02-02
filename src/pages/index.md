@@ -39,8 +39,8 @@ sections:
         image: images/Picture3.png
         image_alt: App preview on a phone and tablet
         content: >
-          ##### **Search PubMed and nimdone will extract the PDF's with a single
-          click; the 1 click to PDF**
+          ##### **Search PubMed and nimdone will extract the PDF with a single
+          click; then one click to PDF**
         actions:
           - label: ''
             url: lorem-ipsum
