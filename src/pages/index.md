@@ -102,7 +102,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Our initial user research
+    title: Pilot Research
   - section_id: lorem-ipsum
     title: ''
     subtitle: ''
