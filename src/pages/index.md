@@ -68,7 +68,7 @@ sections:
         actions: []
         type: feature_item
         image: images/Picture5.png
-      - title: Reader view and Outline view
+      - title: Reader and Outline view
         image: images/robust-iron.png
         image_alt: App users welcoming a new member
         content: >
