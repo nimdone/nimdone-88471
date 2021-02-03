@@ -25,7 +25,7 @@ sections:
 
       5. Congrats. That was nimbly done! 
     actions:
-      - label: Free Trial
+      - label: ''
         url: ''
         style: primary
       - label: View Demo
