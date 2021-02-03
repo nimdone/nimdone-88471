@@ -115,7 +115,8 @@
                         "is_required": true
                     }
                 ],
-                "submit_label": "Subscribe"
+                "submit_label": "Subscribe",
+                "form_action": "https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe"
             }
         ],
         "has_nav": true,
