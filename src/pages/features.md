@@ -29,7 +29,7 @@ sections:
         url: ''
         style: primary
       - label: ''
-        url: '#'
+        url: ''
         style: secondary
   - section_id: call-to-action
     type: section_cta
