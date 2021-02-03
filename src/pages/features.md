@@ -28,7 +28,7 @@ sections:
       - label: ''
         url: ''
         style: primary
-      - label: View Demo
+      - label: ''
         url: '#'
         style: secondary
   - section_id: call-to-action
