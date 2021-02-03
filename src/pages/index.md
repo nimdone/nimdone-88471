@@ -75,7 +75,16 @@ sections:
           ##### **Seamless switching between PDFs that are selected and
           associated with a project. Highlight the text on the PDF and nimdone
           will autoimport the text and associated citation onto the outline**
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
       - title: Slide view
         image: images/Picture8.png
         image_alt: App user profile preview
