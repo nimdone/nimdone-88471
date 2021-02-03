@@ -7,10 +7,11 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Login",
+                "label": "",
                 "url": "/www.nimdone.com",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "envelope"
             },
             {
                 "label": "Product",

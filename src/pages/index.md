@@ -40,7 +40,7 @@ sections:
         image_alt: App preview on a phone and tablet
         content: >
           ##### **Search PubMed and nimdone will extract the PDF with a single
-          click; the one click to PDF**
+          click; the 1-click to PDF**
         actions:
           - label: ''
             url: lorem-ipsum
@@ -68,7 +68,7 @@ sections:
         actions: []
         type: feature_item
         image: images/Picture5.png
-      - title: Reader view and Outline view
+      - title: Reader and Outline view
         image: images/robust-iron.png
         image_alt: App users welcoming a new member
         content: >
