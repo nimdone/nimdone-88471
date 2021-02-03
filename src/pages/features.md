@@ -26,7 +26,7 @@ sections:
       5. Congrats. That was nimbly done! 
     actions:
       - label: Free Trial
-        url: /signup
+        url: ''
         style: primary
       - label: View Demo
         url: '#'
