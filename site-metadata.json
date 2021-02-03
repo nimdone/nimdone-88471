@@ -109,7 +109,7 @@
                 "form_fields": [
                     {
                         "input_type": "email",
-                        "name": "email",
+                        "name": "EMAIL",
                         "label": "Email",
                         "default_value": "Enter email address",
                         "is_required": true
