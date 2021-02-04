@@ -74,7 +74,7 @@ sections:
         content: >
           ##### **Seamless switching between PDFs associated with a project.
           Highlight the text, image or table on the PDF and nimdone will import
-          it on to the slide with the citation**
+          it on to the slide outline along with the citation**
         actions: []
       - title: Slide view
         image: images/Picture8.png
