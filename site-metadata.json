@@ -30,7 +30,7 @@
             },
             {
                 "label": "Sign Up",
-                "url": "/signup",
+                "url": "/contact",
                 "style": "primary"
             }
         ]
