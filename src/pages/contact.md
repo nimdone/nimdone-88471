@@ -21,7 +21,7 @@ sections:
       - input_type: email
         name: ''
         label: Subject
-        default_value: Please select
+        default_value: ''
         options:
           - Error on the site
           - Sponsorship
