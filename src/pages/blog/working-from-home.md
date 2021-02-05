@@ -2,7 +2,7 @@
 title: Average time saved
 excerpt: On an average our users saved -- hours on a single 40 slide presentation
 author: src/data/authors/jane-doe.yaml
-date: '20200'
+date: '2020'
 thumb_image: images/Picture7.png
 thumb_image_alt: People in a conference room
 image: images/9.jpg
