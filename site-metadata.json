@@ -11,7 +11,8 @@
                 "url": "/contact",
                 "style": "link",
                 "has_icon": true,
-                "icon": "envelope"
+                "icon": "envelope",
+                "icon_position": "right"
             },
             {
                 "label": "Product",
