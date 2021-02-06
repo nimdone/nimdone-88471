@@ -4,7 +4,7 @@ excerpt: >-
   Watch this space for the results on how much time on an average our users
   saved building a 40 slide presentation
 author: src/data/authors/jane-doe.yaml
-date: 2021-0-01
+date: '2021-02-01'
 thumb_image: images/Picture7.png
 thumb_image_alt: People in a conference room
 image: images/9.jpg
