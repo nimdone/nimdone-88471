@@ -8,7 +8,6 @@ date: '2021-02-04'
 thumb_image_alt: ''
 image_alt: ''
 template: post
-image: images/pink-plankton.png
 thumb_image: images/splendid-eggplant.png
 ---
 Watch this space for the results from our pilot study.
