@@ -2,8 +2,8 @@
 title: Research methods
 subtitle: ''
 excerpt: >-
-  We conducted a survey with our early users to assess how much time they were
-  spending making a 40 slide presentation on a familiar topic. Average time
+  We are conducting a survey with our early users to assess how much time they
+  were spending making a 40 slide presentation on a familiar topic. Average time
   spent was recorded and compared to the average time spent making the same
   presentation with nimdone
 author: src/data/authors/jane-doe.yaml
