@@ -6,7 +6,6 @@ excerpt: >-
 author: src/data/authors/jane-doe.yaml
 date: '2021-02-04'
 thumb_image_alt: ''
-image: images/9.jpg
 image_alt: ''
 template: post
 ---
