@@ -5,7 +5,6 @@ excerpt: >-
   saved building a 40 slide presentation
 author: src/data/authors/jane-doe.yaml
 date: '2021-02-04'
-thumb_image: images/Picture7.png
 thumb_image_alt: ''
 image: images/9.jpg
 image_alt: People in a conference room
