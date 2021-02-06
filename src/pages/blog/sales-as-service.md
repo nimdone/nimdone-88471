@@ -7,7 +7,7 @@ excerpt: >-
   spent was recorded and compared to the average time spent making the same
   presentation with nimdone
 author: src/data/authors/jane-doe.yaml
-date: 2021-02-0
+date: '2021-02-04'
 image: images/good-bee.png
 template: post
 thumb_image: images/oval-rosemary.png
