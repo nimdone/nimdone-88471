@@ -8,9 +8,9 @@
         "nav_links": [
             {
                 "label": "",
-                "url": "/contact",
+                "url": "",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "envelope",
                 "icon_position": "right"
             },
@@ -47,7 +47,7 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "",
                 "nav_links": [
                     {
                         "label": "",
@@ -65,7 +65,7 @@
                         "style": "link"
                     },
                     {
-                        "label": "Contact",
+                        "label": "",
                         "url": "/contact",
                         "style": "link"
                     }
@@ -133,7 +133,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=azimuth\" target=\"_blank\" rel=\"noopener\">here</a>."
+        "content": "nimdone INC, All rights reserved"
     },
     "title": "nimdone",
     "domain": "www.nimdone.com",
