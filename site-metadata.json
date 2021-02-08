@@ -47,7 +47,7 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "\\Company",
                 "nav_links": [
                     {
                         "label": "",
