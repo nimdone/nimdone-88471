@@ -28,6 +28,7 @@ sections:
       - label: ''
         url: ''
         style: primary
+        no_follow: true
       - label: ''
         url: ''
         style: secondary
