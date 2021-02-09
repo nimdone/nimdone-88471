@@ -5,13 +5,13 @@ label {
   margin-bottom: 0.25em;
 }
 
-input[type="text"],
-input[type="password"],
-input[type="email"],
-input[type="tel"],
-input[type="number"],
-input[type="search"],
-input[type="url"],
+input[type='text'],
+input[type='password'],
+input[type='email'],
+input[type='tel'],
+input[type='number'],
+input[type='search'],
+input[type='url'],
 select,
 textarea {
   background: #fff;
@@ -62,7 +62,7 @@ textarea {
     border: solid transparent;
     border-width: 0.3125em;
     box-sizing: border-box;
-    content: "";
+    content: '';
     position: absolute;
     right: 10px;
     top: 50%;
@@ -84,10 +84,14 @@ textarea {
   padding-left: 1.5em;
   position: relative;
 
-  input[type=checkbox] {
+  input[type='checkbox'] {
     height: 1.5em;
     left: 0;
     position: absolute;
     top: 0;
   }
+}
+
+.form-inline {
+  display: flex;
 }
