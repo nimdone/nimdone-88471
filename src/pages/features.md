@@ -24,14 +24,6 @@ sections:
 
 
       5. Congrats. That was nimbly done!
-    actions:
-      - label: ''
-        url: ''
-        style: primary
-        no_follow: true
-      - label: ''
-        url: ''
-        style: secondary
   - section_id: call-to-action
     type: section_cta
     title: >-
