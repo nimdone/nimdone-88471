@@ -7,26 +7,8 @@
     "has_nav": true,
     "nav_links": [
       {
-        "label": "",
-        "url": "",
-        "style": "link",
-        "has_icon": false,
-        "icon": "envelope",
-        "icon_position": "right"
-      },
-      {
         "label": "Product",
         "url": "/features",
-        "style": "link"
-      },
-      {
-        "label": "",
-        "url": "/pricing",
-        "style": "link"
-      },
-      {
-        "label": "",
-        "url": "/style-guide",
         "style": "link"
       },
       {
