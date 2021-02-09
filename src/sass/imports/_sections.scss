@@ -139,7 +139,7 @@
 
   .hero-block,
   .text-block,
-  .block-item:nth-child(2n+1) {
+  .block-item:nth-child(2n + 1) {
     .grid {
       -ms-flex-direction: row-reverse;
       flex-direction: row-reverse;
@@ -152,7 +152,7 @@
     }
   }
 
-  .block-item:nth-child(2n+2) {
+  .block-item:nth-child(2n + 2) {
     .block-preview {
       &:not(:only-child) {
         padding-right: 3.33333em;
@@ -340,12 +340,12 @@
 }
 
 .review-text {
-  padding-top: 2.25em;
+  padding-top: 3.5em;
   position: relative;
 
   &:before {
-    color: $color-primary;
-    content: "\201C";
+    color: #f83600;
+    content: '\00d7';
     display: block;
     font-size: 3.5em;
     font-weight: bold;
@@ -567,14 +567,20 @@
 
   &.bg-accent {
     background: $color-primary;
-    background: -webkit-gradient(linear, left top, right top, from($color-primary), to($color-secondary));
-    background: linear-gradient(to right,$color-primary, $color-secondary);
+    background: -webkit-gradient(
+      linear,
+      left top,
+      right top,
+      from($color-primary),
+      to($color-secondary)
+    );
+    background: linear-gradient(to right, $color-primary, $color-secondary);
     color: #fff;
 
     a {
       &:not(.button) {
         color: #fff;
-  
+
         &:hover {
           color: #fff;
           opacity: 0.8;
@@ -607,7 +613,7 @@
       background: #fff;
       border-color: #fff;
       color: $color-primary;
-  
+
       &.secondary {
         background: transparent;
         color: #fff;
