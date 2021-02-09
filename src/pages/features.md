@@ -20,10 +20,10 @@ sections:
       appropriate citations and have the slides ready
 
 
-      4. Export as powerpoint 
+      4. Export as powerpoint
 
 
-      5. Congrats. That was nimbly done! 
+      5. Congrats. That was nimbly done!
     actions:
       - label: ''
         url: ''
@@ -40,7 +40,7 @@ sections:
     subtitle: ''
     actions:
       - label: Get Started
-        url: '#'
+        url: '/contact'
         style: secondary
 template: landing
 ---
