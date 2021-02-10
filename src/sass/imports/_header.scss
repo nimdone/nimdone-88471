@@ -179,14 +179,6 @@
     }
 
     .menu-item {
-      &:not(.menu-button) {
-        border-bottom: 1px solid $gray-200;
-
-        &:first-child {
-          border-top: 1px solid $gray-200;
-        }
-      }
-
       &.menu-button {
         margin-top: 1.66667em;
       }
