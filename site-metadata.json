@@ -10,11 +10,6 @@
         "label": "Product",
         "url": "/features",
         "style": "link"
-      },
-      {
-        "label": "Sign Up",
-        "url": "/contact",
-        "style": "primary"
       }
     ],
     "form": {
