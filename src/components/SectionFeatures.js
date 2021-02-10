@@ -45,6 +45,7 @@ export default class SectionFeatures extends React.Component {
                         src={withPrefix(_.get(feature, 'video', null))}
                         autoPlay
                         loop
+                        muted
                       />
                     </div>
                   )}
