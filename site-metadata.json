@@ -99,6 +99,17 @@
             "icon_position": "left"
           }
         ]
+      },
+      {
+        "type": "footer_nav",
+        "title": "Contact",
+        "nav_links": [
+          {
+            "label": "info@nimdone.com",
+            "external_link": "mailto:info@nimdone.com",
+            "style": "link"
+          }
+        ]
       }
     ],
     "has_nav": true,
