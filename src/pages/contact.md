@@ -7,21 +7,23 @@ sections:
     title: Contact
     content: >
       Thank you for your interest. Please leave your email below and we will be
-      happy to share our product and the vision with you. 
+      happy to share our product and the vision with you.
     form_id: contactForm
     form_fields:
       - input_type: text
         name: name
         label: Name
         is_required: true
+        default_value: Tim Appleseed
       - input_type: email
         name: email
         label: Email
         is_required: true
-      - input_type: email
+        default_value: tim@gmail.com
+      - input_type: text
         name: ''
         label: Subject
-        default_value: ''
+        default_value: Subject
         options:
           - Error on the site
           - Sponsorship
@@ -29,6 +31,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
+        default_value: Message
       - input_type: checkbox
         name: consent
         label: >-
