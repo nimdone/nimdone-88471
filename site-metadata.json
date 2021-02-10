@@ -15,7 +15,7 @@
                 "label": "",
                 "url": "",
                 "style": "primary",
-                "has_icon": true
+                "has_icon": false
             }
         ],
         "form": {
