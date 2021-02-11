@@ -69,8 +69,7 @@ sections:
         type: feature_item
         image: images/Picture5.png
       - title: Reader and Outline view
-        image: images/robust-iron.png
-        image_alt: App users welcoming a new member
+        video: reader-and-outline-view.mp4
         content: >
           ##### **Seamless switching between PDFs associated with a project.
           Highlight the text, image or table on the PDF and nimdone will import
