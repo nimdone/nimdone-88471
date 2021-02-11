@@ -63,10 +63,9 @@ sections:
         content: >
           ##### **Organize your papers into folders and maintain a library that
           can be accessed anytime and from anywhere**
-        image_alt: ''
         actions: []
         type: feature_item
-        image: images/Picture5.png
+        video: pumbed-organize.mp4
       - title: Reader and Outline view
         video: reader-and-outline-view.mp4
         content: >
