@@ -36,8 +36,7 @@ sections:
     subtitle: ''
     features:
       - title: Enhanced PubMed
-        image: images/Picture3.png
-        image_alt: App preview on a phone and tablet
+        video: pubmed-saved.mp4
         content: >
           ##### **1-click to PDF: Search PubMed and nimdone will extract the PDF
           with a single click**&#xA;
