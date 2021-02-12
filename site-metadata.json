@@ -41,32 +41,6 @@
       },
       {
         "type": "footer_nav",
-        "title": "",
-        "nav_links": [
-          {
-            "label": "",
-            "url": "/about",
-            "style": "link"
-          },
-          {
-            "label": "",
-            "url": "/blog",
-            "style": "link"
-          },
-          {
-            "label": "",
-            "url": "",
-            "style": "link"
-          },
-          {
-            "label": "",
-            "url": "/contact",
-            "style": "link"
-          }
-        ]
-      },
-      {
-        "type": "footer_nav",
         "title": "Community",
         "nav_links": [
           {

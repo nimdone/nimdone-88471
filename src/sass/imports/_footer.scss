@@ -23,7 +23,7 @@
 }
 
 .footer-top {
-  border-bottom: 1px solid rgba($gray-600,.4);
+  border-bottom: 1px solid rgba($gray-600, 0.4);
   padding-bottom: 1.11111em;
   padding-top: 3.33333em;
 }
@@ -121,11 +121,6 @@
 
 @media only screen and (min-width: 901px) {
   .footer-top {
-    .grid {
-      -ms-flex-pack: center;
-      justify-content: center;
-    }
-
     .cell,
     .widget-text:first-child,
     .widget-text:first-child ~ .cell {
