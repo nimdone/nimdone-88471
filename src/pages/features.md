@@ -46,7 +46,7 @@ sections:
               'is_required': true,
             },
           ],
-        'submit_label': 'Subscribe',
+        'submit_label': 'Try beta version',
         'form_action': 'https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe',
       }
 template: landing

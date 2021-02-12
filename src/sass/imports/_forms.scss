@@ -94,4 +94,18 @@ textarea {
 
 .form-inline {
   display: flex;
+  flex-direction: column;
+
+  @media (min-width: get-breakpoint('md')) {
+    flex-direction: row;
+  }
+
+  button {
+    margin-top: 1rem;
+    flex-shrink: 0;
+
+    @media (min-width: get-breakpoint('md')) {
+      margin-top: 0;
+    }
+  }
 }
