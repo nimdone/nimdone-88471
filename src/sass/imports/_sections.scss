@@ -344,12 +344,12 @@
 }
 
 .review-text {
-  padding-top: 3.5em;
+  padding-top: 2.25em;
   position: relative;
 
   &:before {
-    color: #f83600;
-    content: '\00d7';
+    color: $color-primary;
+    content: '\201C';
     display: block;
     font-size: 3.5em;
     font-weight: bold;

@@ -33,6 +33,12 @@
       background: $color-primary;
     }
 
+    .review-text {
+      &:before {
+        color: $color-primary;
+      }
+    }
+
     .bg-accent {
       background: $color-primary;
       background: -webkit-gradient(
