@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/Picture9.png
+    image: images/Picture9-sm.png
     image_alt: App preview on a phone and tablet
     title: Let nimdone be your slide assistant
     content: >
