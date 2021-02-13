@@ -42,7 +42,7 @@ sections:
           label: Email
           default_value: Enter email address
           is_required: true
-      submit_label: Try beta version
+      submit_label: Try Beta Version
       form_action: 'https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe'
 template: landing
 ---
