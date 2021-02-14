@@ -74,7 +74,7 @@ sections:
           it on to the slide outline along with the citation**
         actions: []
       - title: Slide view
-        image: images/Picture8.png
+        image: images/Picture8-md.png
         image_alt: App user profile preview
         content: >
           ##### **With a single click, the outline is  autoarranged into an
