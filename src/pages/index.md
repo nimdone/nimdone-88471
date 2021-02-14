@@ -86,7 +86,7 @@ sections:
     title: How do users feel about making slides?
     subtitle: ''
     reviews:
-      - author: 'Lohit G, MD, U Penn'
+      - author: "Lohit G, MD, Cardiac Electrophysiologist, \_UPenn"
         content: >-
           Moving data from one place to another, cutting/pasting images is very
           tedious
