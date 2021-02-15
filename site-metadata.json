@@ -74,7 +74,7 @@
                 "title": "Contact",
                 "nav_links": [
                     {
-                        "label": "info@nimdone.com",
+                        "label": "hello@nimdone.com",
                         "external_link": "mailto:info@nimdone.com",
                         "style": "link"
                     }
