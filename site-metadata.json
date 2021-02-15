@@ -79,7 +79,7 @@
                         "style": "link",
                         "no_follow": false,
                         "has_icon": false,
-                        "new_window": true
+                        "new_window": false
                     }
                 ]
             },
