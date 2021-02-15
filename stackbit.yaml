@@ -597,6 +597,10 @@ models:
           type: model
           models:
             - action
+      - type: markdown
+        name: subtitle
+        label: Subtitle
+        description: The hero's subtitle
   section_posts:
     type: object
     label: Posts List

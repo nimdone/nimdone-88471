@@ -12,6 +12,7 @@ class SectionHero extends React.Component {
       data: { image },
     } = this.props
     let section = _.get(this.props, 'section', null)
+    const subtitleAsText = markdownify(section.subtitle)
     return (
       <section
         id={_.get(section, 'section_id', null)}
@@ -44,10 +45,7 @@ class SectionHero extends React.Component {
                   />
                 </div>
               )}
-              <div className="subtitle button secondary">
-                Our singular mission is to save you time. We have built a slide
-                assistant for you so you can focus more on the 'talk'!
-              </div>
+              <div className="subtitle button secondary">{subtitleAsText}</div>
             </div>
           </div>
         </div>

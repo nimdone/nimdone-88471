@@ -20,6 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+    subtitle: Our singular mission is to save you time. We have built a slide assistant for you so you can focus more on the 'talk'!
   - section_id: features
     type: section_features
     background: gray
