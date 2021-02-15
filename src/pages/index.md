@@ -20,15 +20,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: "Our singular mission is to save you time. \_We have built a slide assistant for you so you can focus more on the 'talk'!"
-        url: ''
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
   - section_id: features
     type: section_features
     background: gray

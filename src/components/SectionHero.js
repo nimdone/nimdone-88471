@@ -44,6 +44,10 @@ class SectionHero extends React.Component {
                   />
                 </div>
               )}
+              <div className="subtitle button secondary">
+                Our singular mission is to save you time. We have built a slide
+                assistant for you so you can focus more on the 'talk'!
+              </div>
             </div>
           </div>
         </div>

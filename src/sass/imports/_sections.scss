@@ -625,3 +625,12 @@
     }
   }
 }
+
+.subtitle {
+  padding: 0.625em 2.5em;
+  cursor: auto;
+
+  &:hover {
+    opacity: 1;
+  }
+}
