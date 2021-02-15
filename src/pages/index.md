@@ -77,7 +77,7 @@ sections:
     title: How do users feel about making slides?
     subtitle: ''
     reviews:
-      - author: 'Lohit G, MD Chief Resident, U Conn Medical Center, Connecticut'
+      - author: "Lohit G, MD, Cardiac Electrophysiologist, \_UPenn"
         content: >-
           Moving data from one place to another, cutting/pasting images is very
           tedious
@@ -112,6 +112,6 @@ sections:
         type: feature_item
     type: section_features
 meta_title: nimdone
-meta_description: nimdone presentation creator
+meta_description: medical presentations made simple
 template: landing
 ---
