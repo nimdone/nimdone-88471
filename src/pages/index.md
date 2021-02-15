@@ -121,6 +121,6 @@ sections:
         type: feature_item
     type: section_features
 meta_title: nimdone
-meta_description: nimdone presentation creator
+meta_description: medical presentations made simple
 template: landing
 ---
