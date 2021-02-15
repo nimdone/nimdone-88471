@@ -76,7 +76,7 @@
                     {
                         "label": "hello@nimdone.com",
                         "external_link": "mailto:info@nimdone.com",
-                        "style": "link",
+                        "style": "primary",
                         "no_follow": false
                     }
                 ]
