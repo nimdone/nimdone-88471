@@ -56,7 +56,7 @@ sections:
           can be accessed anytime and from anywhere**
         actions: []
         type: feature_item
-        video: pumbed-organize.mp4
+        video: pubmed-organize.mp4
       - title: Reader and Outline view
         video: reader-and-outline-view.mp4
         content: >
