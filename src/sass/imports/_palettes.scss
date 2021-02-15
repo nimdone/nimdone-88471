@@ -57,7 +57,13 @@
   }
 }
 
-.palette-cyan .bg-accent .form-inline .button {
-  border-top-left-radius: 0;
-  border-bottom-left-radius: 0;
+.palette-cyan .bg-accent .form-inline {
+  .button {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+
+  input {
+    border: 0;
+  }
 }
