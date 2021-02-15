@@ -78,7 +78,8 @@
                         "external_link": "mailto:info@nimdone.com",
                         "style": "link",
                         "no_follow": false,
-                        "has_icon": false
+                        "has_icon": false,
+                        "new_window": true
                     }
                 ]
             },
