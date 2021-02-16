@@ -9,7 +9,7 @@ sections:
     content: ''
     actions:
       - label: Learn more
-        url: /#features
+        url: '/#features'
         style: primary
       - label: ''
         url: lorem-ipsum
@@ -20,7 +20,9 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    subtitle: Our singular mission is to save you time. We have built a slide assistant for you so you can focus more on the 'talk'!
+    subtitle: >-
+      Our singular mission is to save you time. We have built a slide assistant
+      for you so you can focus more on the 'talk'!
   - section_id: features
     type: section_features
     background: gray
@@ -85,7 +87,7 @@ sections:
       - author: 'Leonidas P MD Teaching faculty, Jacobi Medical Center, New York'
         content: 'Formatting, bringing in citations is annoying'
       - author: >-
-          Bilal Mohammed MD, Pancreatobiliary fellow, Harvard Medical School,
+          Mohammad Bilal MD, Advanced endoscopy fellow, Harvard Medical School,
           Boston
         content: 'Insert a figure, resize, add arrows; it is a tedious process'
   - section_id: recent-posts
