@@ -105,8 +105,8 @@
     "has_nav": true,
     "nav_links": [
       {
-        "label": "",
-        "url": "",
+        "label": "Privacy Policy",
+        "url": "/privacy-policy",
         "style": "link"
       },
       {
