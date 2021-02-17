@@ -29,7 +29,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Enhanced PubMed
+      - title: 1-click to PDF
         video: pubmed-saved.mp4
         content: >
           ** Search PubMed and nimdone will extract the PDF with a single
