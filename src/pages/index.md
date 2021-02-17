@@ -32,8 +32,8 @@ sections:
       - title: Enhanced PubMed
         video: pubmed-saved.mp4
         content: >
-          **1-click to PDF: Search PubMed and nimdone will extract the PDF
-          with a single click**&#xA;
+          **1-click to PDF: Search PubMed and nimdone will extract the PDF with
+          a single click**&#xA;
         actions:
           - label: ''
             url: lorem-ipsum
@@ -55,24 +55,24 @@ sections:
             type: action
       - title: Library
         content: >
-          **Organize your papers into folders and maintain a library that
-          can be accessed anytime and from anywhere**
+          **Organize your papers into folders and maintain a library that can be
+          accessed anytime and from anywhere**
         actions: []
         type: feature_item
         video: pubmed-organize.mp4
       - title: Reader and Outline view
         video: reader-and-outline-view.mp4
         content: >
-          **Seamless switching between PDFs associated with a project.
-          Highlight the text, image or table on the PDF and nimdone will import
-          it on to the slide outline along with the citation**
+          **Seamless switching between PDFs associated with a project. Highlight
+          the text, image or table on the PDF and nimdone will import it on to
+          the slide outline along with the citation**
         actions: []
       - title: Slide view
         video: slide-view.mp4
         image_alt: App user profile preview
         content: >
-          **With a single click, the outline is  autoarranged into an
-          organized presentation that can be exported as powerpoint**
+          **With a single click, the outline is  autoarranged into an organized
+          presentation that can be exported as powerpoint**
         actions: []
   - section_id: reviews
     type: section_reviews
@@ -80,7 +80,7 @@ sections:
     title: How do users feel about making slides?
     subtitle: ''
     reviews:
-      - author: "Lohit G, MD, Cardiac Electrophysiologist, \_UPenn"
+      - author: "Lohit G, MDCardiac Electrophysiologist, \_UPenn"
         content: >-
           Moving data from one place to another, cutting/pasting images is very
           tedious
