@@ -30,7 +30,7 @@ sections:
       - title: Enhanced PubMed
         video: pubmed-saved.mp4
         content: >
-          ##### **1-click to PDF: Search PubMed and nimdone will extract the PDF
+          **1-click to PDF: Search PubMed and nimdone will extract the PDF
           with a single click**&#xA;
         actions:
           - label: ''
@@ -53,7 +53,7 @@ sections:
             type: action
       - title: Library
         content: >
-          ##### **Organize your papers into folders and maintain a library that
+          **Organize your papers into folders and maintain a library that
           can be accessed anytime and from anywhere**
         actions: []
         type: feature_item
@@ -61,7 +61,7 @@ sections:
       - title: Reader and Outline view
         video: reader-and-outline-view.mp4
         content: >
-          ##### **Seamless switching between PDFs associated with a project.
+          **Seamless switching between PDFs associated with a project.
           Highlight the text, image or table on the PDF and nimdone will import
           it on to the slide outline along with the citation**
         actions: []
@@ -69,7 +69,7 @@ sections:
         video: slide-view.mp4
         image_alt: App user profile preview
         content: >
-          ##### **With a single click, the outline is  autoarranged into an
+          **With a single click, the outline is  autoarranged into an
           organized presentation that can be exported as powerpoint**
         actions: []
   - section_id: reviews
