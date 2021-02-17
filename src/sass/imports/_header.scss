@@ -69,7 +69,7 @@
   }
 }
 
-@media only screen and (min-width: 801px) {
+@media (min-width: 801px) {
   .menu-toggle {
     display: none;
   }
@@ -106,7 +106,7 @@
   }
 }
 
-@media only screen and (max-width: 800px) {
+@media (max-width: 800px) {
   .site {
     overflow: hidden;
     position: relative;
@@ -234,7 +234,7 @@
   }
 }
 
-@media only screen and (max-width: 400px) {
+@media (max-width: 400px) {
   .site-navigation {
     width: 100%;
   }

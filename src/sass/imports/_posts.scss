@@ -10,7 +10,7 @@
 }
 
 .post-meta {
-  color: $gray-500;
+  color: $gray-600;
   line-height: 1.5;
 }
 
@@ -27,7 +27,7 @@
     margin-bottom: 2.5em;
     text-align: center;
   }
-  
+
   .post-title {
     margin-bottom: 0.15em;
   }
@@ -85,7 +85,7 @@
   width: 100%;
 
   &:before {
-    content: "";
+    content: '';
     display: block;
     padding-top: 66.666%;
   }
