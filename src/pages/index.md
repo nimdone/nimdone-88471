@@ -32,8 +32,8 @@ sections:
       - title: Enhanced PubMed
         video: pubmed-saved.mp4
         content: >
-          **1-click to PDF: Search PubMed and nimdone will extract the PDF with
-          a single click**&#xA;
+          ** Search PubMed and nimdone will extract the PDF with a single
+          click**
         actions:
           - label: ''
             url: lorem-ipsum
