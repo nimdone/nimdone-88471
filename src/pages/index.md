@@ -114,7 +114,7 @@ sections:
             type: action
         type: feature_item
     type: section_features
-meta_title: nimdone
+meta_title: 'Nimdone: medical presentations made simple'
 meta_description: medical presentations made simple
 template: landing
 ---
