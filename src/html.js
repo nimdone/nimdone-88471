@@ -1,12 +1,10 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from 'react'
+import PropTypes from 'prop-types'
 
 export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
-      <head>
-        {props.headComponents}
-      </head>
+      <head>{props.headComponents}</head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
         <noscript key="noscript" id="gatsby-noscript">
