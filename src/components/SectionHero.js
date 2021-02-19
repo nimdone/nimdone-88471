@@ -62,7 +62,7 @@ const ComponentWithQuery = (props) => (
         image: file(absolutePath: { regex: "/Picture2/" }) {
           childImageSharp {
             fluid(quality: 100, maxWidth: 608) {
-              ...GatsbyImageSharpFluid
+              ...GatsbyImageSharpFluid_withWebp
             }
           }
         }
