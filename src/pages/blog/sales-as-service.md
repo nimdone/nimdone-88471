@@ -11,4 +11,5 @@ date: '2021-02-04'
 image: images/good-bee.png
 template: post
 thumb_image: images/oval-rosemary.png
+thumb_image_alt: 'Two sections: an opinions and quotes section.'
 ---
