@@ -8,6 +8,7 @@ date: '2021-02-04'
 image_alt: ''
 template: post
 thumb_image: images/splendid-eggplant.png
+thumb_image_webp: images/splendid-eggplant.webp
 thumb_image_alt: 'A chart with the title "Average time saved using nimdone"'
 ---
 
