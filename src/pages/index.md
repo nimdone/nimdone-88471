@@ -21,7 +21,7 @@ sections:
         no_follow: false
         type: action
     subtitle: >
-      Making medical presentations is now fast(very) and fun. Try nimdone for
+      Purpose built to simplify making medical presentations. Try nimdone for
       your next grand rounds, journal club or noon conference!
   - section_id: features
     type: section_features
