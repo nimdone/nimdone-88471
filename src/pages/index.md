@@ -21,9 +21,9 @@ sections:
         no_follow: false
         type: action
     subtitle: >
-      Purpose built to simplify making medical presentations. Try nimdone for
+      Purpose-built to simplify making medical presentations. Try nimdone for
       your next grand rounds, journal club, noon conference or any teaching
-      seminar! 
+      seminar!
   - section_id: features
     type: section_features
     background: gray
