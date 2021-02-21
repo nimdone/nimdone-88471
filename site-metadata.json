@@ -35,7 +35,7 @@
     "sections": [
       {
         "type": "footer_text",
-        "image": "images/Frame 241.png",
+        "image": "images/nimdone-logo-dark.png",
         "image_url": "/",
         "image_alt": "Footer logo",
         "content": ""
@@ -116,7 +116,7 @@
     ],
     "content": "nimdone inc, All rights reserved"
   },
-  "title": "Nimdone: medical presentations made simple",
+  "title": "Nimdone: Medical presentations made simple",
   "domain": "www.nimdone.com",
   "favicon": "images/magenta-amaranth.png"
 }
