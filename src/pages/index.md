@@ -20,9 +20,10 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    subtitle: >-
-      Our singular mission is to save you time. We have built a slide assistant
-      for you so you can focus more on the 'talk'!
+    subtitle: >
+      Purpose-built to simplify making medical presentations. Try nimdone for
+      your next grand rounds, journal club, noon conference or any teaching
+      seminar!
   - section_id: features
     type: section_features
     background: gray
