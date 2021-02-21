@@ -1,122 +1,122 @@
 {
-  "base_font": "nunito-sans",
-  "palette": "cyan",
-  "siteUrl": "https://www.nimdone.com",
-  "header": {
-    "logo_img": "images/Frame 241.svg",
-    "logo_img_alt": "nimdone",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "label": "Product",
-        "url": "/features",
-        "style": "link"
-      }
-    ],
-    "form": {
-      "title": "Subscribe",
-      "content": "Stay up to date with our latest developments.",
-      "form_id": "contactForm",
-      "hide_labels": true,
-      "form_fields": [
-        {
-          "input_type": "email",
-          "name": "EMAIL",
-          "label": "Email",
-          "default_value": "Enter email address",
-          "is_required": true
-        }
-      ],
-      "submit_label": "Try Beta Version",
-      "form_action": "https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe"
-    }
-  },
-  "footer": {
-    "sections": [
-      {
-        "type": "footer_text",
-        "image": "images/Frame 241.png",
-        "image_url": "/",
-        "image_alt": "Footer logo",
-        "content": ""
-      },
-      {
-        "type": "footer_nav",
-        "title": "Community",
+    "base_font": "nunito-sans",
+    "palette": "cyan",
+    "siteUrl": "https://www.nimdone.com",
+    "header": {
+        "logo_img": "images/Frame 241.svg",
+        "logo_img_alt": "nimdone",
+        "has_nav": true,
         "nav_links": [
-          {
-            "label": "Twitter",
-            "url": "https://twitter.com/@nimdone_us",
-            "style": "link",
-            "has_icon": true,
-            "icon": "twitter",
-            "icon_position": "left"
-          },
-          {
-            "label": "LinkedIn",
-            "url": "https://www.linkedin.com/company/nimdone",
-            "style": "link",
-            "has_icon": true,
-            "icon": "linkedin",
-            "icon_position": "left"
-          },
-          {
-            "label": "Facebook",
-            "url": "https://www.facebook.com/nimdoneapp/?view_public_for=101456251512261",
-            "style": "link",
-            "has_icon": true,
-            "icon": "github",
-            "icon_position": "left"
-          }
-        ]
-      },
-      {
-        "type": "footer_nav",
-        "title": "Contact",
-        "nav_links": [
-          {
-            "label": "hello@nimdone.com",
-            "external_link": "mailto:hello@nimdone.com",
-            "style": "link",
-            "no_follow": false,
-            "has_icon": false,
-            "new_window": false
-          }
-        ]
-      },
-      {
-        "type": "footer_form",
-        "title": "Sign Up",
-        "content": "Be the first to know when our product launches.",
-        "form_id": "contactForm",
-        "hide_labels": true,
-        "form_fields": [
-          {
-            "input_type": "email",
-            "name": "EMAIL",
-            "label": "Email",
-            "default_value": "Enter email address",
-            "is_required": true
-          }
+            {
+                "label": "Product",
+                "url": "/features",
+                "style": "link"
+            }
         ],
-        "submit_label": "Try Beta Version",
-        "form_action": "https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe"
-      }
-    ],
-    "has_nav": true,
-    "nav_links": [
-      {
-        "label": "Privacy Policy",
-        "url": "/privacy-policy",
-        "style": "link"
-      },
-      {
-        "style": "link"
-      }
-    ],
-    "content": "nimdone inc, All rights reserved"
-  },
-  "title": "Nimdone: medical presentations made simple",
-  "domain": "www.nimdone.com",
-  "favicon": "images/magenta-amaranth.png"
+        "form": {
+            "title": "Subscribe",
+            "content": "Stay up to date with our latest developments.",
+            "form_id": "contactForm",
+            "hide_labels": true,
+            "form_fields": [
+                {
+                    "input_type": "email",
+                    "name": "EMAIL",
+                    "label": "Email",
+                    "default_value": "Enter email address",
+                    "is_required": true
+                }
+            ],
+            "submit_label": "Try Beta Version",
+            "form_action": "https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe"
+        }
+    },
+    "footer": {
+        "sections": [
+            {
+                "type": "footer_text",
+                "image": "images/Frame 241.png",
+                "image_url": "/",
+                "image_alt": "Footer logo",
+                "content": ""
+            },
+            {
+                "type": "footer_nav",
+                "title": "Community",
+                "nav_links": [
+                    {
+                        "label": "Twitter",
+                        "url": "https://twitter.com/@nimdone_us",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "twitter",
+                        "icon_position": "left"
+                    },
+                    {
+                        "label": "LinkedIn",
+                        "url": "https://www.linkedin.com/company/nimdone",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "linkedin",
+                        "icon_position": "left"
+                    },
+                    {
+                        "label": "Facebook",
+                        "url": "https://www.facebook.com/nimdoneapp/?view_public_for=101456251512261",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "github",
+                        "icon_position": "left"
+                    }
+                ]
+            },
+            {
+                "type": "footer_nav",
+                "title": "Contact",
+                "nav_links": [
+                    {
+                        "label": "hello@nimdone.com",
+                        "external_link": "mailto:hello@nimdone.com",
+                        "style": "link",
+                        "no_follow": false,
+                        "has_icon": false,
+                        "new_window": false
+                    }
+                ]
+            },
+            {
+                "type": "footer_form",
+                "title": "Sign Up",
+                "content": "Be the first to know when our product launches.",
+                "form_id": "contactForm",
+                "hide_labels": true,
+                "form_fields": [
+                    {
+                        "input_type": "email",
+                        "name": "EMAIL",
+                        "label": "Email",
+                        "default_value": "Enter email address",
+                        "is_required": true
+                    }
+                ],
+                "submit_label": "Try Beta Version",
+                "form_action": "https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe"
+            }
+        ],
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            },
+            {
+                "style": "link"
+            }
+        ],
+        "content": "nimdone inc, All rights reserved"
+    },
+    "title": "Nimdone: Medical presentations made simple",
+    "domain": "www.nimdone.com",
+    "favicon": "images/magenta-amaranth.png"
 }
