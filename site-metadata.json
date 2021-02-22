@@ -65,7 +65,8 @@
                         "style": "link",
                         "has_icon": true,
                         "icon": "github",
-                        "icon_position": "left"
+                        "icon_position": "left",
+                        "url": "@nimdone"
                     }
                 ]
             },
