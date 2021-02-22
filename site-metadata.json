@@ -64,7 +64,7 @@
                         "label": "Facebook",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "github",
+                        "icon": "facebook",
                         "icon_position": "left",
                         "url": "https://www.facebook.com/nimdone"
                     }
