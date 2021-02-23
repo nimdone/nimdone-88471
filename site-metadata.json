@@ -86,7 +86,7 @@
             },
             {
                 "type": "footer_form",
-                "title": "Sign Up",
+                "title": "Get Updates",
                 "content": "Be the first to know when our product launches.",
                 "form_id": "contactForm",
                 "hide_labels": true,
