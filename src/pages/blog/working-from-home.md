@@ -12,5 +12,3 @@ thumb_image_webp: images/splendid-eggplant.webp
 thumb_image_alt: A chart with the title "Average time saved using nimdone"
 image: images/oval-crane.png
 ---
-
-Watch this space for the results from our pilot study.
