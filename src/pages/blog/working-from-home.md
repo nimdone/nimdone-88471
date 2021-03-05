@@ -1,5 +1,5 @@
 ---
-title: '6'
+title: '68% '
 excerpt: >-
   We asked teaching faculty about some key metrics including time spent in
   making presentations.
