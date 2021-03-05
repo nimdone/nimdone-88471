@@ -10,5 +10,5 @@ template: post
 thumb_image_webp: images/splendid-eggplant.webp
 thumb_image_alt: A chart with the title "Average time saved using nimdone"
 image: images/oval-crane.png
-thumb_image: images/charming-sparrow.png
+thumb_image: images/terrific-sunflower.png
 ---
