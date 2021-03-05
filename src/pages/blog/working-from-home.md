@@ -1,5 +1,5 @@
 ---
-title: Research results
+title: '6'
 excerpt: >-
   We asked teaching faculty about some key metrics including time spent in
   making presentations.
