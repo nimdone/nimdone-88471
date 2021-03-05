@@ -1,5 +1,5 @@
 ---
-title: 68% of presenters need at least 5 hours
+title: 68% of presenters need at least 5 hours to make a 40 slide presentation
 excerpt: >-
   We asked teaching faculty about some key metrics including time spent in
   making presentations.
