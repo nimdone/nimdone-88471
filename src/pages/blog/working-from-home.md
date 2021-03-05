@@ -1,5 +1,5 @@
 ---
-title: Most presenters spend over 5 hours making presentations
+title: Most
 excerpt: >-
   We asked teaching faculty about some key metrics including time spent in
   making presentations.
