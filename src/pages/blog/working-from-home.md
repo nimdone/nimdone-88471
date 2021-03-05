@@ -1,5 +1,5 @@
 ---
-title: Most presenters need over 5 hours
+title: Research results
 excerpt: >-
   We asked teaching faculty about some key metrics including time spent in
   making presentations.
