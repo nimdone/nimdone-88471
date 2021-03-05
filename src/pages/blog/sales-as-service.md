@@ -1,5 +1,5 @@
 ---
-title: Research methods
+title: Responses
 subtitle: ''
 excerpt: >-
   We asked a 100 users on the key metrics of making powerpoint presentations
