@@ -1,5 +1,5 @@
 ---
-title: Most users spend over 5 hours making presentations
+title: Most presenters spend over 5 hours making presentations
 excerpt: >-
   Watch this space for the results on how much time on an average our users
   saved building a 40 slide presentation
