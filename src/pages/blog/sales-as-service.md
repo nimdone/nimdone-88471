@@ -2,7 +2,7 @@
 title: Responses
 subtitle: ''
 excerpt: >-
-  We asked a 100 users on the key metrics of making powerpoint presentations
+  We asked anonymous users on the key metrics of making powerpoint presentations
   including time spent, key steps required.
 author: src/data/authors/jane-doe.yaml
 date: '2021-02-04'
