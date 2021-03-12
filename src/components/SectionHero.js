@@ -16,7 +16,10 @@ class SectionHero extends React.Component {
         <div className="inner">
           <div className="grid">
             <div className="cell block-preview">
-              <video src="/intro-video.mp4" controls />
+              <video
+                src="https://nimdone.s3-us-west-1.amazonaws.com/intro-video.mp4"
+                controls
+              />
             </div>
             <div className="cell block-content">
               {_.get(section, 'title', null) && (
