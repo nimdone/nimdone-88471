@@ -1,16 +1,11 @@
 import React from 'react'
 import _ from 'lodash'
-import { StaticQuery, graphql } from 'gatsby'
-import Image from 'gatsby-image'
 
 import { markdownify } from '../utils'
 import CtaButtons from './CtaButtons'
 
 class SectionHero extends React.Component {
   render() {
-    const {
-      data: { image },
-    } = this.props
     let section = _.get(this.props, 'section', null)
     const subtitleAsText = markdownify(section.subtitle)
     return (
@@ -20,14 +15,9 @@ class SectionHero extends React.Component {
       >
         <div className="inner">
           <div className="grid">
-            {image && (
-              <div className="cell block-preview">
-                <Image
-                  fluid={image.childImageSharp.fluid}
-                  alt={_.get(section, 'image_alt', null)}
-                />
-              </div>
-            )}
+            <div className="cell block-preview">
+              <video src="/intro-video.mp4" controls />
+            </div>
             <div className="cell block-content">
               {_.get(section, 'title', null) && (
                 <h2 className="block-title underline">
@@ -54,21 +44,4 @@ class SectionHero extends React.Component {
   }
 }
 
-const ComponentWithQuery = (props) => (
-  <StaticQuery
-    render={(data) => <SectionHero {...props} data={data} />}
-    query={graphql`
-      {
-        image: file(absolutePath: { regex: "/Picture2/" }) {
-          childImageSharp {
-            fluid(quality: 100, maxWidth: 608) {
-              ...GatsbyImageSharpFluid_withWebp
-            }
-          }
-        }
-      }
-    `}
-  />
-)
-
-export default ComponentWithQuery
+export default SectionHero
