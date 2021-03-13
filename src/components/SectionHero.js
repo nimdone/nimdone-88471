@@ -17,7 +17,8 @@ class SectionHero extends React.Component {
           <div className="grid">
             <div className="cell block-preview">
               <video
-                src="https://nimdone.s3-us-west-1.amazonaws.com/intro-video.mp4"
+                src="https://nimdone.s3-us-west-1.amazonaws.com/intro-video.mp4#t=0.5"
+                preload="metadata"
                 controls
               />
             </div>
