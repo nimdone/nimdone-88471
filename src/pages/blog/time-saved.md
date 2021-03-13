@@ -2,9 +2,7 @@
 title: >-
   91% of presenters answered that nimdone will save them at least 75% of the
   time spent
-excerpt: >-
-  More than 90% of presenters believed nimdone will save then at least 75% of
-  the time spent
+excerpt: Survey of 101 participants
 author: src/data/authors/jane-doe.yaml
 date: '2021-03-13'
 image_alt: ''
