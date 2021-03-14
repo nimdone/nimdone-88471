@@ -1,7 +1,7 @@
 ---
 title: >-
-  100% of presenters reported that nimdone will save them time. 91% of them
-  answered that nimdone will save them at least 3/4th of their time
+  100% of presenters report that nimdone saves time. 91% of them answered that
+  nimdone will shave off at least 3/4th of the time
 excerpt: Survey of 101 participants
 author: src/data/authors/jane-doe.yaml
 date: '2021-03-13'
