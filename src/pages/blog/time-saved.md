@@ -1,6 +1,6 @@
 ---
 title: >-
-  100% of presenters report that nimdone saves time. 91% of them answered that
+  100% of presenters report that nimdone saves time. 90% of them answered that
   nimdone will shave off at least 3/4th of the time spent in making
   presentations
 excerpt: Anonymous survey of 101 faculty presenters conducted via twitter poll
