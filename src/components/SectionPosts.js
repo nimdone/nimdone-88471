@@ -3,6 +3,7 @@ import _ from 'lodash'
 
 import { htmlToReact, getPages, Link, withPrefix } from '../utils'
 import BlogPostFooter from './BlogPostFooter'
+import WebpImage from './WebpImage'
 
 export default class SectionPosts extends React.Component {
   render() {
@@ -42,20 +43,15 @@ export default class SectionPosts extends React.Component {
                       className="post-thumbnail"
                       to={withPrefix(_.get(post, 'url', null))}
                     >
-                      <picture>
-                        <source
-                          type="image/webp"
-                          srcset={withPrefix(
-                            _.get(post, 'frontmatter.thumb_image_webp', null)
-                          )}
-                        />
-                        <img
-                          src={withPrefix(
-                            _.get(post, 'frontmatter.thumb_image', null)
-                          )}
-                          alt={_.get(post, 'frontmatter.thumb_image_alt', null)}
-                        />
-                      </picture>
+                      <WebpImage
+                        webpSrc={withPrefix(
+                          _.get(post, 'frontmatter.thumb_image_webp', null)
+                        )}
+                        src={withPrefix(
+                          _.get(post, 'frontmatter.thumb_image', null)
+                        )}
+                        alt={_.get(post, 'frontmatter.thumb_image_alt', null)}
+                      />
                     </Link>
                   )}
                   <div className="post-body">
