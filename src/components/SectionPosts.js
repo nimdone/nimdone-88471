@@ -11,7 +11,7 @@ export default class SectionPosts extends React.Component {
     let display_posts = _.orderBy(
       getPages(this.props.pageContext.pages, '/blog'),
       'frontmatter.date',
-      'desc'
+      'asc'
     )
     let recent_posts = display_posts.slice(0, 3)
     return (
