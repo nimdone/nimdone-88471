@@ -23,7 +23,7 @@ sections:
     subtitle: >
       Purpose-built to simplify making medical presentations. Try nimdone for
       your next grand rounds, journal club, noon conference or any teaching
-      seminar!
+      seminar! 
   - section_id: features
     type: section_features
     background: gray
@@ -31,7 +31,7 @@ sections:
     subtitle: ''
     features:
       - title: 1-click to PDF
-        video: https://nimdone.s3-us-west-1.amazonaws.com/pubmed-saved.mp4
+        video: 'https://nimdone.s3-us-west-1.amazonaws.com/pubmed-saved.mp4'
         content: >
           **Search PubMed and nimdone will extract the PDF that can be avoiding
           multiple clicks**
@@ -60,16 +60,16 @@ sections:
           accessed anytime and from anywhere**
         actions: []
         type: feature_item
-        video: https://nimdone.s3-us-west-1.amazonaws.com/pubmed-organize.mp4
+        video: 'https://nimdone.s3-us-west-1.amazonaws.com/pubmed-organize.mp4'
       - title: Reader and Outline view
-        video: https://nimdone.s3-us-west-1.amazonaws.com/reader-and-outline-view.mp4
+        video: 'https://nimdone.s3-us-west-1.amazonaws.com/reader-and-outline-view.mp4'
         content: >
           **Seamless switching between PDFs associated with a project. Highlight
           the text, image or table on the PDF and nimdone will import it on to
           the slide outline along with the citation**
         actions: []
       - title: Slide view
-        video: https://nimdone.s3-us-west-1.amazonaws.com/slide-view.mp4
+        video: 'https://nimdone.s3-us-west-1.amazonaws.com/slide-view.mp4'
         image_alt: App user profile preview
         content: >
           **With a single click, the outline is  autoarranged into an organized
