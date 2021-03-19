@@ -16,11 +16,12 @@ class SectionHero extends React.Component {
         <div className="inner">
           <div className="grid">
             <div className="cell block-preview">
-              <video
-                src="https://nimdone.s3-us-west-1.amazonaws.com/intro-video.mp4#t=0.5"
-                preload="metadata"
-                controls
-              />
+              <iframe id="existing-iframe-example"
+                    width="640" height="360"
+                    src="https://www.youtube.com/embed/5A17LkhSpUk?enablejsapi=1"
+                    frameborder="0"
+                    style="border: solid 4px #37474F"
+                ></iframe>
             </div>
             <div className="cell block-content">
               {_.get(section, 'title', null) && (
