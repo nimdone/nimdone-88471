@@ -118,7 +118,7 @@ sections:
 meta_title: 'Nimdone: Medical presentations made simple'
 meta_description: >-
   Nimdone is a custom-built tool to make powerpoint presentations in medicine.
-  It search experience on PubMed, organize papers into a library and fast way to
-  make presentations.
+  It offers a new search experience on PubMed, organize papers into a library
+  and fast way to make presentations.
 template: landing
 ---
