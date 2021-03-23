@@ -87,7 +87,7 @@
             {
                 "type": "footer_form",
                 "title": "Get Updates",
-                "content": "Be the first to know when our product launches.",
+                "content": "Be the first to know when our product is released \n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
