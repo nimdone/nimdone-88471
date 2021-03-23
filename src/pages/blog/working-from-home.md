@@ -15,5 +15,5 @@ meta_title: Nimdone | Make Medical Presentation
 meta_description: >-
   Best tool to make medical powerpoint presentations. A new search experience on
   PubMed, organize papers in an online library and faster way to make
-  presentations.
+  presentations
 ---
