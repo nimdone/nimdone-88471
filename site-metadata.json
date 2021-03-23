@@ -28,7 +28,8 @@
             ],
             "submit_label": "Try Beta Version",
             "form_action": "https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe"
-        }
+        },
+        "logo_img_alt": "Nimdone"
     },
     "footer": {
         "sections": [
