@@ -33,8 +33,8 @@ sections:
       - title: 1-click to PDF
         video: 'https://nimdone.s3-us-west-1.amazonaws.com/pubmed-saved.mp4'
         content: >
-          **Search PubMed and nimdone will extract the PDF that can be avoiding
-          multiple clicks**
+          **Search PubMed and nimdone will extract the PDF avoiding multiple
+          clicks**
         actions:
           - label: ''
             url: lorem-ipsum
