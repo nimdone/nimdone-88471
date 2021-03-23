@@ -13,5 +13,5 @@ image: 'https://nimdone.s3-us-west-1.amazonaws.com/time-saved.png'
 image_webp: images/time-saved.webp
 thumb_image: 'https://nimdone.s3-us-west-1.amazonaws.com/time-saved.png'
 thumb_image_webp: images/time-saved.webp
-meta_title: 'Nimdone | Best Presentation Software Making Presentation '
+meta_title: 'Nimdone | Best Presentation Software  | Making Presentation '
 ---
