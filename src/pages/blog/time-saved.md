@@ -16,4 +16,5 @@ meta_title: 'Nimdone | Best Presentation Software | Making Presentation '
 meta_description: >-
   Nimdone is a Best Presentation Software to make best medical presentation.
   Visit our site and get more details. 
+image_alt: 'Best Presentation Software | Making Presentation '
 ---
