@@ -6,7 +6,6 @@ title: >-
 excerpt: Anonymous survey of 101 faculty presenters conducted via twitter poll
 author: src/data/authors/jane-doe.yaml
 date: '2021-03-13'
-image_alt: A pie chart with a section taking up 90.1% and the rest taking up 9.9%
 template: post
 thumb_image_alt: A pie chart with a section taking up 90.1% and the rest taking up 9.9%
 image: 'https://nimdone.s3-us-west-1.amazonaws.com/time-saved.png'
