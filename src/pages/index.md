@@ -4,7 +4,7 @@ sections:
   - section_id: NIMDONE
     type: section_hero
     image: images/Picture2.png
-    image_alt: App preview
+    image_alt: 'product '
     title: A faster way to make medical presentations
     content: ''
     actions:
