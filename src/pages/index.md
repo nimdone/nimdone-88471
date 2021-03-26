@@ -4,7 +4,7 @@ sections:
   - section_id: NIMDONE
     type: section_hero
     image: images/Picture2.png
-    image_alt: 'product '
+    image_alt: product video tour
     title: A faster way to make medical presentations
     content: ''
     actions:
