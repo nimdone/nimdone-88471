@@ -95,26 +95,6 @@ sections:
     type: section_posts
     background: gray
     title: Research
-  - section_id: lorem-ipsum
-    title: ''
-    subtitle: ''
-    background: gray
-    features:
-      - title: ''
-        content: ''
-        image_alt: lorem-ipsum
-        actions:
-          - label: ''
-            url: lorem-ipsum
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: feature_item
-    type: section_features
 meta_title: 'Nimdone: Innovative way to search pubmed and make powerpoint presentations'
 meta_description: >-
   Nimdone is a custom-built tool to make powerpoint presentations in medicine.
