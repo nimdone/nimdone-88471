@@ -13,20 +13,6 @@ sections:
     subtitle: 'Start saving time on your medical presentations today.  '
     background: white
     pricing_plans:
-      - title: INSTITUTIONS
-        details: >
-          nimdone can provide volume licenses for all your students and staff.
-          Get in touch for details.
-        highlight: false
-        actions:
-          - label: CONTACT SALES
-            url: lorem-ipsum
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
       - title: INDIVIDUALS
         subtitle: lorem-ipsum
         price: $ 14 / mon
@@ -47,6 +33,20 @@ sections:
         highlight: true
         actions:
           - label: GET STARTED
+            url: lorem-ipsum
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+      - title: INSTITUTIONS
+        details: >
+          nimdone can provide volume licenses for all your students and staff.
+          Get in touch for details.
+        highlight: false
+        actions:
+          - label: CONTACT SALES
             url: lorem-ipsum
             style: primary
             has_icon: false
