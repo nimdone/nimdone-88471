@@ -20,10 +20,15 @@ sections:
           **Save $72 a year**
 
           *   Create unlimited presentations
+
           *   1-click access to PDFs on PubMed
+
           *   Built-in snipping tool
+
           *   Automatically generate citations
+
           *   Easily export to PowerPoint
+
           *   Organize your PDF library
         highlight: false
         actions: []
