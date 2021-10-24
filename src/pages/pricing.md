@@ -43,7 +43,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        highlight: true
+        highlight: false
         actions: []
     type: section_pricing
 template: landing
