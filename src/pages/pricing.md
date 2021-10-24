@@ -10,7 +10,7 @@ no_index: false
 sections:
   - section_id: lorem-ipsum
     title: Pricing guide
-    subtitle: lorem-ipsum
+    subtitle: 'Start saving time on your medical presentations today.  '
     background: gray
     pricing_plans:
       - title: lorem-ipsum
