@@ -59,22 +59,6 @@ sections:
           **With a single click, the outline is  autoarranged into an organized
           presentation that can be exported as powerpoint**
         actions: []
-  - section_id: reviews
-    type: section_reviews
-    background: white
-    title: How do users feel about making slides?
-    subtitle: ''
-    reviews:
-      - author: 'Lohit G, MD,Cardiac electrophysiologist,UPenn'
-        content: >-
-          Moving data from one place to another, cutting/pasting images is very
-          tedious
-      - author: 'Leonidas P MD Teaching faculty, Jacobi Medical Center, New York'
-        content: 'Formatting, bringing in citations is annoying'
-      - author: >-
-          Mohammad Bilal MD, Advanced endoscopy fellow, Harvard Medical School,
-          Boston
-        content: 'Insert a figure, resize, add arrows; it is a tedious process'
   - section_id: recent-posts
     type: section_posts
     background: gray
