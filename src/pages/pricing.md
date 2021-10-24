@@ -13,7 +13,7 @@ sections:
     background: gray
     title: Research
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Pricing guide
     subtitle: lorem-ipsum
     background: gray
     pricing_plans: []
