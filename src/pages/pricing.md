@@ -16,17 +16,15 @@ sections:
       - title: INDIVIDUALS
         subtitle: lorem-ipsum
         price: $ 14 / mon
-        details: >-
-          ## Lorem ipsum
+        details: |
+          **Save $72 a year**
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Create unlimited presentations
+          *   1-click access to PDFs on PubMed
+          *   Built-in snipping tool
+          *   Automatically generate citations
+          *   Easily export to PowerPoint
+          *   Organize your PDF library
         highlight: false
         actions: []
       - title: lorem-ipsum
