@@ -14,7 +14,6 @@ sections:
     background: white
     pricing_plans:
       - title: INDIVIDUALS
-        subtitle: lorem-ipsum
         price: $ 14 / mon
         details: |
           **Save $72 a year**
