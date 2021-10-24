@@ -8,57 +8,6 @@ meta_description: >-
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - section_id: features
-    type: section_features
-    background: gray
-    title: ''
-    subtitle: ''
-    features:
-      - title: 1-click to PDF
-        video: 'https://nimdone.s3-us-west-1.amazonaws.com/pubmed-saved.mp4'
-        content: >
-          **Search PubMed and nimdone will extract the PDF avoiding multiple
-          clicks**
-        actions:
-          - label: ''
-            url: lorem-ipsum
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: ''
-            url: Watch video
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-      - title: Library
-        content: >
-          **Organize your papers into folders and maintain a library that can be
-          accessed anytime and from anywhere**
-        actions: []
-        type: feature_item
-        video: 'https://nimdone.s3-us-west-1.amazonaws.com/pubmed-organize.mp4'
-      - title: Reader and Outline view
-        video: 'https://nimdone.s3-us-west-1.amazonaws.com/reader-and-outline-view.mp4'
-        content: >
-          **Seamless switching between PDFs associated with a project. Highlight
-          the text, image or table on the PDF and nimdone will import it on to
-          the slide outline along with the citation**
-        actions: []
-      - title: Slide view
-        video: 'https://nimdone.s3-us-west-1.amazonaws.com/slide-view.mp4'
-        image_alt: App user profile preview
-        content: >
-          **With a single click, the outline is  autoarranged into an organized
-          presentation that can be exported as powerpoint**
-        actions: []
   - section_id: recent-posts
     type: section_posts
     background: gray
