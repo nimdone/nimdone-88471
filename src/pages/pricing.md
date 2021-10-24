@@ -41,7 +41,6 @@ sections:
             new_window: false
             no_follow: false
       - title: INSTITUTIONS
-        subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
