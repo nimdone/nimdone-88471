@@ -1,5 +1,5 @@
 ---
-title: Home2
+title: Home
 sections:
   - section_id: NIMDONE
     type: section_hero
