@@ -13,7 +13,7 @@ sections:
     subtitle: 'Start saving time on your medical presentations today.  '
     background: white
     pricing_plans:
-      - title: lorem-ipsum
+      - title: I
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
