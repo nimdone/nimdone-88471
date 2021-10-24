@@ -30,7 +30,7 @@ sections:
           *   Easily export to PowerPoint
 
           *   Organize your PDF library
-        highlight: false
+        highlight: true
         actions: []
       - title: lorem-ipsum
         subtitle: lorem-ipsum
