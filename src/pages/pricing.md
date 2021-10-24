@@ -32,7 +32,7 @@ sections:
           *   Organize your PDF library
         highlight: true
         actions:
-          - label: lorem-ipsum
+          - label: GET STARTED
             url: lorem-ipsum
             style: link
             has_icon: false
