@@ -10,7 +10,7 @@
                 "label": "Product",
                 "url": "/features",
                 "style": "link",
-                "has_icon": true
+                "has_icon": false
             },
             {
                 "label": "Pricing",
