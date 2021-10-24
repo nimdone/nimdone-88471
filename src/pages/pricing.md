@@ -8,7 +8,7 @@ meta_description: >-
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: pricing
     title: Pricing guide
     subtitle: 'Start saving time on your medical presentations today.  '
     background: white
