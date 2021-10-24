@@ -41,17 +41,9 @@ sections:
             new_window: false
             no_follow: false
       - title: INSTITUTIONS
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: >
+          nimdone can provide volume licenses for all your students and staff.
+          Get in touch for details.
         highlight: false
         actions: []
     type: section_pricing
