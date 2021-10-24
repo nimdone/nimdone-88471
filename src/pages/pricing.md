@@ -15,7 +15,7 @@ sections:
     pricing_plans:
       - title: INDIVIDUALS
         subtitle: lorem-ipsum
-        price: $14/mon
+        price: $ 14 / mon
         details: >-
           ## Lorem ipsum
 
