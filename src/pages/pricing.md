@@ -8,29 +8,6 @@ meta_description: >-
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - section_id: NIMDONE
-    type: section_hero
-    image: images/Picture2.png
-    image_alt: product video tour
-    title: A faster way to make medical presentations
-    content: ''
-    actions:
-      - label: Learn more
-        url: '/#features'
-        style: primary
-      - label: ''
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
-    subtitle: >
-      Purpose-built to simplify making medical presentations. Try nimdone for
-      your next grand rounds, journal club, noon conference or any teaching
-      seminar! 
   - section_id: features
     type: section_features
     background: gray
