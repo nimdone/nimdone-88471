@@ -1,5 +1,5 @@
 ---
-title: Home
+title: pricing
 meta_title: 'Nimdone: Innovative way to search pubmed and make powerpoint presentations'
 meta_description: >-
   Nimdone is a custom-built tool to make powerpoint presentations in medicine.
