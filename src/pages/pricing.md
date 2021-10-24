@@ -46,7 +46,7 @@ sections:
           Get in touch for details.
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: CONTACT SALES
             url: lorem-ipsum
             style: link
             has_icon: false
