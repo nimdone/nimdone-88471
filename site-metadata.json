@@ -14,7 +14,7 @@
             },
             {
                 "label": "Pricing",
-                "url": "lorem-ipsum",
+                "url": "/pricing",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
