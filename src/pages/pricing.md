@@ -8,10 +8,6 @@ meta_description: >-
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Research
   - section_id: lorem-ipsum
     title: Pricing guide
     subtitle: lorem-ipsum
