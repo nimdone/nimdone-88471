@@ -7,6 +7,7 @@ import Icon from './Icon'
 export default class Action extends React.Component {
   render() {
     let action = _.get(this.props, 'action', null)
+    let customStyle = _.get(this.props, 'customStyle', null)
     let action_style = _.get(action, 'style', null) || 'link'
     let action_icon = _.get(action, 'icon', null) || 'arrow-left'
     let action_icon_pos = _.get(action, 'icon_position', null) || 'left'
@@ -36,6 +37,7 @@ export default class Action extends React.Component {
           secondary: action_style === 'secondary',
           'has-icon': _.get(action, 'has_icon', null),
         })}
+        style={customStyle ? customStyle : {}}
       >
         {_.get(action, 'has_icon', null) && (
           <Icon {...this.props} icon={action_icon} />
