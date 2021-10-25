@@ -16,7 +16,8 @@
     blockquote,
     .underline:after,
     .card.highlight {
-      border-color: $color-primary;
+      border: none;
+      border-top: 6px solid $color-primary;
     }
 
     .button {

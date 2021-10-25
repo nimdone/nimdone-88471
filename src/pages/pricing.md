@@ -10,11 +10,14 @@ no_index: false
 sections:
   - section_id: pricing
     title: Pricing guide
-    subtitle: 'Start saving time on your medical presentations today.  '
+    subtitle: 'Start saving time on your medical presentations today.'
     background: white
     pricing_plans:
       - title: INDIVIDUALS
         price: $ 14 / mon
+        saving:
+          - label: Save $72 a year
+            show: true
         details: |
           **Save $72 a year**
 
@@ -30,9 +33,9 @@ sections:
 
           *   Organize your PDF library
         highlight: true
+        institution: false
         actions:
           - label: GET STARTED
-            url: lorem-ipsum
             style: primary
             has_icon: false
             icon: arrow-left
@@ -40,13 +43,16 @@ sections:
             new_window: false
             no_follow: false
       - title: INSTITUTIONS
+        saving:
+          - label: Save $72 a year
+            show: false
         details: >
           nimdone can provide volume licenses for all your students and staff.
           Get in touch for details.
         highlight: false
+        institution: true
         actions:
           - label: CONTACT SALES
-            url: lorem-ipsum
             style: primary
             has_icon: false
             icon: arrow-left
