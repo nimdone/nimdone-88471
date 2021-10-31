@@ -60,5 +60,23 @@ sections:
             new_window: false
             no_follow: false
     type: section_pricing
+    remark_feature: 
+      - title: > 
+            **10 out of 10**  medical presenters report that nimdone saves them time. 
+      - title: >
+            **9 out of 10** report that nimdone reduces the amount of time they spend making presentations by 
+            **at least 75%**.
+    contact: 
+      information: >
+          **Have questions?** Contact us and we’ll be happy to help!
+      actions:
+          - label: hello@nimdone.com
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+    
 template: landing
 ---

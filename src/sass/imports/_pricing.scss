@@ -1,0 +1,254 @@
+.pricing-section {
+    padding: 0%;
+    background: #e5e5e5;
+    .pricing-header {
+        padding: 0px;
+        .background-style {
+            background: linear-gradient(180deg, #59c896 0%, #25b1a3 100%);
+            height: 656px;
+            position: absolute;
+            width: 100%;
+        }
+        & > h2 {
+            font-style: normal;
+            font-weight: bold;
+            font-size: 44px;
+            line-height: 51px;
+            text-align: center;
+            color: #2c2f3b;
+            padding-top: 82px;
+            position: relative;
+        }
+        & > p {
+            font-style: normal;
+            font-weight: normal;
+            font-size: 24px;
+            line-height: 24px;
+            position: relative;
+            text-align: center;
+
+            /* Marketing Page Text */
+
+            color: #2c2f3b;
+        }
+        .toogle-btn-div {
+            height: 38px;
+            position: relative;
+            margin: 38px 0px;
+            display: flex;
+            justify-content: center;
+            .switch {
+                display: inline-block;
+                input {
+                    opacity: 0;
+                    width: 0;
+                    height: 0;
+                }
+            }
+            .slider {
+                position: absolute;
+                cursor: pointer;
+                left: 40%;
+                background-color: #ccc;
+                -webkit-transition: 0.4s;
+                transition: 0.4s;
+                &:before {
+                    position: absolute;
+                    content: "MONTHLY";
+                    left: 4px;
+                    bottom: 4px;
+                    background: #ffffff;
+                    border-radius: 64px;
+                    width: 120px;
+                    height: 36px;
+                    padding: 7px 26px;
+                    -webkit-transition: 0.4s;
+                    transition: 0.4s;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-weight: bold;
+                    font-size: 15px;
+                    line-height: 24px;
+                    color: #2c2f3b;
+                }
+                &::after {
+                    content: "YEARLY";
+                    position: absolute;
+                    right: 40px;
+                    top: 14px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 15px;
+                    line-height: 24px;
+                    text-align: center;
+                    color: #ffffff;
+                }
+            }
+            input {
+                &:checked {
+                    + {
+                        .slider {
+                            &:before {
+                                -webkit-transform: translateX(26px);
+                                -ms-transform: translateX(26px);
+                                transform: translateX(26px);
+                                content: "YEARLY";
+                                left: 109px;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                font-weight: bold;
+                                font-size: 15px;
+                                line-height: 24px;
+                                color: #2c2f3b;
+                            }
+                            &::after {
+                                content: "MONTHLY";
+                                position: absolute;
+                                left: 40px;
+                                top: 14px;
+                                display: flex;
+                                font-style: normal;
+                                font-weight: normal;
+                                font-size: 15px;
+                                line-height: 24px;
+                                text-align: center;
+                                color: #ffffff;
+                            }
+                        }
+                    }
+                }
+                &:focus {
+                    + {
+                        .slider {
+                            box-shadow: 0 0 1px #2196f3;
+                        }
+                    }
+                }
+            }
+            .slider.round {
+                width: 258px;
+                height: 42px;
+                background: #20828a;
+                border-radius: 33px;
+                padding: 7px 26px;
+            }
+        }
+        .inner {
+            position: relative;
+            .cell.plan {
+                position: relative;
+                z-index: 2;
+                right: -23px;
+                &:nth-child(even) {
+                    height: 400px;
+                    position: absolute;
+                    position: relative;
+                    top: 100px;
+                    left: -23px;
+                    z-index: 1;
+                    .card {
+                        background: #f9f9fa;
+                        box-shadow: 0px 10px 20px rgba(82, 87, 92, 0.3);
+                        border-radius: 0px 4px 4px 0px;
+                        padding: 70px 75px;
+                    }
+                }
+                .plan-header {
+                    h3 {
+                        display: flex;
+                        justify-content: center;
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 24px;
+                        line-height: 33px;
+                        display: flex;
+                        align-items: flex-end;
+                        text-align: center;
+                        letter-spacing: 0.03em;
+                        color: #006366;
+                    }
+                    .plan {
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 44px;
+                        line-height: 51px;
+                        text-align: center;
+                        color: #2c2f3b;
+                    }
+                    .plan-price {
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 16px;
+                        line-height: 24px;
+                        /* or 150% */
+
+                        text-align: center;
+
+                        color: #52575c;
+                    }
+                }
+            }
+        }
+    }
+    .remark-feature-div {
+        width: 100%;
+        background: #ffffff;
+        padding: 100px 0px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        & > div {
+            margin-bottom: 40px;
+            display: flex;
+            align-items: center;
+            p{
+                margin-bottom: 0%;
+            }
+            & > img {
+                margin-right: 24px;
+            }
+            width: 80%;
+        }
+    }
+    .contact-us {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 130px 0px;
+    }
+}
+@media screen and (max-width: 869px) {
+    .pricing-section {
+        padding: 0%;
+        .pricing-header {
+            .inner {
+                position: static;
+                .cell.plan {
+                    position: static;
+                    &:nth-child(even) {
+                        height: 400px;
+                        position: static;
+                    }
+                }
+            }
+            .toogle-btn-div {
+                .slider {
+                    left: 29%;
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width: 869px) {
+    .pricing-section {
+        .pricing-header {
+            .toogle-btn-div {
+                .slider {
+                    left: 19%;
+                }
+            }
+        }
+    }
+}
