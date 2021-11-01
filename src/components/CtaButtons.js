@@ -7,6 +7,7 @@ export default class CtaButtons extends React.Component {
   render() {
     let actions = _.get(this.props, 'actions', null)
     let customStyle = _.get(this.props, 'customStyle', null)
+    
     return _.map(actions, (action, action_idx) => (
       <Action
         key={action_idx}

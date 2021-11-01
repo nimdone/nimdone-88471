@@ -31,6 +31,11 @@
 
             color: #2c2f3b;
         }
+        .saving-style {
+            position: absolute;
+            right: -171px;
+            top: 13px;
+        }
         .toogle-btn-div {
             height: 38px;
             position: relative;
@@ -38,23 +43,29 @@
             display: flex;
             justify-content: center;
             .switch {
+                width: 100%;
                 display: inline-block;
                 input {
                     opacity: 0;
                     width: 0;
                     height: 0;
                 }
+                & > span {
+                    width: 100%;
+                    display: flex;
+                    justify-content: center;
+                }
             }
             .slider {
-                position: absolute;
+                position: relative;
                 cursor: pointer;
-                left: 40%;
+                // left: 40%;
                 background-color: #ccc;
                 -webkit-transition: 0.4s;
                 transition: 0.4s;
                 &:before {
                     position: absolute;
-                    content: "MONTHLY";
+                    content: "MONTHLY \a0"url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAICAYAAADA+m62AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABoSURBVHgBjc7BDYAgDAXQX1yko+gmruGNeDFxCjdxFLuIRYqBGIOGf4G0L20JP2G/MFy32981IAYCqAEJVAfieT1SV89B/CQ1ZPW8OjUj6mvovjFOiq9kXEMW+rrpiQosmNyIoNsbWS7NskCBXqlOSQAAAABJRU5ErkJggg==");
                     left: 4px;
                     bottom: 4px;
                     background: #ffffff;
@@ -93,7 +104,7 @@
                                 -webkit-transform: translateX(26px);
                                 -ms-transform: translateX(26px);
                                 transform: translateX(26px);
-                                content: "YEARLY";
+                                content: "YEARLY \a0"url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAICAYAAADA+m62AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABoSURBVHgBjc7BDYAgDAXQX1yko+gmruGNeDFxCjdxFLuIRYqBGIOGf4G0L20JP2G/MFy32981IAYCqAEJVAfieT1SV89B/CQ1ZPW8OjUj6mvovjFOiq9kXEMW+rrpiQosmNyIoNsbWS7NskCBXqlOSQAAAABJRU5ErkJggg==");
                                 left: 109px;
                                 display: flex;
                                 align-items: center;
@@ -176,6 +187,7 @@
                         line-height: 51px;
                         text-align: center;
                         color: #2c2f3b;
+                        margin-top: 17px;
                     }
                     .plan-price {
                         font-style: normal;
@@ -187,6 +199,21 @@
                         text-align: center;
 
                         color: #52575c;
+                    }
+                }
+                .plan-content {
+                    ul {
+                        li {
+                            p {
+                                font-style: normal;
+                                font-weight: bold;
+                                font-size: 16px;
+                                line-height: 24px;
+                                /* or 150% */
+
+                                color: #2c2f3b;
+                            }
+                        }
                     }
                 }
             }
@@ -203,7 +230,7 @@
             margin-bottom: 40px;
             display: flex;
             align-items: center;
-            p{
+            p {
                 margin-bottom: 0%;
             }
             & > img {
@@ -216,7 +243,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 130px 0px;
+        padding: 130px 16px;
     }
 }
 @media screen and (max-width: 869px) {
@@ -233,21 +260,43 @@
                     }
                 }
             }
-            .toogle-btn-div {
-                .slider {
-                    left: 29%;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .pricing-section {
+        padding: 0%;
+        .pricing-header {
+            .inner {
+                margin-top: 115px;
+                
+                .cell.plan {
+                    position: static;
+                    &:nth-child(even) {
+                        height: 400px;
+                        position: static;
+                    }
+                }
+            }
+            .saving-style {
+                position: absolute;
+                right: -15px;
+                top: 65px;
+                &>img{
+                    display: none;
                 }
             }
         }
     }
 }
-@media screen and (max-width: 869px) {
+@media screen and (max-width: 480px) {
     .pricing-section {
         .pricing-header {
-            .toogle-btn-div {
-                .slider {
-                    left: 19%;
-                }
+            .saving-style {
+                position: absolute;
+                right: 10px;
+              
             }
         }
     }

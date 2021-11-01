@@ -7,8 +7,6 @@ import CtaButtons from "./CtaButtons";
 export default class SectionPricing extends React.Component {
   render() {
     let section = _.get(this.props, "section", null);
-    console.log("section", section);
-    console.log("this.props", this.props);
     return (
       <section
         id={_.get(section, "section_id", null)}
@@ -24,14 +22,22 @@ export default class SectionPricing extends React.Component {
               {htmlToReact(_.get(section, "subtitle", null))}
             </p>
           )}
+          {/* <div> */}
           <div className="toogle-btn-div">
             <label class="switch">
+              <span>
               <input type="checkbox" />
-              {/* <span> */}
-              <span class="slider round"></span>
-              {/* </span> */}
-            </label>
+              <span class="slider round">
+              <div className="saving-style">
+            <img src={require('./../images/right-arrows.png')}/>
+            <i>save 30% yearly!</i>
           </div>
+              </span>
+              </span>
+            </label>
+          </div> 
+          
+          {/* </div> */}
           {_.get(section, "pricing_plans", null) && (
             <div className="inner">
               <div className="grid">
@@ -56,7 +62,7 @@ export default class SectionPricing extends React.Component {
                             </div>
                           )}
                           {_.get(plan, "price", null) && (
-                            <div className="plan-price">
+                            <div className="plan">
                               {_.get(plan, "price", null)}
                             </div>
                           )}
@@ -82,6 +88,9 @@ export default class SectionPricing extends React.Component {
                                   borderRadius: "8px",
                                   background: "#006366",
                                   border: "none",
+                                }}
+                                iconStyle={{
+                                  marginLeft:"10px"
                                 }}
                               />
                             </div>
