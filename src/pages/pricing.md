@@ -19,7 +19,7 @@ sections:
           - label: Save $72 a year
             show: true
         details: |
-          **Save $72 a year**
+          
 
           *   Create unlimited presentations
 
@@ -72,11 +72,13 @@ sections:
       actions:
           - label: hello@nimdone.com
             style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
+            has_icon: true
+            icon: chevron
+            icon_position: right
             new_window: false
             no_follow: false
+            iconStyle: 
+              marginLeft: 20px
     
 template: landing
 ---
