@@ -5,7 +5,15 @@ import { htmlToReact, classNames, markdownify } from "../utils";
 import CtaButtons from "./CtaButtons";
 
 export default class SectionPricing extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { isYearly: false };
+  }
+
+  toggleYearlyPackage = () => this.setState({ isYearly: !this.state.isYearly });
+
   render() {
+    const { isYearly } = this.state;
     let section = _.get(this.props, "section", null);
     return (
       <section
@@ -26,17 +34,24 @@ export default class SectionPricing extends React.Component {
           <div className="toogle-btn-div">
             <label class="switch">
               <span>
-              <input type="checkbox" />
-              <span class="slider round">
-              <div className="saving-style">
-            <img src={require('./../images/right-arrows.png')}/>
-            <i>save 30% yearly!</i>
-          </div>
-              </span>
+                <input type="checkbox" checked={isYearly} />
+                <span onClick={this.toggleYearlyPackage} class="slider round">
+                  <div className="saving-style">
+                  {_.get(section, "yearly_saving", null) && (
+                    _.get(_.get(section, "yearly_saving", null),"image",null))&&(
+                       <img src={_.get(_.get(section, "yearly_saving", null),"image",null)}/>
+                       )
+                    }
+                  {_.get(section, "yearly_saving", null) && (
+                    _.get(_.get(section, "yearly_saving", null),"title",null))&&(
+                      markdownify( _.get(_.get(section, "yearly_saving", null),"title",null)))
+                    }
+                  </div>
+                </span>
               </span>
             </label>
-          </div> 
-          
+          </div>
+
           {/* </div> */}
           {_.get(section, "pricing_plans", null) && (
             <div className="inner">
@@ -61,12 +76,13 @@ export default class SectionPricing extends React.Component {
                               {_.get(plan, "subtitle", null)}
                             </div>
                           )}
-                          {_.get(plan, "price", null) && (
-                            <div className="plan">
-                              {_.get(plan, "price", null)}
+                          {_.get(plan,`price_${isYearly?"yearly": "monthly"}`, null) && (
+                            <div className="plan" style={{paddingTop:!isYearly?"33px":""}}>
+                              {_.get(plan,`price_${isYearly?"yearly": "monthly"}`, null)}
                             </div>
                           )}
-                          {_.map(
+                          {
+                          isYearly&&_.map(
                             _.get(plan, "saving", null),
                             (saving) =>
                               saving.show && (
@@ -88,9 +104,10 @@ export default class SectionPricing extends React.Component {
                                   borderRadius: "8px",
                                   background: "#006366",
                                   border: "none",
+                                  marginBottom: "28px",
                                 }}
                                 iconStyle={{
-                                  marginLeft:"10px"
+                                  marginLeft: "10px",
                                 }}
                               />
                             </div>
@@ -127,7 +144,7 @@ export default class SectionPricing extends React.Component {
           <div className="remark-feature-div">
             {_.map(_.get(section, "remark_feature", null), (item, rem_id) => (
               <div>
-                <img src={require("./../images/clock.png")} />
+                <img src={item.image} />
                 {_.get(item, "title", null) && (
                   <span>{markdownify(_.get(item, "title", null))}</span>
                 )}

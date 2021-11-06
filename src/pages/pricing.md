@@ -11,10 +11,15 @@ sections:
   - section_id: pricing
     title: Pricing guide
     subtitle: 'Start saving time on your medical presentations today.'
+    yearly_saving: 
+      title: _save 30% yearly!_
+      image: images/right-arrows.png
     background: white
     pricing_plans:
       - title: INDIVIDUALS
-        price: $ 14 / mon
+        price_yearly: $ 14 / mon
+        price_monthly: $ 20 / mon
+
         saving:
           - label: Save $72 a year
             show: true
@@ -63,9 +68,12 @@ sections:
     remark_feature: 
       - title: > 
             **10 out of 10**  medical presenters report that nimdone saves them time. 
+        image: images/clock.png
+        
       - title: >
             **9 out of 10** report that nimdone reduces the amount of time they spend making presentations by 
             **at least 75%**.
+        image: images/clock.png
     contact: 
       information: >
           **Have questions?** Contact us and we’ll be happy to help!
