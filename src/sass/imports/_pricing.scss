@@ -33,8 +33,16 @@
         }
         .saving-style {
             position: absolute;
-            right: -171px;
+            right: -183px;
             top: 13px;
+            display: flex;
+            align-items: center;
+            & > img {
+                margin-right: 5px;
+            }
+            &>p {
+                margin-bottom: 0;
+            }
         }
         .toogle-btn-div {
             height: 38px;
@@ -270,7 +278,7 @@
         .pricing-header {
             .inner {
                 margin-top: 115px;
-                
+
                 .cell.plan {
                     position: static;
                     &:nth-child(even) {
@@ -283,7 +291,7 @@
                 position: absolute;
                 right: -15px;
                 top: 65px;
-                &>img{
+                & > img {
                     display: none;
                 }
             }
@@ -296,7 +304,6 @@
             .saving-style {
                 position: absolute;
                 right: 10px;
-              
             }
         }
     }
