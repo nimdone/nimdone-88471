@@ -13,7 +13,7 @@ sections:
     subtitle: 'Start saving time on your medical presentations today.'
     yearly_saving: 
       title: _save 30% yearly!_
-      image: images/right-arrow-removebg-preview.png
+      image: images/right-arrow.webp
     background: white
     pricing_plans:
       - title: INDIVIDUALS
