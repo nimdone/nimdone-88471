@@ -124,14 +124,16 @@ export default class Header extends React.Component {
                           ),
                           this.renderAction
                         )}
-                        <NavForm
+                       
+                        <button className="login-button-style ">Login</button>
+                        {/* <NavForm
                           section={_.get(
                             this.props,
                             'pageContext.site.siteMetadata.header.form',
                             null
                           )}
                           site={this.props.pageContext.site}
-                        />
+                        /> */}
                       </ul>
                     </div>
                   </nav>

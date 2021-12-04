@@ -91,6 +91,20 @@
     }
   }
 
+  .login-button-style {
+    width: 97px;
+    height: 34px;
+    background: #006366;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;  
+    color: #ffffff;
+    margin-left: 48px;
+    border: none;
+    cursor: pointer;
+  }
+
   @supports (position: sticky) or (position: -webkit-sticky) {
     .site-header {
       background: #fff;
@@ -115,14 +129,13 @@
   .site-header {
     &:before {
       background: rgba($gray-100, 0.75);
-      content: '';
+      content: "";
       height: 100vh;
       left: 0;
       opacity: 0;
       position: absolute;
       top: 0;
-      -webkit-transition: opacity 0.15s ease-in-out,
-        visibility 0s ease-in-out 0.15s;
+      -webkit-transition: opacity 0.15s ease-in-out, visibility 0s ease-in-out 0.15s;
       transition: opacity 0.15s ease-in-out, visibility 0s ease-in-out 0.15s;
       visibility: hidden;
       width: 100%;
