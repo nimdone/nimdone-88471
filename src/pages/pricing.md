@@ -68,12 +68,12 @@ sections:
     remark_feature: 
       - title: > 
             **10 out of 10**  medical presenters report that nimdone saves them time. 
-        image: images/clock.png
+        image: images/clock.svg
         
       - title: >
             **9 out of 10** report that nimdone reduces the amount of time they spend making presentations by 
             **at least 75%**.
-        image: images/clock.png
+        image: images/clock.svg
     contact: 
       information: >
           **Have questions?** Contact us and we’ll be happy to help!
