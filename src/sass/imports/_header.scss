@@ -1,6 +1,6 @@
 .site-header {
   background: #fff;
-  color: $gray-700;
+  color: #666666;
   padding-bottom: 1em;
   padding-top: 1em;
 
@@ -56,7 +56,8 @@
 
   .site-navigation {
     .current-menu-item {
-      color: $gray-500;
+      color: #2C2F3B;
+      border-bottom: 1px solid;
     }
 
     a:not(.button) {
@@ -192,6 +193,7 @@
     }
 
     .menu-item {
+      color: #666666;
       &.menu-button {
         margin-top: 1.66667em;
       }
