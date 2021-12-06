@@ -13,6 +13,9 @@ export default class Action extends React.Component {
     let action_icon_pos = _.get(action, "icon_position", null) || "left";
     const getLink = () => {
       const pageLink = _.get(action, "url", null);
+      if (pageLink && pageLink.startsWith("mailto:")) {
+        return pageLink;
+      }
       if (pageLink) {
         return withPrefix(pageLink);
       }
@@ -39,10 +42,7 @@ export default class Action extends React.Component {
         style={customStyle ? customStyle : {}}
       >
         {_.get(action, "has_icon", null) && (
-          <Icon
-            {...this.props}
-            icon={action_icon}
-          />
+          <Icon {...this.props} icon={action_icon} />
         )}
         <span
           className={classNames({ "order-first": action_icon_pos === "right" })}

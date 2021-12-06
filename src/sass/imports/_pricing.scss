@@ -160,6 +160,7 @@
                 position: relative;
                 z-index: 2;
                 right: -23px;
+                margin-bottom: 96px;
                 &:nth-child(even) {
                     height: 400px;
                     position: absolute;
@@ -262,6 +263,7 @@
                 position: static;
                 .cell.plan {
                     position: static;
+                    margin-bottom: 16px;
                     &:nth-child(even) {
                         height: 400px;
                         position: static;

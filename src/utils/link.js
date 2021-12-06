@@ -17,6 +17,13 @@ export default function Link({
   const internal = /^\/(?!\/)/.test(to)
 
   // Use Gatsby Link for internal links, and <a> for others
+  if (to && to.startsWith("mailto:")) {
+    return (
+      <a href={to} {...other} target="_blank">
+        {children}
+      </a>
+    );
+  }
   if (internal) {
     return (
       <GatsbyLink
@@ -27,11 +34,11 @@ export default function Link({
       >
         {children}
       </GatsbyLink>
-    )
+    );
   }
   return (
     <a href={to} {...other}>
       {children}
     </a>
-  )
+  );
 }
