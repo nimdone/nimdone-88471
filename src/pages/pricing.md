@@ -64,6 +64,7 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
+            url: mailto:hello@nimdone.com
     type: section_pricing
     remark_feature: 
       - title: > 
