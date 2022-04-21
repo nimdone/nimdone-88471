@@ -1,27 +1,28 @@
-import React from 'react'
-import _ from 'lodash'
+import React from "react";
+import _ from "lodash";
 
-import { Link, withPrefix, classNames } from '../utils'
-import Action from './Action'
-import NavForm from './NavForm'
+import { Link, withPrefix, classNames } from "../utils";
+import Action from "./Action";
+import NavForm from "./NavForm";
+import { webAppUrl } from "../config";
 
 export default class Header extends React.Component {
   renderAction = (action, action_idx) => {
-    let page_url = _.trim(_.get(this.props, 'pageContext.url', null), '/')
-    let action_url = _.trim(_.get(action, 'url', null), '/')
-    let action_style = _.get(action, 'style', null) || 'link'
+    let page_url = _.trim(_.get(this.props, "pageContext.url", null), "/");
+    let action_url = _.trim(_.get(action, "url", null), "/");
+    let action_style = _.get(action, "style", null) || "link";
     return (
       <li
         key={action_idx}
-        className={classNames('menu-item', {
-          'current-menu-item': page_url === action_url,
-          'menu-button': action_style !== 'link',
+        className={classNames("menu-item", {
+          "current-menu-item": page_url === action_url,
+          "menu-button": action_style !== "link",
         })}
       >
         <Action {...this.props} action={action} />
       </li>
-    )
-  }
+    );
+  };
 
   render() {
     return (
@@ -31,63 +32,63 @@ export default class Header extends React.Component {
             <div className="site-branding">
               {_.get(
                 this.props,
-                'pageContext.site.siteMetadata.header.logo_img',
+                "pageContext.site.siteMetadata.header.logo_img",
                 null
               ) && (
                 <p className="site-logo">
-                  <Link to={withPrefix('/')}>
+                  <Link to={withPrefix("/")}>
                     <img
                       src={withPrefix(
                         _.get(
                           this.props,
-                          'pageContext.site.siteMetadata.header.logo_img',
+                          "pageContext.site.siteMetadata.header.logo_img",
                           null
                         )
                       )}
                       alt={_.get(
                         this.props,
-                        'pageContext.site.siteMetadata.header.logo_img_alt',
+                        "pageContext.site.siteMetadata.header.logo_img_alt",
                         null
                       )}
                     />
                   </Link>
                 </p>
               )}
-              {_.get(this.props, 'pageContext.frontmatter.template', null) ===
-                'landing' ||
-              _.get(this.props, 'pageContext.frontmatter.template', null) ===
-                'blog' ? (
+              {_.get(this.props, "pageContext.frontmatter.template", null) ===
+                "landing" ||
+              _.get(this.props, "pageContext.frontmatter.template", null) ===
+                "blog" ? (
                 <h1
-                  className={classNames('site-title', {
-                    'screen-reader-text': _.get(
+                  className={classNames("site-title", {
+                    "screen-reader-text": _.get(
                       this.props,
-                      'pageContext.site.siteMetadata.header.logo_img',
+                      "pageContext.site.siteMetadata.header.logo_img",
                       null
                     ),
                   })}
                 >
-                  <Link to={withPrefix('/')}>
+                  <Link to={withPrefix("/")}>
                     {_.get(
                       this.props,
-                      'pageContext.site.siteMetadata.title',
+                      "pageContext.site.siteMetadata.title",
                       null
                     )}
                   </Link>
                 </h1>
               ) : (
                 <p
-                  className={classNames('site-title', {
-                    'screen-reader-text': _.get(
+                  className={classNames("site-title", {
+                    "screen-reader-text": _.get(
                       this.props,
-                      'pageContext.site.siteMetadata.header.logo_img',
+                      "pageContext.site.siteMetadata.header.logo_img",
                       null
                     ),
                   })}
                 >
-                  <Link to={withPrefix('/')}>
+                  <Link to={withPrefix("/")}>
                     {_.get(
                       this.props,
-                      'pageContext.site.siteMetadata.title',
+                      "pageContext.site.siteMetadata.title",
                       null
                     )}
                   </Link>
@@ -96,12 +97,12 @@ export default class Header extends React.Component {
             </div>
             {_.get(
               this.props,
-              'pageContext.site.siteMetadata.header.nav_links',
+              "pageContext.site.siteMetadata.header.nav_links",
               null
             ) &&
               _.get(
                 this.props,
-                'pageContext.site.siteMetadata.header.has_nav',
+                "pageContext.site.siteMetadata.header.has_nav",
                 null
               ) && (
                 <React.Fragment>
@@ -119,13 +120,18 @@ export default class Header extends React.Component {
                         {_.map(
                           _.get(
                             this.props,
-                            'pageContext.site.siteMetadata.header.nav_links',
+                            "pageContext.site.siteMetadata.header.nav_links",
                             null
                           ),
                           this.renderAction
                         )}
-                       
-                        <button className="login-button-style ">Login</button>
+
+                        <button
+                          onClick={() => window.open(webAppUrl, "_blank")}
+                          className="login-button-style "
+                        >
+                          Login
+                        </button>
                         {/* <NavForm
                           section={_.get(
                             this.props,
@@ -146,6 +152,6 @@ export default class Header extends React.Component {
           </div>
         </div>
       </header>
-    )
+    );
   }
 }
