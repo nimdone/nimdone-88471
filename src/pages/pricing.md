@@ -10,8 +10,8 @@ no_index: false
 sections:
   - section_id: pricing
     title: Pricing guide
-    subtitle: 'Start saving time on your medical presentations today.'
-    yearly_saving: 
+    subtitle: "Start saving time on your medical presentations today."
+    yearly_saving:
       title: _save 30% yearly!_
       image: images/right-arrow.webp
     background: white
@@ -24,7 +24,7 @@ sections:
           - label: Save $72 a year
             show: true
         details: |
-          
+
 
           *   Create unlimited presentations
 
@@ -67,28 +67,29 @@ sections:
             no_follow: false
             url: mailto:hello@nimdone.com
     type: section_pricing
-    remark_feature: 
-      - title: > 
-            **10 out of 10**  medical presenters report that nimdone saves them time. 
-        image: images/clock.svg
-        
+    remark_feature:
       - title: >
-            **9 out of 10** report that nimdone reduces the amount of time they spend making presentations by 
-            **at least 75%**.
+          **10 out of 10**  medical presenters report that nimdone saves them time.
         image: images/clock.svg
-    contact: 
+
+      - title: >
+          **9 out of 10** report that nimdone reduces the amount of time they spend making presentations by 
+          **at least 75%**.
+        image: images/clock.svg
+    contact:
       information: >
-          **Have questions?** Contact us and we’ll be happy to help!
+        **Have questions?** Contact us and we’ll be happy to help!
       actions:
-          - label: hello@nimdone.com
-            style: primary
-            has_icon: true
-            icon: chevron
-            icon_position: right
-            new_window: false
-            no_follow: false
-            iconStyle: 
-              marginLeft: 20px
-    
+        - label: hello@nimdone.com
+          style: primary
+          has_icon: true
+          icon: chevron
+          icon_position: right
+          new_window: false
+          no_follow: false
+          url: mailto:hello@nimdone.com
+          iconStyle:
+            marginLeft: 20px
+
 template: landing
 ---
