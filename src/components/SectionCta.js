@@ -33,7 +33,6 @@ export default class SectionCta extends React.Component {
                 />
               </div>
             )}
-            <SignUpForm section={section.form} />
           </div>
         </div>
       </section>

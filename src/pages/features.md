@@ -30,19 +30,9 @@ sections:
     title: >-
       Average medical presentation can take several hours to even weeks. See how
       we save time
-    subtitle: ''
-    form:
-      title: Subscribe
-      content: Stay up to date with our latest developments.
-      form_id: contactForm
-      hide_labels: true
-      form_fields:
-        - input_type: email
-          name: EMAIL
-          label: Email
-          default_value: Enter email address
-          is_required: true
-      submit_label: Try Beta Version
-      form_action: 'https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe'
+    actions:
+      - label: Get Started
+        url: '/pricing'
+        style: primary
 template: landing
 ---
