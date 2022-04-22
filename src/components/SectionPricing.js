@@ -7,7 +7,7 @@ import CtaButtons from "./CtaButtons";
 export default class SectionPricing extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { isYearly: false };
+    this.state = { isYearly: true };
   }
 
   toggleYearlyPackage = () => this.setState({ isYearly: !this.state.isYearly });
