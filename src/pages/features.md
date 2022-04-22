@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/Picture14.png
+    image: images/new-Picture14.png
     image_alt: App preview on a phone and tablet
     title: Let nimdone be your slide assistant
     content: >
@@ -32,7 +32,7 @@ sections:
       we save time
     actions:
       - label: Get Started
-        url: '/pricing'
+        url: "/pricing"
         style: primary
 template: landing
 ---
