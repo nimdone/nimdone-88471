@@ -8,8 +8,8 @@ sections:
     title: A faster way to make medical presentations
     content: ''
     actions:
-      - label: Learn more
-        url: '/#features'
+      - label: Save Time Today!
+        url: '/pricing'
         style: primary
       - label: ''
         url: lorem-ipsum
