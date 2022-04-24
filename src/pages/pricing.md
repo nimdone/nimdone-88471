@@ -17,8 +17,8 @@ sections:
     background: white
     pricing_plans:
       - title: INDIVIDUALS
-        price_yearly: $ 14 / mon
-        price_monthly: $ 20 / mon
+        price_yearly: $ 14 / mo
+        price_monthly: $ 20 / mo
 
         saving:
           - label: Save $72 a year
