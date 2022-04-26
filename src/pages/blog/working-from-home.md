@@ -11,7 +11,7 @@ thumb_image_webp: images/splendid-eggplant.webp
 thumb_image_alt: A chart with the title "Average time saved using nimdone"
 image: images/oval-crane.png
 thumb_image: images/Picture6.png
-meta_title: Nimdone | Make Medical Presentation
+meta_title: nimdone | Make Medical Presentations
 meta_description: >-
   Best tool to make medical powerpoint presentations. A new search experience on
   PubMed, organize papers in an online library and faster way to make

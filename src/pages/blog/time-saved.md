@@ -12,9 +12,9 @@ image: 'https://nimdone.s3-us-west-1.amazonaws.com/time-saved.png'
 image_webp: images/time-saved.webp
 thumb_image: 'https://nimdone.s3-us-west-1.amazonaws.com/time-saved.png'
 thumb_image_webp: images/time-saved.webp
-meta_title: 'Nimdone | Best Presentation Software | Making Presentation '
+meta_title: 'nimdone | Best Presentation Software | Making Presentation '
 meta_description: >-
-  Nimdone is a Best Presentation Software to make best medical presentation.
+  nimdone is a Best Presentation Software to make best medical presentation.
   Visit our site and get more details. 
 image_alt: 'Best Presentation Software | Making Presentation '
 ---

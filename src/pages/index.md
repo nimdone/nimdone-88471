@@ -95,9 +95,9 @@ sections:
     type: section_posts
     background: gray
     title: Research
-meta_title: 'Nimdone: Innovative way to search pubmed and make powerpoint presentations'
+meta_title: 'nimdone: Innovative way to search pubmed and make powerpoint presentations'
 meta_description: >-
-  Nimdone is a custom-built tool to make powerpoint presentations in medicine.
+  nimdone is a custom-built tool to make powerpoint presentations in medicine.
   It offers a new search experience within PubMed, user can organize papers into
   an online library and try an innovative way to design presentations
 template: landing

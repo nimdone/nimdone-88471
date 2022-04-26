@@ -23,7 +23,7 @@
                 "no_follow": false
             }
         ],
-        "logo_img_alt": "Nimdone"
+        "logo_img_alt": "nimdone"
     },
     "footer": {
         "sections": [
@@ -110,7 +110,7 @@
         ],
         "content": "Copyright © 2021 nimdone, Inc. All rights reserved."
     },
-    "title": "Nimdone | Make Medical Presentations Online",
+    "title": "nimdone | Make Medical Presentations Online",
     "domain": "www.nimdone.com",
     "favicon": "images/magenta-amaranth.png"
 }
