@@ -25,6 +25,7 @@ sections:
             show: true
         details: |
 
+          *   FREE 7-day trial
 
           *   Create unlimited presentations
 
@@ -40,7 +41,7 @@ sections:
         highlight: true
         institution: false
         actions:
-          - label: GET STARTED
+          - label: START MY FREE TRIAL
             style: primary
             has_icon: false
             icon: arrow-left
