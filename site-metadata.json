@@ -7,12 +7,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Product",
-                "url": "/features",
-                "style": "link",
-                "has_icon": false
-            },
-            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link",

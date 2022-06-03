@@ -8,7 +8,7 @@ sections:
     title: A faster way to make medical presentations
     content: ''
     actions:
-      - label: Save Time Today!
+      - label: TRY FOR FREE TODAY
         url: '/pricing'
         style: primary
       - label: ''
@@ -33,7 +33,7 @@ sections:
       - title: 1-click to PDF
         video: 'https://nimdone.s3-us-west-1.amazonaws.com/pubmed-saved.mp4'
         content: >
-          **Search PubMed and nimdone will extract the PDF avoiding multiple
+          **Search PubMed and the nimdone [Chrome extension](https://chrome.google.com/webstore/detail/nimdone/cnhjemplokjcfmedeffljeljjgkdbihl) will extract the PDF avoiding multiple
           clicks**
         actions:
           - label: ''
@@ -57,7 +57,7 @@ sections:
       - title: Library
         content: >
           **Organize your papers into folders and maintain a library that can be
-          accessed anytime and from anywhere**
+          accessed anytime and from anywhere. Use the [Chrome extension](https://chrome.google.com/webstore/detail/nimdone/cnhjemplokjcfmedeffljeljjgkdbihl) to access this feature from PubMed**
         actions: []
         type: feature_item
         video: 'https://nimdone.s3-us-west-1.amazonaws.com/pubmed-organize.mp4'

@@ -125,7 +125,6 @@ export default class Header extends React.Component {
                           ),
                           this.renderAction
                         )}
-
                         <button
                           onClick={() => window.open(webAppUrl, "_blank")}
                           className="login-button-style "

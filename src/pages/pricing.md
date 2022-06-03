@@ -9,8 +9,8 @@ canonical_url: lorem-ipsum
 no_index: false
 sections:
   - section_id: pricing
-    title: Pricing guide
-    subtitle: "Start saving time on your medical presentations today."
+    title: Pricing
+    subtitle: "You have a free 7 day period, your card will not be charged until the trial ends."
     yearly_saving:
       title: _save 30% yearly!_
       image: images/right-arrow.webp

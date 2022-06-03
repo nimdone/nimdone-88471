@@ -31,7 +31,7 @@ sections:
       Average medical presentation can take several hours to even weeks. See how
       we save time
     actions:
-      - label: Save Time Today!
+      - label: TRY FOR FREE TODAY
         url: '/pricing'
         style: primary
 template: landing
