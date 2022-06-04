@@ -35,7 +35,7 @@ class SectionHero extends React.Component {
                   />
                 </div>
               )}
-              <div className="subtitle button secondary">{subtitleAsText}</div>
+              <div className="subtitle">{subtitleAsText}</div>
             </div>
           </div>
         </div>

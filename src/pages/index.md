@@ -6,15 +6,14 @@ sections:
     image: images/Picture2.png
     image_alt: product video tour
     title: A faster way to make medical presentations
-    content: ''
+    content: 'Purpose-built to simplify making medical presentations. Try nimdone for
+      your next grand rounds, journal club, noon conference or any teaching
+      seminar!'
     actions:
       - label: TRY FOR FREE TODAY
         url: '/pricing'
         style: primary
-    subtitle: >
-      Purpose-built to simplify making medical presentations. Try nimdone for
-      your next grand rounds, journal club, noon conference or any teaching
-      seminar! 
+    subtitle: 
   - section_id: features
     type: section_features
     background: gray
