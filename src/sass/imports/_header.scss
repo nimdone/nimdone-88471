@@ -92,6 +92,26 @@
     }
   }
 
+  .chrome-icon {
+    width: 15px; 
+    height: 15px;
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+  .chrome-button-style {
+    width: 180px;
+    height: 34px;
+    background: #006366;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;  
+    color: #ffffff;
+    margin-left: 30px;
+    border: none;
+    cursor: pointer;
+  }
+
   .login-button-style {
     width: 97px;
     height: 34px;
@@ -101,7 +121,7 @@
     font-weight: 600;
     font-size: 18px;  
     color: #ffffff;
-    margin-left: 48px;
+    margin-left: 30px;
     border: none;
     cursor: pointer;
   }

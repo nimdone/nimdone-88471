@@ -11,15 +11,6 @@ sections:
       - label: TRY FOR FREE TODAY
         url: '/pricing'
         style: primary
-      - label: ''
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
     subtitle: >
       Purpose-built to simplify making medical presentations. Try nimdone for
       your next grand rounds, journal club, noon conference or any teaching
