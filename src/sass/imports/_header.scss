@@ -70,6 +70,38 @@
   }
 }
 
+.chrome-icon {
+  width: 15px; 
+  height: 15px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.chrome-button-style {
+  width: 180px;
+  height: 34px;
+  background: #006366;
+  border-radius: 4px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;  
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+.login-button-style {
+  width: 97px;
+  height: 34px;
+  background: #006366;
+  border-radius: 4px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;  
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
 @media (min-width: 801px) {
   .menu-toggle {
     display: none;
@@ -92,38 +124,12 @@
     }
   }
 
-  .chrome-icon {
-    width: 15px; 
-    height: 15px;
-    vertical-align: middle;
-    margin-right: 10px;
-  }
   .chrome-button-style {
-    width: 180px;
-    height: 34px;
-    background: #006366;
-    border-radius: 4px;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;  
-    color: #ffffff;
     margin-left: 30px;
-    border: none;
-    cursor: pointer;
   }
 
   .login-button-style {
-    width: 97px;
-    height: 34px;
-    background: #006366;
-    border-radius: 4px;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;  
-    color: #ffffff;
     margin-left: 30px;
-    border: none;
-    cursor: pointer;
   }
 
   @supports (position: sticky) or (position: -webkit-sticky) {
@@ -266,6 +272,16 @@
         visibility: visible;
       }
     }
+  }
+
+  .chrome-button-style {
+    display: block;
+    margin-top: 20px;
+  }
+
+  .login-button-style {
+    display: block;
+    margin-top: 20px;
   }
 }
 
