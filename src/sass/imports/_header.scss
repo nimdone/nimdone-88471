@@ -80,14 +80,17 @@
 .chrome-button-style {
   width: 180px;
   height: 34px;
-  background: #006366;
+  border-color: #006366;
+  background: #fff;
   border-radius: 4px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 18px;  
-  color: #ffffff;
-  border: none;
+  color: #666666;
+  border: solid;
+  border-width: 2px;
   cursor: pointer;
+  vertical-align: middle;
 }
 .login-button-style {
   width: 97px;
