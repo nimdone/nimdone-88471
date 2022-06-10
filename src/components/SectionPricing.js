@@ -30,6 +30,11 @@ export default class SectionPricing extends React.Component {
               {htmlToReact(_.get(section, "subtitle", null))}
             </p>
           )}
+          {_.get(section, "fineprint", null) && (
+            <p className="block-fineprint">
+              {htmlToReact(_.get(section, "fineprint", null))}
+            </p>
+          )}
           {/* <div> */}
           <div className="toogle-btn-div">
             <label class="switch">

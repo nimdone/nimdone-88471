@@ -11,6 +11,7 @@ sections:
   - section_id: pricing
     title: Pricing Plans
     subtitle: "You will have a free 7 day period, your card will not be charged until the trial ends. Cancel anytime."
+    fineprint: "*our payments are processed by Stripe Inc"
     annual_saving:
       title: _save 30% on the annual plan!_
       image: images/right-arrow.webp
