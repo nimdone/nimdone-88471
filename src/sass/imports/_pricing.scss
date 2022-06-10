@@ -33,7 +33,7 @@
         }
         .saving-style {
             position: absolute;
-            right: -183px;
+            right: -283px;
             top: 13px;
             display: flex;
             align-items: center;
@@ -92,7 +92,7 @@
                     color: #2c2f3b;
                 }
                 &::after {
-                    content: "YEARLY";
+                    content: "ANNUAL";
                     position: absolute;
                     right: 40px;
                     top: 14px;
@@ -112,7 +112,7 @@
                                 -webkit-transform: translateX(26px);
                                 -ms-transform: translateX(26px);
                                 transform: translateX(26px);
-                                content: "YEARLY \a0"url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAICAYAAADA+m62AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABoSURBVHgBjc7BDYAgDAXQX1yko+gmruGNeDFxCjdxFLuIRYqBGIOGf4G0L20JP2G/MFy32981IAYCqAEJVAfieT1SV89B/CQ1ZPW8OjUj6mvovjFOiq9kXEMW+rrpiQosmNyIoNsbWS7NskCBXqlOSQAAAABJRU5ErkJggg==");
+                                content: "ANNUAL \a0"url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAICAYAAADA+m62AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABoSURBVHgBjc7BDYAgDAXQX1yko+gmruGNeDFxCjdxFLuIRYqBGIOGf4G0L20JP2G/MFy32981IAYCqAEJVAfieT1SV89B/CQ1ZPW8OjUj6mvovjFOiq9kXEMW+rrpiQosmNyIoNsbWS7NskCBXqlOSQAAAABJRU5ErkJggg==");
                                 left: 109px;
                                 display: flex;
                                 align-items: center;
@@ -260,6 +260,8 @@
         padding: 0%;
         .pricing-header {
             .inner {
+                margin-top: 115px;
+
                 position: static;
                 .cell.plan {
                     position: static;
@@ -268,6 +270,14 @@
                         height: 400px;
                         position: static;
                     }
+                }
+            }
+            .saving-style {
+                position: absolute;
+                right: 26px;
+                top: 65px;
+                & > img {
+                    display: none;
                 }
             }
         }
@@ -291,7 +301,7 @@
             }
             .saving-style {
                 position: absolute;
-                right: -15px;
+                right: 26px;
                 top: 65px;
                 & > img {
                     display: none;
@@ -305,7 +315,7 @@
         .pricing-header {
             .saving-style {
                 position: absolute;
-                right: 10px;
+                right: 34px;
             }
         }
     }

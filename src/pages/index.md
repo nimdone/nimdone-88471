@@ -10,7 +10,7 @@ sections:
       your next grand rounds, journal club, noon conference or any teaching
       seminar!'
     actions:
-      - label: TRY FOR FREE TODAY
+      - label: START MY FREE TRIAL
         url: '/pricing'
         style: primary
     subtitle: 

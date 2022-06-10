@@ -11,13 +11,13 @@ sections:
   - section_id: pricing
     title: Pricing Plans
     subtitle: "You will have a free 7 day period, your card will not be charged until the trial ends. Cancel anytime."
-    yearly_saving:
-      title: _save 30% yearly!_
+    annual_saving:
+      title: _save 30% on the annual plan!_
       image: images/right-arrow.webp
     background: white
     pricing_plans:
       - title: INDIVIDUALS
-        price_yearly: $ 14 / mo
+        price_annual: $ 14 / mo
         price_monthly: $ 20 / mo
 
         saving:

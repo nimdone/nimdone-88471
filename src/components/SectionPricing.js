@@ -7,13 +7,13 @@ import CtaButtons from "./CtaButtons";
 export default class SectionPricing extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { isYearly: true };
+    this.state = { isAnnual: true };
   }
 
-  toggleYearlyPackage = () => this.setState({ isYearly: !this.state.isYearly });
+  toggleAnnualPackage = () => this.setState({ isAnnual: !this.state.isAnnual });
 
   render() {
-    const { isYearly } = this.state;
+    const { isAnnual } = this.state;
     let section = _.get(this.props, "section", null);
     return (
       <section
@@ -34,33 +34,33 @@ export default class SectionPricing extends React.Component {
           <div className="toogle-btn-div">
             <label class="switch">
               <span>
-                <input type="checkbox" checked={isYearly} />
-                <span onClick={this.toggleYearlyPackage} class="slider round">
+                <input type="checkbox" checked={isAnnual} />
+                <span onClick={this.toggleAnnualPackage} class="slider round">
                   <div className="saving-style">
-                    {_.get(section, "yearly_saving", null) &&
+                    {_.get(section, "annual_saving", null) &&
                       _.get(
-                        _.get(section, "yearly_saving", null),
+                        _.get(section, "annual_saving", null),
                         "image",
                         null
                       ) && (
                         <img
                           style={{ width: "35px" }}
                           src={_.get(
-                            _.get(section, "yearly_saving", null),
+                            _.get(section, "annual_saving", null),
                             "image",
                             null
                           )}
                         />
                       )}
-                    {_.get(section, "yearly_saving", null) &&
+                    {_.get(section, "annual_saving", null) &&
                       _.get(
-                        _.get(section, "yearly_saving", null),
+                        _.get(section, "annual_saving", null),
                         "title",
                         null
                       ) &&
                       markdownify(
                         _.get(
-                          _.get(section, "yearly_saving", null),
+                          _.get(section, "annual_saving", null),
                           "title",
                           null
                         )
@@ -97,21 +97,21 @@ export default class SectionPricing extends React.Component {
                           )}
                           {_.get(
                             plan,
-                            `price_${isYearly ? "yearly" : "monthly"}`,
+                            `price_${isAnnual ? "annual" : "monthly"}`,
                             null
                           ) && (
                             <div
                               className="plan"
-                              style={{ paddingTop: !isYearly ? "33px" : "" }}
+                              style={{ paddingTop: !isAnnual ? "33px" : "" }}
                             >
                               {_.get(
                                 plan,
-                                `price_${isYearly ? "yearly" : "monthly"}`,
+                                `price_${isAnnual ? "annual" : "monthly"}`,
                                 null
                               )}
                             </div>
                           )}
-                          {isYearly &&
+                          {isAnnual &&
                             _.map(
                               _.get(plan, "saving", null),
                               (saving) =>
