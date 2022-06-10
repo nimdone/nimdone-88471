@@ -21,7 +21,7 @@ sections:
         price_monthly: $ 20 / mo
 
         saving:
-          - label: Save $72 a year
+          - label: An annual savings of $72
             show: true
         details: |
 
@@ -51,7 +51,7 @@ sections:
             url: https://app.nimdone.com/signup
       - title: INSTITUTIONS
         saving:
-          - label: Save $72 a year
+          - label: An annual savings of $72
             show: false
         details: >
           nimdone can provide volume licenses for all your students and staff.
