@@ -26,7 +26,7 @@ sections:
             show: true
         details: |
 
-          *   FREE 7-day trial
+          *   FREE 14-day trial (no credit card required)
 
           *   Create unlimited presentations
 
