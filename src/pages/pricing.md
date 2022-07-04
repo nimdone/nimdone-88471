@@ -10,7 +10,7 @@ no_index: false
 sections:
   - section_id: pricing
     title: Pricing Plans
-    subtitle: "You will have a free 14-day trial period. You will be asked to provide credit card information only if you choose to continue."
+    subtitle: "Sign up for our 14 day free trial, no credit card required."
     fineprint: "*our payments are processed by Stripe Inc"
     annual_saving:
       title: _save 30% on the annual plan!_
