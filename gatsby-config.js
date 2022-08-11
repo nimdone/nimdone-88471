@@ -1,13 +1,13 @@
-const siteMetadata = require('./site-metadata.json')
-const path = require('path')
+const siteMetadata = require("./site-metadata.json");
+const path = require("path");
 
 module.exports = {
-  pathPrefix: '/',
+  pathPrefix: "/",
   siteMetadata: siteMetadata,
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
-    'gatsby-transformer-remark',
+    "gatsby-transformer-remark",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -33,12 +33,18 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: 'images',
-        path: path.join(__dirname, 'src', 'images'),
+        name: "images",
+        path: path.join(__dirname, "src", "images"),
       },
     },
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sitemap',
+    // {
+    //   resolve: "gatsby-plugin-manifest",
+    //   options: {
+    //     icon: "src/images/favIcon.svg",
+    //   },
+    // },
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-sitemap",
   ],
-}
+};
