@@ -37,12 +37,6 @@ module.exports = {
         path: path.join(__dirname, "src", "images"),
       },
     },
-    // {
-    //   resolve: "gatsby-plugin-manifest",
-    //   options: {
-    //     icon: "src/images/favIcon.svg",
-    //   },
-    // },
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     "gatsby-plugin-sitemap",
