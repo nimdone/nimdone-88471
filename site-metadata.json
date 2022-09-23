@@ -34,7 +34,7 @@
                 "nav_links": [
                     {
                         "label": "Twitter",
-                        "url": "https://twitter.com/@nimdone_us",
+                        "url": "https://twitter.com/nimdoneglobal",
                         "style": "link",
                         "has_icon": true,
                         "icon": "twitter",
@@ -42,7 +42,7 @@
                     },
                     {
                         "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/company/nimdone",
+                        "url": "https://www.linkedin.com/company/nimdoneglobal",
                         "style": "link",
                         "has_icon": true,
                         "icon": "linkedin",
@@ -54,7 +54,15 @@
                         "has_icon": true,
                         "icon": "facebook",
                         "icon_position": "left",
-                        "url": "https://www.facebook.com/nimdone"
+                        "url": "https://www.facebook.com/nimdoneglobal/"
+                    },
+                    {
+                        "label": "Instagram",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "instagram",
+                        "icon_position": "left",
+                        "url": "https://www.instagram.com/nimdoneglobal/"
                     }
                 ]
             },
