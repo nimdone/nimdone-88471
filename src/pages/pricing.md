@@ -1,10 +1,8 @@
 ---
 title: pricing
-meta_title: Pricing plans
+meta_title: Plans & Pricing | Get Your Free Trial Now - Nimdone
 meta_description: >-
-  nimdone is a custom-built tool to make powerpoint presentations in medicine.
-  It offers a new search experience within PubMed, user can organize papers into
-  an online library and try an innovative way to design presentations
+  Make your next medical presentation stand out with our professionally designed PowerPoint templates. Our templates are easy to use and can be customized to fit your needs. Start creating presentations that will impress your audience today. Visit us to know our plans and pricing!
 canonical_url: lorem-ipsum
 no_index: false
 sections:

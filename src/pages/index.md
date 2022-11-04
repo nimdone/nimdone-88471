@@ -25,25 +25,6 @@ sections:
         content: >
           **Search PubMed and the nimdone [Chrome extension](https://chrome.google.com/webstore/detail/nimdone/cnhjemplokjcfmedeffljeljjgkdbihl) will extract the PDF avoiding multiple
           clicks**
-        actions:
-          - label: ''
-            url: lorem-ipsum
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-          - label: ''
-            url: Watch video
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
       - title: Library
         content: >
           **Organize your papers into folders and maintain a library that can be
@@ -85,10 +66,8 @@ sections:
     type: section_posts
     background: gray
     title: Research
-meta_title: 'nimdone: Innovative way to search pubmed and make powerpoint presentations'
+meta_title: 'Nimdone - Make PowerPoint Medical Presentation & PPT Templates'
 meta_description: >-
-  nimdone is a custom-built tool to make powerpoint presentations in medicine.
-  It offers a new search experience within PubMed, user can organize papers into
-  an online library and try an innovative way to design presentations
+  Nimdone is a platform where you can make medical PowerPoint presentation templates. We offer animated medical, doctor, healthcare, and hospital PowerPoint and ppt templates. You can get a new search experience within PubMed and makes your own professional-looking PowerPoint medical presentation templates.
 template: landing
 ---

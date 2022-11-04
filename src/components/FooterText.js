@@ -10,9 +10,9 @@ export default class FooterText extends React.Component {
             <section className="cell widget widget-text">
               {_.get(section, 'image', null) && (
                 _.get(section, 'image_url', null) ? (
-                <Link className="widget-image" to={withPrefix(_.get(section, 'image_url', null))}><img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} /></Link>
+                <Link className="widget-image" to={withPrefix(_.get(section, 'image_url', null))}><img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} title={_.get(section, 'image_title', null)} /></Link>
                 ) : 
-                <p className="widget-image"><img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} /></p>
+                <p className="widget-image"><img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} title={_.get(section, 'image_title', null)} /></p>
               )}
               {_.get(section, 'title', null) && (
               <h2 className="widget-title">{_.get(section, 'title', null)}</h2>
