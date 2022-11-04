@@ -17,7 +17,8 @@
                 "no_follow": false
             }
         ],
-        "logo_img_alt": "nimdone"
+        "logo_img_alt": "nimdone",
+        "logo_img_title":"nimdone"
     },
     "footer": {
         "sections": [
@@ -26,6 +27,7 @@
                 "image": "images/nimdone-logo-dark.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
+                "image_title":"Footer logo",
                 "content": ""
             },
             {

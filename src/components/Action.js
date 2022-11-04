@@ -22,6 +22,8 @@ export default class Action extends React.Component {
       return _.get(action, "external_link", null);
     };
 
+      console.log("eeeeee"+getLink());
+      
     return (
       <Link
         to={getLink()}

@@ -9,7 +9,7 @@ export default class FooterNav extends React.Component {
         return (
             <section className="cell widget widget-nav">
               {_.get(section, 'title', null) && (
-              <h2 className="widget-title">{_.get(section, 'title', null)}</h2>
+              <h3 className="widget-title">{_.get(section, 'title', null)}</h3>
               )}
               {_.get(section, 'nav_links', null) && (
               <ul className="menu">

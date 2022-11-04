@@ -1,7 +1,6 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import _ from 'lodash'
-
 import { withPrefix } from '../utils'
 import '../sass/main.scss'
 import Header from './Header'
@@ -23,12 +22,14 @@ export default class Body extends React.Component {
       _.get(this.props, 'pageContext.site.siteMetadata.domain', null),
       '/'
     )
-    const imagePath = `https://${domain}/images/logo_4.jpg`
+    const imagePath = `https://${domain}/images/Frame%20241.svg`
     const description = _.get(
       this.props,
       'pageContext.frontmatter.meta_description',
       null
     )
+    console.log(domain+_.get(this.props, "pageContext.url", null));
+        
     return (
       <React.Fragment>
         <Helmet>
@@ -38,12 +39,32 @@ export default class Body extends React.Component {
             name="viewport"
             content="width=device-width, initialScale=1.0"
           />
+
+          {/* for google */}
           <meta name="google" content="notranslate" />
           <meta name="description" content={description} />
+
+          {/* for twitter */}
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:description" content={description}/>
+          <meta name="twitter:title" content={title}/>
+
+          {/* open graph editing starts here */}
+          <meta property="og:locale" content="en_US" />
+          <meta property="og:type" content="website" />
+          <meta property="og:site_name" content="nimdone" />
+          <meta property="og:url" content={domain+_.get(this.props, "pageContext.url", null)}/>
+
+
           <meta name="og:title" content={title} />
           <meta name="og:image" content={imagePath} />
           <meta name="og:description" content={description} />
+
+
+          {/* href lang  */}
+          <link rel="alternate" href=" https://www.nimdone.com/" hreflang="en-us" />
           {_.get(this.props, 'pageContext.frontmatter.canonical_url', null) ? (
+            
             <link
               rel="canonical"
               href={_.get(
@@ -52,6 +73,7 @@ export default class Body extends React.Component {
                 null
               )}
             />
+            
           ) : (
             _.get(this.props, 'pageContext.site.siteMetadata.domain', null) &&
             (() => {

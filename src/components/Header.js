@@ -50,6 +50,11 @@ export default class Header extends React.Component {
                         "pageContext.site.siteMetadata.header.logo_img_alt",
                         null
                       )}
+                      title={_.get(
+                        this.props,
+                        "pageContext.site.siteMetadata.header.logo_img_title",
+                        null
+                      )}
                     />
                   </Link>
                 </p>

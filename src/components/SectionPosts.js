@@ -51,6 +51,7 @@ export default class SectionPosts extends React.Component {
                           _.get(post, 'frontmatter.thumb_image', null)
                         )}
                         alt={_.get(post, 'frontmatter.thumb_image_alt', null)}
+                        title={_.get(post, 'frontmatter.thumb_image_title', null)}
                       />
                     </Link>
                   )}
