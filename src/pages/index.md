@@ -43,7 +43,7 @@ sections:
             style: primary
       - title: Maintain a library
         content: >
-          **Organize your papers PDFs into folders and maintain a library that can be
+          **Upload your paper PDFs into folders and maintain a library that can be
           accessed anytime and from anywhere.**
         actions:
           - label: GET STARTED
