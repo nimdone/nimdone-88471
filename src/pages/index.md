@@ -22,40 +22,51 @@ sections:
     subtitle: ""
     features:
       - title: Focus on content
-        video: "https://nimdone.s3-us-west-1.amazonaws.com/reader-and-outline-view.mp4"
+        video: "https://nimdone-marketing-videos.s3.amazonaws.com/reader-and-outline-view.mp4"
         content: >
-          **Seamless switching between PDFs associated with a project. Highlight
-          the text, image or table on the PDF and nimdone will import it on to
-          the slide outline along with the citation**
+          **Collect your content as you read. Snip text, images or tables on the PDF and nimdone will import it on to the project outline along with the citation.**
         actions:
           - label: GET STARTED
             url: "https://app.nimdone.com/signup"
             style: primary
-      - title: No more formatting
-        video: "https://nimdone.s3-us-west-1.amazonaws.com/slide-view.mp4"
+      - title: Simplify formatting
+        video: "https://nimdone-marketing-videos.s3.amazonaws.com/slide-view.mp4"
         image_alt: App user profile preview
         content: >
-          **With a single click, the outline is  autoarranged into an organized
-          presentation that can be exported as a PowerPoint**
+          **With a single click, the project outline is autoarranged into an organized slides that can be exported as a PowerPoint presentation.**
         actions:
           - label: GET STARTED
             url: "https://app.nimdone.com/signup"
             style: primary
       - title: Maintain a library
         content: >
-          **Upload your paper PDFs into folders and maintain a library that can be
-          accessed anytime and from anywhere.**
+          **Upload your paper PDFs into project folders and maintain a library that can be accessed anytime and from anywhere.**
         actions:
           - label: GET STARTED
             url: "https://app.nimdone.com/signup"
             style: primary
         type: feature_item
-        video: "https://nimdone.s3-us-west-1.amazonaws.com/pubmed-organize.mp4"
-      - title: 1-click to PDF
-        video: "https://nimdone.s3-us-west-1.amazonaws.com/pubmed-saved.mp4"
+        video: "https://nimdone-marketing-videos.s3.amazonaws.com/pubmed-organize.mp4"
+      - title: Pick your style
+        video: "https://nimdone-marketing-videos.s3.amazonaws.com/citation-styles.mov"
         content: >
-          **Search PubMed and the nimdone [Chrome extension](https://chrome.google.com/webstore/detail/nimdone/cnhjemplokjcfmedeffljeljjgkdbihl) will extract the PDF avoiding multiple
-          clicks**
+          **Pick from over 2000 citation styles. Generate your bibliography just the way you like it. Whether it's MLA, APA or Chicago styles, we have you covered.**
+        actions:
+          - label: GET STARTED
+            url: "https://app.nimdone.com/signup"
+            style: primary
+      - title: Custom themes
+        video: "https://nimdone-marketing-videos.s3.amazonaws.com/themes_small.m4v"
+        content: >
+          **We have a few themes to get you started. Send us your brand/company/institutional theme and we'll get them added.**
+        actions:
+          - label: GET STARTED
+            url: "https://app.nimdone.com/signup"
+            style: primary
+      - title: 1-click to PDF
+        video: "https://nimdone-marketing-videos.s3.amazonaws.com/pubmed-saved.mp4"
+        content: >
+          **Optionally use the nimdone [Chrome extension](https://chrome.google.com/webstore/detail/nimdone/cnhjemplokjcfmedeffljeljjgkdbihl) while you search PubMed and we will extract the PDF avoiding multiple clicks.**
         actions:
           - label: GET STARTED
             url: "https://app.nimdone.com/signup"
