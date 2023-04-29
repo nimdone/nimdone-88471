@@ -16,11 +16,11 @@ sections:
     background: white
     pricing_plans:
       - title: INDIVIDUALS
-        price_annual: $ 14 / mo
-        price_monthly: $ 20 / mo
+        price_annual: $ 7 / mo
+        price_monthly: $ 10 / mo
 
         saving:
-          - label: An annual savings of $72
+          - label: An annual savings of $36
             show: true
         details: |
 
@@ -49,9 +49,6 @@ sections:
             no_follow: false
             url: https://app.nimdone.com/signup
       - title: INSTITUTIONS
-        saving:
-          - label: An annual savings of $72
-            show: false
         details: >
           nimdone can provide volume licenses for all your students and staff.
           Get in touch for details.
