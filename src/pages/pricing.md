@@ -40,9 +40,9 @@ sections:
             has_icon: false
             icon: arrow-left
             icon_position: left
-            new_window: true
+            new_window: false
             no_follow: false
-            url: https://app.nimdone.com/download
+            url: /desktop
       - title: CLOUD
         price_annual: $ 7 / mo
         price_monthly: $ 10 / mo
