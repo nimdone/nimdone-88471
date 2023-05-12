@@ -36,45 +36,6 @@ export default class SectionPricing extends React.Component {
             </p>
           )}
           {/* <div> */}
-          <div className="toogle-btn-div">
-            <label class="switch">
-              <span>
-                <input type="checkbox" checked={isAnnual} />
-                <span onClick={this.toggleAnnualPackage} class="slider round">
-                  <div className="saving-style">
-                    {_.get(section, "annual_saving", null) &&
-                      _.get(
-                        _.get(section, "annual_saving", null),
-                        "image",
-                        null
-                      ) && (
-                        <img
-                          style={{ width: "35px" }}
-                          src={_.get(
-                            _.get(section, "annual_saving", null),
-                            "image",
-                            null
-                          )}
-                        />
-                      )}
-                    {_.get(section, "annual_saving", null) &&
-                      _.get(
-                        _.get(section, "annual_saving", null),
-                        "title",
-                        null
-                      ) &&
-                      markdownify(
-                        _.get(
-                          _.get(section, "annual_saving", null),
-                          "title",
-                          null
-                        )
-                      )}
-                  </div>
-                </span>
-              </span>
-            </label>
-          </div>
 
           {/* </div> */}
           {_.get(section, "pricing_plans", null) && (
@@ -100,11 +61,7 @@ export default class SectionPricing extends React.Component {
                               {_.get(plan, "subtitle", null)}
                             </div>
                           )}
-                          {_.get(
-                            plan,
-                            `price_${isAnnual ? "annual" : "monthly"}`,
-                            null
-                          ) && (
+                          {_.get(plan, "saas", null) && (
                             <div
                               className="plan"
                               style={{ paddingTop: !isAnnual ? "33px" : "" }}
@@ -116,17 +73,45 @@ export default class SectionPricing extends React.Component {
                               )}
                             </div>
                           )}
+                          {!_.get(plan, "saas", null) && (
+                            <div className="plan" style={{ paddingTop: "" }}>
+                              {_.get(plan, "price_annual", null)}
+                            </div>
+                          )}
                           {isAnnual &&
                             _.map(
                               _.get(plan, "saving", null),
                               (saving) =>
-                                saving.show && (
+                                saving.show &&
+                                isAnnual && (
                                   <div className="plan-price">
                                     {_.get(saving, "label", null)}
                                   </div>
                                 )
                             )}
+                          {_.get(plan, "saas", null) && !isAnnual && (
+                            <div className="plan-price">
+                              {_.get(
+                                _.get(section, "annual_saving", null),
+                                "title",
+                                null
+                              )}
+                            </div>
+                          )}
                         </div>
+                        {_.get(plan, "saas", null) && (
+                          <div className="toogle-btn-div">
+                            <label class="switch">
+                              <span>
+                                <input type="checkbox" checked={isAnnual} />
+                                <span
+                                  onClick={this.toggleAnnualPackage}
+                                  class="slider round"
+                                />
+                              </span>
+                            </label>
+                          </div>
+                        )}
                         {_.get(plan, "actions", null) &&
                           !_.get(plan, "institution", null) && (
                             <div className="plan-footer block-buttons">

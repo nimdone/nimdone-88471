@@ -50,7 +50,7 @@
         .toogle-btn-div {
             height: 38px;
             position: relative;
-            margin: 38px 0px;
+            margin: 14px 0px;
             display: flex;
             justify-content: center;
             .switch {
@@ -81,7 +81,7 @@
                     bottom: 4px;
                     background: #ffffff;
                     border-radius: 64px;
-                    width: 120px;
+                    width: 80px;
                     height: 36px;
                     padding: 7px 26px;
                     -webkit-transition: 0.4s;
@@ -150,7 +150,7 @@
                 }
             }
             .slider.round {
-                width: 258px;
+                width: 220px;
                 height: 42px;
                 background: #20828a;
                 border-radius: 33px;
@@ -162,14 +162,15 @@
             .cell.plan {
                 position: relative;
                 z-index: 2;
-                right: -23px;
+                // right: -23px;
                 margin-bottom: 96px;
-                &:nth-child(even) {
+                // Institutional Plan
+                &:last-child {
                     height: 400px;
-                    position: absolute;
                     position: relative;
-                    top: 100px;
-                    left: -23px;
+                    margin-bottom: 96px;
+                    // top: 100px;
+                    // left: -23px;
                     z-index: 1;
                     .card {
                         background: #f9f9fa;
@@ -177,6 +178,16 @@
                         border-radius: 0px 4px 4px 0px;
                         padding: 70px 75px;
                     }
+                }
+                // Desktop Plan
+                &:first-child {
+                    height: 570px;
+                    position: relative;
+                    margin-bottom: 96px;
+                    // top: 100px;
+                    //left: -23px;
+                    z-index: 1;
+                    
                 }
                 .plan-header {
                     h3 {
@@ -212,6 +223,9 @@
 
                         color: #52575c;
                     }
+                }
+                .plan-footer {
+                    margin-top: 0px;
                 }
                 .plan-content {
                     ul {
@@ -258,68 +272,68 @@
         padding: 130px 16px;
     }
 }
-@media screen and (max-width: 869px) {
-    .pricing-section {
-        padding: 0%;
-        .pricing-header {
-            .inner {
-                margin-top: 115px;
+// @media screen and (max-width: 869px) {
+//     .pricing-section {
+//         padding: 0%;
+//         .pricing-header {
+//             .inner {
+//                 margin-top: 115px;
 
-                position: static;
-                .cell.plan {
-                    position: static;
-                    margin-bottom: 16px;
-                    &:nth-child(even) {
-                        height: 400px;
-                        position: static;
-                    }
-                }
-            }
-            .saving-style {
-                position: absolute;
-                right: 26px;
-                top: 65px;
-                & > img {
-                    display: none;
-                }
-            }
-        }
-    }
-}
+//                 position: static;
+//                 .cell.plan {
+//                     position: static;
+//                     margin-bottom: 16px;
+//                     // &:nth-child(even) {
+//                     //     height: 400px;
+//                     //     position: static;
+//                     // }
+//                 }
+//             }
+//             .saving-style {
+//                 position: absolute;
+//                 right: 26px;
+//                 top: 65px;
+//                 & > img {
+//                     display: none;
+//                 }
+//             }
+//         }
+//     }
+// }
 
-@media screen and (max-width: 768px) {
-    .pricing-section {
-        padding: 0%;
-        .pricing-header {
-            .inner {
-                margin-top: 115px;
+// @media screen and (max-width: 768px) {
+//     .pricing-section {
+//         padding: 0%;
+//         .pricing-header {
+//             .inner {
+//                 margin-top: 115px;
 
-                .cell.plan {
-                    position: static;
-                    &:nth-child(even) {
-                        height: 400px;
-                        position: static;
-                    }
-                }
-            }
-            .saving-style {
-                position: absolute;
-                right: 26px;
-                top: 65px;
-                & > img {
-                    display: none;
-                }
-            }
-        }
-    }
-}
-@media screen and (max-width: 480px) {
-    .pricing-section {
-        .pricing-header {
-            .saving-style {
-                position: absolute;
-                right: 34px;
-            }
-        }
-    }
-}
+//                 .cell.plan {
+//                     position: static;
+//                     // &:nth-child(even) {
+//                     //     height: 400px;
+//                     //     position: static;
+//                     // }
+//                 }
+//             }
+//             .saving-style {
+//                 position: absolute;
+//                 right: 26px;
+//                 top: 65px;
+//                 & > img {
+//                     display: none;
+//                 }
+//             }
+//         }
+//     }
+// }
+// @media screen and (max-width: 480px) {
+//     .pricing-section {
+//         .pricing-header {
+//             .saving-style {
+//                 position: absolute;
+//                 right: 34px;
+//             }
+//         }
+//     }
+// }

@@ -1,120 +1,130 @@
 {
-    "base_font": "nunito-sans",
-    "palette": "cyan",
-    "siteUrl": "https://www.nimdone.com",
-    "header": {
-        "logo_img": "images/Frame 241.svg",
-        "has_nav": true,
+  "base_font": "nunito-sans",
+  "palette": "cyan",
+  "siteUrl": "https://www.nimdone.com",
+  "header": {
+    "logo_img": "images/Frame 241.svg",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "label": "Desktop",
+        "url": "/desktop",
+        "style": "link",
+        "has_icon": false,
+        "icon": "arrow-left",
+        "icon_position": "left",
+        "new_window": false,
+        "no_follow": false
+      },
+      {
+        "label": "Pricing",
+        "url": "/pricing",
+        "style": "link",
+        "has_icon": false,
+        "icon": "arrow-left",
+        "icon_position": "left",
+        "new_window": false,
+        "no_follow": false
+      }
+    ],
+    "logo_img_alt": "nimdone",
+    "logo_img_title": "nimdone"
+  },
+  "footer": {
+    "sections": [
+      {
+        "type": "footer_text",
+        "image": "images/nimdone-logo-dark.png",
+        "image_url": "/",
+        "image_alt": "Footer logo",
+        "image_title": "Footer logo",
+        "content": ""
+      },
+      {
+        "type": "footer_nav",
+        "title": "Community",
         "nav_links": [
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": false,
-                "no_follow": false
-            }
-        ],
-        "logo_img_alt": "nimdone",
-        "logo_img_title":"nimdone"
-    },
-    "footer": {
-        "sections": [
-            {
-                "type": "footer_text",
-                "image": "images/nimdone-logo-dark.png",
-                "image_url": "/",
-                "image_alt": "Footer logo",
-                "image_title":"Footer logo",
-                "content": ""
-            },
-            {
-                "type": "footer_nav",
-                "title": "Community",
-                "nav_links": [
-                    {
-                        "label": "Twitter",
-                        "url": "https://twitter.com/nimdoneglobal",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "twitter",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/company/nimdoneglobal",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "linkedin",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "Facebook",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "facebook",
-                        "icon_position": "left",
-                        "url": "https://www.facebook.com/nimdoneglobal/"
-                    },
-                    {
-                        "label": "Instagram",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "instagram",
-                        "icon_position": "left",
-                        "url": "https://www.instagram.com/nimdoneglobal/"
-                    }
-                ]
-            },
-            {
-                "type": "footer_nav",
-                "title": "Contact",
-                "nav_links": [
-                    {
-                        "label": "hello@nimdone.com",
-                        "external_link": "mailto:hello@nimdone.com",
-                        "style": "link",
-                        "no_follow": false,
-                        "has_icon": false,
-                        "new_window": false
-                    }
-                ]
-            },
-            {
-                "type": "footer_form",
-                "title": "Get Updates",
-                "content": "Be the first to know about new features \n",
-                "form_id": "contactForm",
-                "hide_labels": true,
-                "form_fields": [
-                    {
-                        "input_type": "email",
-                        "name": "EMAIL",
-                        "label": "Email",
-                        "default_value": "Enter email address",
-                        "is_required": true
-                    }
-                ],
-                "submit_label": "Let Me Know",
-                "form_action": "https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe"
-            }
-        ],
-        "has_nav": true,
+          {
+            "label": "Twitter",
+            "url": "https://twitter.com/nimdoneglobal",
+            "style": "link",
+            "has_icon": true,
+            "icon": "twitter",
+            "icon_position": "left"
+          },
+          {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/company/nimdoneglobal",
+            "style": "link",
+            "has_icon": true,
+            "icon": "linkedin",
+            "icon_position": "left"
+          },
+          {
+            "label": "Facebook",
+            "style": "link",
+            "has_icon": true,
+            "icon": "facebook",
+            "icon_position": "left",
+            "url": "https://www.facebook.com/nimdoneglobal/"
+          },
+          {
+            "label": "Instagram",
+            "style": "link",
+            "has_icon": true,
+            "icon": "instagram",
+            "icon_position": "left",
+            "url": "https://www.instagram.com/nimdoneglobal/"
+          }
+        ]
+      },
+      {
+        "type": "footer_nav",
+        "title": "Contact",
         "nav_links": [
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            },
-            {
-                "style": "link"
-            }
+          {
+            "label": "hello@nimdone.com",
+            "external_link": "mailto:hello@nimdone.com",
+            "style": "link",
+            "no_follow": false,
+            "has_icon": false,
+            "new_window": false
+          }
+        ]
+      },
+      {
+        "type": "footer_form",
+        "title": "Get Updates",
+        "content": "Be the first to know about new features \n",
+        "form_id": "contactForm",
+        "hide_labels": true,
+        "form_fields": [
+          {
+            "input_type": "email",
+            "name": "EMAIL",
+            "label": "Email",
+            "default_value": "Enter email address",
+            "is_required": true
+          }
         ],
-        "content": "Copyright © 2021 nimdone, Inc. All rights reserved."
-    },
-    "title": "nimdone | Make Medical Presentations Online",
-    "domain": "www.nimdone.com",
-    "favicon": "images/favicon.png"
+        "submit_label": "Let Me Know",
+        "form_action": "https://mail.nimdone.com/index.php/lists/ay809zc3hn593/subscribe"
+      }
+    ],
+    "has_nav": true,
+    "nav_links": [
+      {
+        "label": "Privacy Policy",
+        "url": "/privacy-policy",
+        "style": "link"
+      },
+      {
+        "style": "link"
+      }
+    ],
+    "content": "Copyright © 2021 nimdone, Inc. All rights reserved."
+  },
+  "title": "nimdone | Make Medical Presentations Online",
+  "domain": "www.nimdone.com",
+  "favicon": "images/favicon.png"
 }

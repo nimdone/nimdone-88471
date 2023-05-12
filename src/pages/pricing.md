@@ -8,17 +8,44 @@ no_index: false
 sections:
   - section_id: pricing
     title: Pricing Plans
-    subtitle: "Sign up for our 14 day free trial, no credit card required."
+    # subtitle: "Sign up for our 14 day free trial, no credit card required."
     fineprint: "*our payments are processed by Stripe Inc"
     annual_saving:
-      title: _save 30% on the annual plan!_
-      image: images/right-arrow.webp
+      title: Save 30% on the annual!
     background: white
     pricing_plans:
-      - title: INDIVIDUALS
+      - title: DESKTOP
+        price_annual: $ 149
+        subtitle: Download the software and only pay once.
+        details: |
+          *   Create unlimited presentations
+
+          *   1-click access to PDFs on PubMed
+
+          *   Built-in snipping tool
+
+          *   Automatically generate citations
+
+          *   Easily export to PowerPoint
+
+          *   Organize your PDF library
+
+          *   30-day Support
+        highlight: false
+        institution: false
+        saas: false
+        actions:
+          - label: SIGN ME UP
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: true
+            no_follow: false
+            url: https://app.nimdone.com/download
+      - title: CLOUD
         price_annual: $ 7 / mo
         price_monthly: $ 10 / mo
-
         saving:
           - label: An annual savings of $36
             show: true
@@ -37,8 +64,13 @@ sections:
           *   Easily export to PowerPoint
 
           *   Organize your PDF library
+
+          *   Ongoing Support
+
+          *   Feature Updates
         highlight: true
         institution: false
+        saas: true
         actions:
           - label: START MY FREE TRIAL
             style: primary
@@ -54,6 +86,7 @@ sections:
           Get in touch for details.
         highlight: false
         institution: true
+        saas: false
         actions:
           - label: CONTACT SALES
             style: primary
